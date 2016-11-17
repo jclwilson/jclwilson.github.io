@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<article class="post">
+    <header class="page__header">
+        <h1 class="post__title">
+            <a href="{{ page.url }}" class="post__link">{{ page.title }}</a>
+        </h1>
+    </header>
+    <section class="post__content">
+        {% if page.image %}
+            {% include page_image.html %}
+        {% endif %}
+        {{ page.content }}
+    </section>
+</article>

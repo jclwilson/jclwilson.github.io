@@ -1,0 +1,11 @@
+_site
+.jekyll-metadata
+_drafts
+node_modules
+vendor
+!vendor/
+!vendor/*/
+!vendor/*/dist
+vendor/*/*/*.js
+!/vendor/reframe.js/dist/reframe.min.js
+!/vendor/sw-offline-google-analytics/offline-google-analytics-import.js

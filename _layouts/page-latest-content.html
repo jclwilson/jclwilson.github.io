@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<article class="post">
+    <header class="page__header">
+        <h1 class="post__title">
+            <a href="{{ page.url }}" class="post__link">{{ page.title }}</a>
+        </h1>
+    </header>
+    <section class="post__content">
+        {% if page.image %}
+            {% include page_image.html %}
+        {% endif %}
+        {{ page.content }}
+    </section>
+</article>
+<section class="latest-posts">
+    <h1 class="latest-posts__title"><span class="underline">Latest posts</span></h1>
+    <ul class="index">
+        {% for page in site.posts limit: 5 %}
+            <li class="index__item">
+                <article class="post__header">
+                    {% include post_header.html %}
+                </article>
+            </li>
+        {% endfor %}
+    </ul>
+</section>

@@ -1,0 +1,107 @@
+/* latin */
+@font-face {
+    font-family: 'Droid Serif';
+    src: local('Droid Serif'), local('DroidSerif'), url(https://fonts.gstatic.com/s/droidserif/v6/0AKsP294HTD-nvJgucYTaI4P5ICox8Kq3LLUNMylGO4.woff2) format('woff2');
+}
+/* latin */
+@font-face {
+    font-family: 'Work Sans';
+    src: local('Work Sans'), local('WorkSans-Regular'), url(https://fonts.gstatic.com/s/worksans/v2/ElUAY9q6T0Ayx4zWzW63VFtXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+}
+
+/* Modified Meyer Reset */ html, body, cite, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video { margin: 0; padding: 0; border: 0; font-size: 100%; vertical-align: inherit; color: #42449d; background-color: #fcf8ec; font-style: normal;} /* HTML5 display-role reset for older browsers */ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {display: block;} table {border-collapse: collapse;border-spacing: 0;}
+
+/* BEM CSS below */
+
+::selection {
+    background: #42449d;
+    color: #fcf8ec;
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-size: 1.5em;
+    line-height: 1.4;
+    display:flex;
+    flex-direction: column;
+    font-family: 'Droid Serif', 'Georgia', serif;
+    margin: 0 5%;
+    width: 90%;
+}
+
+h1, h2, h3, h4, h5, h6, a, em, cite, i, figcaption {
+    font-family: 'Work Sans', 'Helvetica', 'Arial', sans-serif;
+    font-weight:normal;
+}
+
+.underline, a {
+    text-decoration: none;
+    text-shadow: 2px 2px 0 #FCF8EC, -3px 3px 0 #FCF8EC, 3px 0 0 #FCF8EC, -3px 0 0 #FCF8EC, 0 3px 0 #FCF8EC, 0 -3px 0 #FCF8EC;
+    box-shadow: inset 0 -0.1em 0 0 #42449D, inset 0 -0.1em 0 0 #42449D;
+}
+
+blockquote {margin-left:2em;}
+blockquote {quotes: "\201C""\201D";}
+q {quotes: "\2018""\2019"}
+blockquote:before, q:before {content: open-quote; font-size: inherit;  position: relative; }
+blockquote:after, q:after {content: close-quote; font-size: inherit; position: relative;}
+
+ul, ol {
+    margin-left: 1em;
+    padding-left: 1em;
+}
+
+figure {
+    background-color: #42449d;
+}
+
+figure img {
+    mix-blend-mode: lighten;
+    display: block;
+    width:100%;
+}
+
+figcaption {
+    text-align: end;
+}
+
+.header, .post__header, .page__header, .index__item, .post__content, .post__content p, .post__content blockquote, ul li, ol li, figure, .latest-posts__title {margin-bottom:1em;}
+
+.header__title, .header__tagline, .post__title {display: inline;}
+
+.index {list-style-type: none; margin:0; padding: 0;}
+
+.post__published:before {content:' - '; font-size: inherit;}
+
+.page__header {display:none;}
+
+@media screen and (min-width: 30em) {
+    body {
+        font-size:2em;
+    }
+}
+
+@media screen and (min-width: 60em) {
+    body {
+        font-size:3em;
+        transition: font-size 0.3s ease;
+    }
+    .post__header {
+        display: flex;
+        justify-content: space-between;
+    }
+    .post__header-wrap {flex:1; max-width: 70%;}
+    .post__published:before {content:none;}
+    .post__carousel {display:flex; flex-direction: row-reverse; justify-content: space-between; flex-wrap: wrap;}
+    .post__lead {width: 29vw;}
+    .post__lead:not(:first-child) {margin-left:1vw;}
+}
+}

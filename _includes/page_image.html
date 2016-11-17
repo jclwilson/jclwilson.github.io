@@ -1,0 +1,10 @@
+<div class="post__carousel">
+    <figure class="post__lead">
+        {% if page.image_link %}<a href="{{ image_link }}">{% endif %}
+            <img src="{{ page.image }}" class="post__image"/>
+        {% if page.image_link %}</a>{% endif %}
+        {% if page.image_caption %}
+            <figcaption class="post__image-caption">{{ page.image_caption }}</figcaption>
+        {% endif %}
+    </figure>
+</div>
