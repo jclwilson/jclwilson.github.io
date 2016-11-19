@@ -1,13 +1,13 @@
 ---
 layout: null
 ---
-var CACHE_VERSION = 'jclwilson-v1';
+var CACHE_VERSION = 'jclwilson-v2';
 var CACHE_FILES = [
     '/',
     '/404',
     '/offline',
     '/work',
-    '/vendor/reframe.js/dist/reframe.min.js',
+    '/node_modules/reframe.js/dist/reframe.min.js',
     'https://fonts.gstatic.com/s/worksans/v2/ElUAY9q6T0Ayx4zWzW63VFtXRa8TVwTICgirnJhmVJw.woff2',
     'https://fonts.gstatic.com/s/droidserif/v6/0AKsP294HTD-nvJgucYTaI4P5ICox8Kq3LLUNMylGO4.woff2'
 ];
