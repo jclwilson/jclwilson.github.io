@@ -1,16 +1,6 @@
 ---
 layout: null
 ---
-// Place first
-// First, import the library into the service worker global scope:
-importScripts('vendor/sw-offline-google-analytics/offline-google-analytics-import.js');
-// Then, call goog.offlineGoogleAnalytics.initialize():
-// See https://github.com/GoogleChrome/sw-helpers/tree/master/projects/sw-offline-google-analytics#googofflinegoogleanalyticsinitialize
-goog.offlineGoogleAnalytics.initialize();
-
-// At this point, implement any other service worker caching strategies
-// appropriate for your web app.
-
 var CACHE_VERSION = 'jclwilson-v1';
 var CACHE_FILES = [
     '/',
@@ -49,6 +39,14 @@ self.addEventListener('activate', function (event) {
         })
     )
 });
+
+// First, import the library into the service worker global scope:
+importScripts('vendor/sw-offline-google-analytics/offline-google-analytics-import.js');
+// Then, call goog.offlineGoogleAnalytics.initialize():
+// See https://github.com/GoogleChrome/sw-helpers/tree/master/projects/sw-offline-google-analytics#googofflinegoogleanalyticsinitialize
+goog.offlineGoogleAnalytics.initialize();
+// At this point, implement any other service worker caching strategies
+// appropriate for your web app.
 
 self.addEventListener('fetch', function(event) {
   event.respondWith(
