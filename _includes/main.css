@@ -99,7 +99,7 @@ figcaption {
         display: flex;
         justify-content: space-between;
     }
-    .post__header-wrap {flex:1; max-width: 70%;}
+    .post__header-wrap {flex:1;}
     .post__published:before {content:none;}
     .post__carousel {display:flex; flex-direction: row-reverse; justify-content: space-between; flex-wrap: wrap;}
     .post__lead {width: 29vw;}
