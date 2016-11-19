@@ -35,7 +35,8 @@ body {
     flex-direction: column;
     font-family: 'Droid Serif', 'Georgia', serif;
     margin: 0 5%;
-    width: 90%;
+  	width: 90%;
+  	word-break: break-all;
 }
 
 h1, h2, h3, h4, h5, h6, a, em, cite, i, figcaption {
