@@ -1,7 +1,7 @@
 ---
 layout: null
 ---
-var CACHE_VERSION = 'jclwilson-v2';
+var CACHE_VERSION = 'jclwilson-v3';
 var CACHE_FILES = [
     '/',
     '/404',
