@@ -4,7 +4,9 @@
   "description": "Personal blog of @jclwilson",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "cp -r node_modules/* assets/",
+    "postupdate": "cp -r node_modules/* assets/"
   },
   "repository": {
     "type": "git",

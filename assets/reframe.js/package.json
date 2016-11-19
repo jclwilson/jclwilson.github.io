@@ -2,18 +2,18 @@
   "_args": [
     [
       {
-        "raw": "reframe.js",
+        "raw": "reframe.js@^0.3.7",
         "scope": null,
         "escapedName": "reframe.js",
         "name": "reframe.js",
-        "rawSpec": "",
-        "spec": "latest",
-        "type": "tag"
+        "rawSpec": "^0.3.7",
+        "spec": ">=0.3.7 <0.4.0",
+        "type": "range"
       },
       "/home/jacob/Projects/jclwilson.github.io"
     ]
   ],
-  "_from": "reframe.js@latest",
+  "_from": "reframe.js@>=0.3.7 <0.4.0",
   "_id": "reframe.js@0.3.7",
   "_inCache": true,
   "_location": "/reframe.js",
@@ -29,22 +29,21 @@
   "_npmVersion": "3.10.3",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "reframe.js",
+    "raw": "reframe.js@^0.3.7",
     "scope": null,
     "escapedName": "reframe.js",
     "name": "reframe.js",
-    "rawSpec": "",
-    "spec": "latest",
-    "type": "tag"
+    "rawSpec": "^0.3.7",
+    "spec": ">=0.3.7 <0.4.0",
+    "type": "range"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/reframe.js/-/reframe.js-0.3.7.tgz",
   "_shasum": "5b0d81c04f6ea845384894c876af3c44784b07b8",
   "_shrinkwrap": null,
-  "_spec": "reframe.js",
+  "_spec": "reframe.js@^0.3.7",
   "_where": "/home/jacob/Projects/jclwilson.github.io",
   "author": {
     "name": "Jeff Wainwright",

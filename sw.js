@@ -41,7 +41,7 @@ self.addEventListener('activate', function (event) {
 });
 
 // First, import the library into the service worker global scope:
-importScripts('vendor/sw-offline-google-analytics/offline-google-analytics-import.js');
+importScripts('assets/sw-offline-google-analytics/offline-google-analytics-import.js');
 // Then, call goog.offlineGoogleAnalytics.initialize():
 // See https://github.com/GoogleChrome/sw-helpers/tree/master/projects/sw-offline-google-analytics#googofflinegoogleanalyticsinitialize
 goog.offlineGoogleAnalytics.initialize();
