@@ -34,7 +34,7 @@ body {
     display:flex;
     flex-direction: column;
     font-family: 'Droid Serif', 'Georgia', serif;
-    margin: 0 5%;
+    margin: 1em 5% 0 5%;
     width: 90%;
 }
 
