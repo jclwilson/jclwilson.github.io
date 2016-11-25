@@ -1,12 +1,7 @@
-/* latin */
-
 @font-face {
     font-family: 'Droid Serif';
     src: local('Droid Serif'), local('DroidSerif'), url(https://fonts.gstatic.com/s/droidserif/v6/0AKsP294HTD-nvJgucYTaI4P5ICox8Kq3LLUNMylGO4.woff2) format('woff2');
 }
-
-
-/* latin */
 
 @font-face {
     font-family: 'Work Sans';
@@ -16,26 +11,11 @@
 
 /* Modified Meyer Reset */
 
-html, body, cite, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
-    margin: 0;
-    padding: 0;
-    color: #42449d;
+html, body, cite, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, cite, code, del, dfn, em, img, ins, q, s, small, strike, strong, sub, sup, ol, ul, li, caption, article, aside, canvas, details, embed, figure, figcaption, footer, header, nav, section, time, mark, audio, video {
     border: 0;
+    color: #42449d;
     font-size: 100%;
-    vertical-align: inherit;
     font-style: normal;
-}
-
-
-/* HTML5 display-role reset for older browsers */
-
-article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
-    display: block;
-}
-
-table {
-    border-collapse: collapse;
-    border-spacing: 0;
 }
 
 
