@@ -4,7 +4,7 @@ title: "Cheng Xinhao: The Naming of a River"
 image: assets/cheng-xinhao-naming-of-a-river.jpg
 image_link:
 image_caption:
-article_category:
+article_category: 
 publisher:
 publisher_url:
 ---
