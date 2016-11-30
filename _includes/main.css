@@ -37,11 +37,11 @@ html {
 
 body {
     background-color: #fcf8ec;
-    font-size: 1.5em;
-    line-height: 1.4;
     display: flex;
     flex-direction: column;
     font-family: 'Droid Serif', 'Georgia', serif;
+    font-size: 1.5em;
+    line-height: 1.4;
     margin: 0 5%;
     width: 90%;
     word-break: break-word;
@@ -70,16 +70,18 @@ q {
     quotes: "\2018""\2019"
 }
 
-blockquote:before, q:before {
+blockquote p:before, q:before {
     content: open-quote;
     font-size: inherit;
     position: relative;
+    right: 0.1em;
 }
 
-blockquote:after, q:after {
+blockquote p:after, q:after {
     content: close-quote;
     font-size: inherit;
     position: relative;
+    left: 0.1em;
 }
 
 ul, ol {
