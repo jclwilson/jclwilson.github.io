@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hop Picking with Kathrin Böhm
+title: Hop Picking in Kent with Kathrin Böhm
 redirect_from:
 image: assets/kathrin-bohm-hop-picking.jpg
 image_link:
