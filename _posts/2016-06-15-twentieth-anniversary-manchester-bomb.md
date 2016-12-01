@@ -19,7 +19,7 @@ This bizarre inchoate history reflects the divergent opinions on the effect of b
 
 This is the narrative that followed, that the city’s regeneration was spurred by the bomb, in fact the city had already drafted an urban renewal plan, although it is true that following the bomb this was hastily written,
 
-> Prominent City Centre buildings such as the Arndale Centre and Shambles Square exhibit some of the worst failings of 1970s brutalist architecture - presenting a drab image to visitors and residents alike. The damage caused by the bomb provided the opportunity to replace or remodel these buildings, and to address their shortcomings in terms of functionality, quality and permeability.
+> Prominent City Centre buildings such as the Arndale Centre and Shambles Square exhibit some of the worst failings of 1970s brutalist architecture—presenting a drab image to visitors and residents alike. The damage caused by the bomb provided the opportunity to replace or remodel these buildings, and to address their shortcomings in terms of functionality, quality and permeability.
 
 Ian Simpson was one of the members of the public-private group that worked on the new draft, and while I am unable to say precisely whose words these are, I suspect the word _permeability_ comes from him. Simpson has done remarkably well out of the bomb. The first major work of Ian Simpson Architects (now SimpsonHaugh and Partners) was No. 1 Deansgate, built on the site of a bomb-damaged building. In the immediate area of the blast Simpson realised his desire for _visual and physical_ permeability through the new spaces created; New Cathedral Street, Urbis (now the National Football Museum), Cathedral Gardens and Exchange Square.
 
