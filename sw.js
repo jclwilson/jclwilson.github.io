@@ -1,7 +1,7 @@
 ---
 layout: null
 ---
-var CACHE_VERSION = 'jclwilson-v3';
+var CACHE_VERSION = 'jclwilson-v4';
 var CACHE_FILES = [
     '/',
     '/404',
@@ -16,8 +16,9 @@ self.addEventListener('install', function(event) {
     event.waitUntil(
         caches.open(CACHE_VERSION).then(function (cache) {
             cache.addAll([
-                {% for page in site.posts limit: 5 %}
+                {% for page in site.posts limit: 10 %}
                     {{ page.url | prepend: "'" | append: "'," }}
+					{{ page.image | prepend: "'" | append: "'," }}
                 {% endfor %}
             ]);
             return cache.addAll(CACHE_FILES);
