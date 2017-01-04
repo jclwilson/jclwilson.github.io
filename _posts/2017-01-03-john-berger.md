@@ -21,7 +21,7 @@ rights: # Set in site YAML, overwritten here.
 source: # A source which the article derives from
 subject: # The topic of the article
 ---
-I started 2017 with John Berger on my mind. 2016 ended with a number of deaths, with Berger at ninety, it wouldn’t be long. In November I went to the launch of <cite>A Jar of Wild Flowers</cite>. Then, over Christmas, I was given a couple of his books, <cite>Portraits</cite> and <cite>About Looking</cite>.
+I started 2017 with John Berger on my mind. 2016 ended with a number of deaths, with Berger at ninety it wouldn’t be long. In November I went to the launch of <cite>A Jar of Wild Flowers</cite>. Then, over Christmas, I was given a couple of his books, <cite>Portraits</cite> and <cite>About Looking</cite>.
 
 As many were, I was introduced to him through the book <cite>Ways of Seeing</cite>, actually my dad’s own dog-eared copy that he’d bought in the 1980s. It was the sight of the book that first caught my attention; it was small and thin, clearly easy to read, with enough pictures, but it was unlike others with its text that ran the length of the cover, and the surreal Magritte painting. My dad’s scrawled notes and sporadic underlining showed me it was a book to be used like a notepad, one to respond to, as well as read.
 
