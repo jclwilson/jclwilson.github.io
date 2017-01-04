@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I Hope You Consider What I Arrange, But Be Skeptical of It: John Berger"
+title: "I Hope You Consider What I Arrange, But Be Sceptical of It: John Berger"
 redirect_from:
 image: assets/john-berger-ways-of-seeing.png
 image_link:
