@@ -62,12 +62,8 @@ blockquote {
     margin-left: 2em;
 }
 
-blockquote {
-    quotes: "\201C""\201D";
-}
-
-q {
-    quotes: "\2018""\2019"
+blockquote, q {
+    quotes: "“" "”" "‘" "’";
 }
 
 blockquote p:before, q:before {
