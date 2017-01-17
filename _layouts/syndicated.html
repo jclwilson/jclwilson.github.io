@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<article class="post">
+    <header class="post__header">
+        {% include post_header.html %}
+    </header>
+    <section class="post__content">
+        {% if page.image %}
+            {% include page_image.html %}
+        {% endif %}
+        {{ page.content }}
+		<p>
+			The {{ page.format }}, <a href="{{ page.relation }}"><cite>{{ page.title }}</cite></a> is now up on <a href="{{ page.publisher_url }}"><cite>{{ page.publisher }}</cite></a>.
+		</p>
+    </section>
+</article>
