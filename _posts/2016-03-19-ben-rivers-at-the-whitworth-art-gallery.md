@@ -23,6 +23,6 @@ source: # A source which the article derives from
 subject: # The topic of the article
 ---
 ---
-Back in March I talked with filmmaker Ben Rivers about his latest and largest exhibition <cite>THE TWO EYES ARE NOT BROTHERS</cite> at the Whitworth Art Gallery, Manchester.
+Back in March I talked with film maker Ben Rivers about his latest and largest exhibition <cite>THE TWO EYES ARE NOT BROTHERS</cite> at the Whitworth Art Gallery, Manchester.
 
-<blockquote>Rivers' installation may be read less as a convenient backdrop for a film screening, and more as a collection of art objects to be considered as much as the films themselves</blockquote>
+> Rivers' installation may be read less as a convenient backdrop for a film screening, and more as a collection of art objects to be considered as much as the films themselves
