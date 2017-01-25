@@ -130,7 +130,7 @@ figcaption {
 
 @media screen and (min-width: 60em) {
     body {
-        font-size: 3em;
+        font-size: 2.5em;
         transition: font-size 0.3s ease;
     }
     .post__published:before {
