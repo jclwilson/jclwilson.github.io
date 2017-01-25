@@ -1,0 +1,53 @@
+---
+layout: post
+title: "And a drowning was not over in a single morning: Brecht, The Swamp"
+redirect_from:
+image: assets/tollund-man.jpg
+image_link:
+image_caption:
+article_category:
+publisher:
+publisher_url:
+# Dublin Core Data
+contributor: # Contributor for articles with multiple authors
+coverage: # Geographical or temporal - typically used for science articles
+creator:
+description: # Description, short intro, or excerpt.
+format: article #Format - default to 'article'
+identifier: # Permalink - set in site YAML
+language: # Set in site YAML
+relation: # Related article, e.g. a series or a response.
+rights: # Set in site YAML, overwritten here.
+source: # A source which the article derives from
+subject: # The topic of the article
+---
+<p>I beheld many friends, and the friend I loved the most,<br/>
+helplessly sink into the swamp<br/>
+I pass by daily.</p>
+<p>And a drowning was not over in a single morning.<br/>
+Often it took<br/>
+many weeks; this made it more terrible.<br/>
+And the memory of our long<br/>
+agreeing talks about the swamp, which already<br/>
+Held so many.<br/>
+Powerless now I saw him leaning back.<br/>
+covered with leeches<br/>
+in the shimmering<br/>
+softly moving slime. Upon the sinking<br/>
+Face the ghastly<br/>
+blissful smile.</p>
+<p>Bertolt Brecht, <cite>The Swamp</cite></p>
+
+Brecht's poem <cite>The Swamp</cite> was written in 1942 and published as part of his <cite>Hollywood Elegies</cite>. Naomi Replansky, the English translator, related the 'friend' of this poem to Brecht's own former colleague Peter Lorre—a man who had lived in Germany for thirty years before fleeing in 1933 when the Nazis took power. By the time of Brecht's poem, Lorre had become addicted to prescription and recreational drugs—perhaps unsurprising, given the circumstances.
+
+I found this poem on the early hours of the 9th of November. At first, I knew nothing of the background to this work, and through its general sense of decay I read it as a commentary on Brecht's experience of fascism. Our contemporary narratives of the twentieth century privilege the end of the war; the defeat, the recognition, the pleas of ignorance and regret by both the axis and allied powers as to the massacres of Jews, Gypsies, LGBT people, communists, and civilians. Perhaps, instead, it's worth listening to people who actually experienced the development of fascism. Their testimony shows the opposite. Fascism was no great sudden shock. It was very little out of the ordinary—the grounds of *ordinary* having been shifted further and further downwards for decades.
+
+Intoxication is a common metaphor in the conception of power and control. These invocations of drugs invariably focus on their sedative qualities, the pacification of otherwise engaged people. The use of the metaphor itself has a certain allure, it's easy to fall back onto analogies that themselves fall back onto simple explanations. The reason for people's willingness to go along with power is never examined, its just assumed that they wouldn't unless they weren't being forced to. This idea is seen in the contemporary distinction between *red pill* and *blue pill* thought, borrowed from <cite>The Matrix</cite> by the collection of fascists, 4channers, conservatives, and conspiracy theorists collected together along with Trump supporters under the name <em>alt-right</em>. That power can be limited to something as simple as a pill crystallises diffuse systems into one easy to swallow metaphor & solution—stop taking drugs—Neo's consumption of the red pill immediately awakens him.
+
+> If we win on November 8th, we are going to Washington, D.C.—when we win, OK—and we are going to drain the swamp.
+
+One of Trump's campaign promises was to drain the swamp of Washington D.C. a city that, as with any political centre, is built on a mire of politicians, advisors, policy experts, lobbyists, financiers. People who enter, or more likely are born, into a pool of jobs, positions, titles, and wealth that circulate amongst them and linger between administrations. Trump will of course not drain the swamp. He has already filled it with new stagnant water through the appointments of conservatives, CEOs, fascists, and military officers to civilian posts. Trump's invocation of the swamp focuses on very specific people, those concerned with civil rights, climate change, foreign policy, women and minorities. He *will* purge these people.
+
+Swamps are fundamentally primordial places, cold and wet. They are featureless, endless, foggy flatlands. They drag people down into cold murk. There's an image made of a slow death, or a body in stasis preserved by a choking lack of oxygen. Uncanny, like <cite>Koelbjerg Woman</cite> and <cite>Tollund Man</cite>, as it takes from life but extends it into something abject. Brecht doesn't say how his friend ended up in the swamp. He's clearly not been forced into it, but if you pass by daily you'll soon become accustomed to the rank stench, become a little less cautious. But Brecht does note a certain beauty and allure in the swamp between the shimmering of the water, the softly moving slime, and the smiles of the bodies. There's something enjoyable in lying back, floating effortlessly, and looking out onto the dry land.
+
+On the day of the election I changed my long-time Twitter header from Simon Hanselmann's depressed Megg to a copy of <cite>The Swamp</cite>. Some kind of reminder to myself, and hopefully others in the first few days of Trump's presidency, that getting stuck in the swamp is not obvious. It takes weeks, it will consume people we know, and that one day we too will have to drain the swamp.
