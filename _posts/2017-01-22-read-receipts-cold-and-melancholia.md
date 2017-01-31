@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✓✓ Read Receipts: Cold and Melancholia"
-redirect_from:
+redirect_from: /read-receipts-melancholia-and-cold
 image: assets/vivian-fu-picnic.jpg
 image_link: http://vivian-fu.tumblr.com/post/155539661672/picnic-december-2016
 image_caption: Vivian Fu, Picnic, December 2016.
