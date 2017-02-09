@@ -21,7 +21,7 @@
     </head>
     <body>
         <header class="header">
-            <h1 class="header__title"><a href="{{ site.url }}">Jacob Charles Wilson</a></h1><p class="header__tagline"> writes <a href="/">words</a> and helps artists <em><a href="/work">work online</a></em> msg {% if site.twitter.username %} <a href="http://twitter.com/{{ site.twitter.username }}">{{ site.twitter.username | prepend: '@' }}</a>{% endif %} or  {% if site.email %}<a href="mailto:{{ site.email }}">{{ site.email }}</a>{% endif %}</p>
+            <h1 class="header__title"><a href="{{ site.url }}">Jacob Charles Wilson</a></h1><p class="header__tagline">{% if site.email %} — <a href="mailto:{{ site.email }}">{{ site.email }}</a>{% endif %}{% if site.twitter.username %} — <a href="http://twitter.com/{{ site.twitter.username }}">{{ site.twitter.username | prepend: '@' }}</a>{% endif %}</p>
         </header>
         <main class="main">
             {{ content }}
