@@ -21,11 +21,6 @@ html, body, cite, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquo
 
 /* BEM CSS below */
 
-::selection {
-    background: #42449d;
-    color: #fcf8ec;
-}
-
 html {
     box-sizing: border-box;
     font-size: 16px;
@@ -148,4 +143,10 @@ figcaption {
     .post__lead:not(:first-child) {
         margin-left: 1vw;
     }
+}
+
+::selection, :focus {
+    background: #42449d;
+    color: #fcf8ec;
+    text-shadow: none;
 }
