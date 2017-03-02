@@ -103,14 +103,14 @@ figcaption {
 }
 
 .header__list {
-    display: inline;
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
 
 .header__link {
-    display: inline;
+    margin: 0;
+    padding: 0;
 }
 
 .header__link:before {
@@ -142,6 +142,12 @@ figcaption {
     body {
         font-size: 2.5em;
         transition: font-size 0.3s ease;
+    }
+    .header__list {
+        display: inline;
+    }
+    .header__link {
+        display: inline;
     }
     .post__published:before {
         content: none;
