@@ -98,8 +98,23 @@ figcaption {
     margin-bottom: 1em;
 }
 
-.header__title, .header__tagline, .post__title {
+.header__title, .post__title {
     display: inline;
+}
+
+.header__list {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.header__link {
+    display: inline;
+}
+
+.header__link:before {
+    content: " — "
 }
 
 .index {
