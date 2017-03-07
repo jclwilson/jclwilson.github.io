@@ -1,12 +1,10 @@
-<div class="post__carousel">
-    <figure class="post__lead">
-        {% if page.image_link %}<a href="{{ page.image_link }}">{% endif %}
-            <div class="figure__filter">
-                <img src="{{ page.image }}" class="post__image"/>
-            </div>
-        {% if page.image_link %}</a>{% endif %}
-        {% if page.image_caption %}
-            <figcaption class="post__image-caption">{{ page.image_caption }}</figcaption>
-        {% endif %}
-    </figure>
-</div>
+<figure class="post__lead">
+    {% if page.image_link %}<a href="{{ page.image_link }}">{% endif %}
+        <div class="figure__filter">
+            <img src="{{ page.image }}" class="post__image" alt="{{ page.image_alt }}"/>
+        </div>
+    {% if page.image_link %}</a>{% endif %}
+    {% if page.image_caption %}
+        <figcaption class="post__image-caption">{{ page.image_caption }}</figcaption>
+    {% endif %}
+</figure>

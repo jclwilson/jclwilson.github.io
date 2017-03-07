@@ -1,12 +1,23 @@
 ---
 layout: default
 ---
+<noscript>
+	<header>
+		<h2>Articles</h2>
+	</header>
+</noscript>
 <ul class="index">
     {% for page in site.posts %}
         <li class="index__item">
-            <article class="post__header">
-                {% include post_header.html %}
-            </article>
+			{% if page.article_category %}{{ page.article_category | append: ': ' }}{% endif %}
+				<a class="post__link" href="{{ page.url }}">{{ page.title }}</a>
+			{% if page.publisher %} for
+				<cite class="post__publisher">
+					{% if page.publisher_url %}<a class="post__publisher-link" href="{{ page.publisher_url }}">{% endif %}
+						{{ page.publisher }}
+					{% if page.publisher_url %}</a>{% endif %}
+				</cite>
+			{% endif %}
         </li>
     {% endfor %}
 </ul>

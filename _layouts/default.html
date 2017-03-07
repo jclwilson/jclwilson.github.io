@@ -6,13 +6,10 @@
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-        <meta name="description" content="{{ site.description }}">
-        <meta name="generator" content="Jekyll">
-        <base href="{{ site.url }}">
-        {% feed_meta %}
-        <link rel="alternate" type="application/rss+xml" href="/feed.xml">
         {% seo %}
+		{% feed_meta %}
+		<base href="{{ site.url }}">
+		<meta name="generator" content="Jekyll">
         <style>
             {% include main.css %}
         </style>
@@ -22,6 +19,9 @@
     <body>
         <header class="header">
             <h1 class="header__title"><a href="{{ site.url }}">Jacob Charles Wilson</a></h1>
+			<noscript>
+				<h2>Contact</h2>
+			</noscript>
 			<ul class="header__list">
 				{% if site.email %}<li class="header__link"><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %}
 				{% if site.twitter.username %}<li class="header__link"><a href="http://twitter.com/{{ site.twitter.username }}">{{ site.twitter.username | prepend: '@' }}</a></li>{% endif %}
