@@ -152,17 +152,9 @@ figcaption {
     .post__published:before {
         content: none;
     }
-    .post__carousel {
-        display: flex;
-        flex-direction: row-reverse;
-        justify-content: center;
-        flex-wrap: wrap;
-    }
     .post__lead {
-        width: 29vw;
-    }
-    .post__lead:not(:first-child) {
-        margin-left: 1vw;
+        width: 33vw;
+        margin: 0 auto;
     }
 }
 
