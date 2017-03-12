@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Weekly Reader 34
-date: '2016-05-16T09:34:11+01:00'
 image: http://66.media.tumblr.com/ff07828afa1d12385a002ce8f0f49d88/tumblr_inline_o79guiEOAa1qj1kht_540.jpg
 image_caption: Photo by Juno Calypso
 image_link: https://www.instagram.com/junocalypso
+image_alt: "A girl sat in bed, facing the camera"
 redirect_from: post/144444149539/weekly-reader-34
 ---
 I've missed a few weeks again, but thankfully I have a real excuse this time. I recently moved down to London and into a flat (for the next 5 months) to start working at the [Delfina Foundation](http://wwww.delfinafoundation.com/). Since then I've been settling back into things, starting to ride my bike again, and enjoying the slow, grinding, somewhat soggy start of Spring.
