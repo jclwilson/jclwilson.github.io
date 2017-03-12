@@ -15,7 +15,7 @@
 		<meta name="google-site-verification" content="4ITkWbuq-qEuF4KhwbrCo7jhQfUhwZwzbCwCe8C9R3Y" />
     </head>
     <body>
-        <header class="header">
+        <header class="header" id="header">
             <h1 class="header__title"><a href="{{ site.url }}">Jacob Charles Wilson</a></h1>
 			<noscript>
 				<h2>Contact</h2>
@@ -28,6 +28,13 @@
         <main class="main">
             {{ content }}
         </main>
+		<noscript>
+			<footer>
+				<nav>
+					<a href="#header">Back to top</a>
+				</nav>
+			</footer>
+		</noscript>
         <script>
             if ('serviceWorker' in navigator) {
              navigator.serviceWorker.register('/sw.js').then(function(registration) {
