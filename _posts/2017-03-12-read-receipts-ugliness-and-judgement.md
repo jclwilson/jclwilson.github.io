@@ -5,6 +5,7 @@ redirect_from:
 image: assets/uglydesign-pillow.jpg
 image_link: https://www.instagram.com/uglydesign/
 image_caption: Photo by @uglydesign
+image_alt: "A photo of a 'girlfriend' pillow; a fabric square with a single arm and two breasts."
 article_category:
 publisher:
 publisher_url:
