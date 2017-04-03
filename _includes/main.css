@@ -47,18 +47,16 @@ h1, h2, h3, h4, h5, h6, a, em, cite, i, figcaption {
     font-weight: normal;
 }
 
-.underline, a {
-    text-decoration: none;
-    text-shadow: 0.06em 0.06em 0 #FCF8EC, 0 0.06em 0 #FCF8EC, -0.06em 0.06em 0 #FCF8EC, 0.03em 0.03em 0 #FCF8EC, 0 0.03em 0 #FCF8EC, -0.06em 0.03em 0 #FCF8EC;
-    box-shadow: inset 0 -0.08em 0 0 #42449D;
+@supports (text-shadow: 1em 1em red) {
+    .underline, a {
+        text-decoration: none;
+        text-shadow: 0.06em 0.06em 0 #FCF8EC, 0 0.06em 0 #FCF8EC, -0.06em 0.06em 0 #FCF8EC, 0.03em 0.03em 0 #FCF8EC, 0 0.03em 0 #FCF8EC, -0.06em 0.03em 0 #FCF8EC;
+        box-shadow: inset 0 -0.08em 0 0 #42449D;
+    }
 }
 
 blockquote {
     margin-left: 2em;
-}
-
-blockquote, q {
-    quotes: "“" "”" "‘" "’";
 }
 
 blockquote p:before, q:before {
@@ -123,11 +121,6 @@ figcaption {
     padding: 0;
 }
 
-.post__published:before {
-    content: ' - ';
-    font-size: inherit;
-}
-
 .page__header {
     display: none;
 }
@@ -148,9 +141,6 @@ figcaption {
     }
     .header__link {
         display: inline;
-    }
-    .post__published:before {
-        content: none;
     }
     .post__lead {
         width: 33vw;
