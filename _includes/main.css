@@ -78,12 +78,16 @@ ul, ol {
     padding-left: 1em;
 }
 
-.figure__filter {
-    background-color: #42449d;
+@supports (mix-blend-mode: lighten) {
+    .figure__filter {
+        background-color: #42449d;
+    }
+    figure img {
+        mix-blend-mode: lighten;
+    }
 }
 
 figure img {
-    mix-blend-mode: lighten;
     display: block;
     width: 100%;
 }
