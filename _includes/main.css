@@ -152,7 +152,7 @@ figcaption {
     }
 }
 
-::selection, :focus {
+::selection {
     background: #42449d;
     color: #fcf8ec;
     text-shadow: none;
