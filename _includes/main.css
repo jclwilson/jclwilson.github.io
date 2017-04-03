@@ -147,7 +147,7 @@ figcaption {
         display: inline;
     }
     .post__lead {
-        width: 33vw;
+        width: 33%;
         margin: 0 auto;
     }
 }
