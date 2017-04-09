@@ -1,26 +1,27 @@
 ---
+title: 'I Hope You Consider What I Arrange, But Be Sceptical of It: John Berger'
+date: 2017-01-03 00:00:00 Z
 layout: post
-title: "I Hope You Consider What I Arrange, But Be Sceptical of It: John Berger"
-redirect_from:
+redirect_from: 
 image: assets/john-berger-ways-of-seeing.png
-image_link:
-image_caption:
-article_category:
-publisher:
-publisher_url:
-# Dublin Core Data
-contributor: # Contributor for articles with multiple authors
-coverage: # Geographical or temporal - typically used for science articles
-creator:
-description: # Description, short intro, or excerpt.
-format: article #Format - default to 'article'
-identifier: # Permalink - set in site YAML
-language: # Set in site YAML
-relation: # Related article, e.g. a series or a response.
-rights: # Set in site YAML, overwritten here.
-source: # A source which the article derives from
-subject: # The topic of the article
+image_link: 
+image_caption: 
+article_category: 
+publisher: 
+publisher_url: 
+contributor: 
+coverage: 
+creator: 
+description: 
+format: article
+identifier: 
+language: 
+relation: 
+rights: 
+source: 
+subject: 
 ---
+
 I started 2017 with John Berger on my mind. 2016 ended with a number of deaths, with Berger at ninety it wouldn’t be long. In November I went to the launch of <cite>A Jar of Wild Flowers</cite>. Then, over Christmas, I was given a couple of his books, <cite>Portraits</cite> and <cite>About Looking</cite>.
 
 As many were, I was introduced to him through the book <cite>Ways of Seeing</cite>, actually my dad’s own dog-eared copy that he’d bought in the 1980s. It was the sight of the book that first caught my attention; it was small and thin, clearly easy to read, with enough pictures, but it was unlike others with its text that ran the length of the cover, and the surreal Magritte painting. My dad’s scrawled notes and sporadic underlining showed me it was a book to be used like a notepad, one to respond to, as well as read.

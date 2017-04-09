@@ -1,14 +1,16 @@
 ---
-layout: post
 title: Hop Picking in Kent with Kathrin Böhm
-redirect_from:
+date: 2016-08-15 00:00:00 Z
+layout: post
+redirect_from: 
 image: assets/kathrin-bohm-hop-picking.jpg
-image_link:
-image_caption:
-article_category:
-publisher:
-publisher_url:
+image_link: 
+image_caption: 
+article_category: 
+publisher: 
+publisher_url: 
 ---
+
 Taking the train from Charing Cross out to the hop fields of Kent we found ourselves repeating a journey that thousands of families, hundreds of thousands of individuals, made each summer from the 1800s right up until the mid-twentieth century. Today, the train provides a convenience and comparative luxury, where in earlier times the journey would be made by carts, lorries, or even by foot. It was the promise of seasonal work—and perhaps a short summer holiday—as well as the desire to escape the smog-filled air and the poverty of the East End of London that drove people out to countryside and made them return year after year.
 
 Hops are the essential ingredient in all modern beers. Other plants such as dandelion, burdock root, and marigold can and have been used in making beer, but from the fifteenth century English brewers and drinkers have preferred hops. It's the flowers of this vine that brewers use to impart a bitterness and aroma to balance the sweetness of the wort, the mixture of water, malt, and yeast that makes a traditional beer. But hops are a nasty plant to work with; a 'wicked and pernicious weed'. Their stems are coarse, and the flowers themselves are filled with various acids that, as well as essential to their flavour, can cause dermatitis if frequently held in close contact. From the start of the English hop industry in the 16th century, the work of picking hops was done by marginalised communities; the urban poor, women, children, Romany Gypsies and Irish Travellers.

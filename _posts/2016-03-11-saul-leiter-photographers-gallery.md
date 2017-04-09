@@ -1,14 +1,16 @@
 ---
+title: Saul Leiter at The Photographers' Gallery, London
+date: 2016-03-11 00:00:00 Z
 layout: post
-title: "Saul Leiter at The Photographers' Gallery, London"
-redirect_from:
+redirect_from: 
 image: assets/saul-leiter-photographers-gallery.jpg
-image_link:
-image_caption:
-article_category:
-publisher:
-publisher_url:
+image_link: 
+image_caption: 
+article_category: 
+publisher: 
+publisher_url: 
 ---
+
 > We like to pretend that what is public is what the real world is all about.
 
 Perhaps because Saul Leiter died only a few years ago, I can think of him only as an old man, known to me solely through interviews and obituaries. So to see a young man snapping his reflection in a mirror seems odd. He was until recently a relatively overlooked practitioner, and went without a gallerist or a European show until 2008. This exhibition at [The Photographers’ Gallery, London](http://thephotographersgallery.org.uk/saul-leiter-2), curated by Ingo Taubhorn and Brigitte Woischnik is his first major show in a public gallery in the United Kingdom. Leiter was a photographer, but reflections and tricks of the camera are his medium. In every photo there’s a degree of self-referentiality, window panes that simultaneously show inside and out, refracted and distorted and inverted through the camera before a final flare is added by the gallery lighting to the framed print.

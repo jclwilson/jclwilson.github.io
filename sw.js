@@ -1,6 +1,7 @@
 ---
-layout: null
+layout: 
 ---
+
 var CACHE_VERSION = 'jclwilson-v5';
 var CACHE_FILES = [
     '/',

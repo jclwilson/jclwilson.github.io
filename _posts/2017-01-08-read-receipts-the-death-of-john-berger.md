@@ -1,26 +1,27 @@
 ---
-layout: post
 title: "✓✓ Read Receipts: The Death of John Berger"
-redirect_from:
+date: 2017-01-08 00:00:00 Z
+layout: post
+redirect_from: 
 image: assets/john-berger-portrait.jpg
-image_link:
+image_link: 
 image_caption: John Berger
-article_category:
-publisher:
-publisher_url:
-# Dublin Core Data
-contributor: # Contributor for articles with multiple authors
-coverage: # Geographical or temporal - typically used for science articles
-creator:
-description: # Description, short intro, or excerpt.
-format: article #Format - default to 'article'
-identifier: # Permalink - set in site YAML
-language: # Set in site YAML
-relation: # Related article, e.g. a series or a response.
-rights: # Set in site YAML, overwritten here.
-source: # A source which the article derives from
-subject: # The topic of the article
+article_category: 
+publisher: 
+publisher_url: 
+contributor: 
+coverage: 
+creator: 
+description: 
+format: article
+identifier: 
+language: 
+relation: 
+rights: 
+source: 
+subject: 
 ---
+
 On the 31st of December one extra second was added to Coordinated Universal Time. This resulted in a number of vital systems breaking as 2016 lingered on ever so slightly longer than they expected. It seemed the year wouldn’t relent.
 
 On the 2nd of January I was reminded of the unwavering passage of time by the death of John Berger, who as an art historian, a writer, and a communist felt particularly close to me—more so than many of the losses of 2016. I wrote my [own short piece](/john-berger) on him, and predictably, this week’s <cite>Read Receipts</cite> include a collection of eulogies to Berger, along with some of his writing.

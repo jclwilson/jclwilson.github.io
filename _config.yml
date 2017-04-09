@@ -1,25 +1,26 @@
-# Site settings
+---
 title: Jacob Charles Wilson
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 description: Manchester-born History of Art MA of The Courtauld Institute, London.
 tagline: writes words and likes to help artists work online
 url: https://jacobcharleswilson.com
 enforce_ssl: jacobcharleswilson.com
-
 email: hello@jacobcharleswilson.com
-
 twitter:
   username: jclwilson
 github:
   username: jclwilson
 instagram:
   username: jclwilson
-
-permalink: /:title
-
-# Build settings
+permalink: "/:title"
 markdown: kramdown
-
-# Github Gems
 gems:
 - jekyll-seo-tag
 - jekyll-redirect-from
