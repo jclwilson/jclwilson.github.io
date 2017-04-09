@@ -5,6 +5,7 @@ redirect_from: "post/40807205026/tom-edwards-the-procession-to-caute"
 image: assets/tom-edwards-caute-2.jpg
 image_link:
 image_caption:
+image_alt:
 article_category:
 publisher:
 publisher_url:
