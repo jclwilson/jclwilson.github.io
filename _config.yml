@@ -1,24 +1,18 @@
-# Site settings
+---
 title: Jacob Charles Wilson
 description: Freelance Arts Writer
+
 url: https://jacobcharleswilson.com
 enforce_ssl: jacobcharleswilson.com
-
 email: hello@jacobcharleswilson.com
-
 twitter:
   username: jclwilson
 github:
   username: jclwilson
 instagram:
   username: jclwilson
-
-permalink: /:title
-
-# Build settings
+permalink: "/:title"
 markdown: kramdown
-
-# Github Gems
 gems:
 - jekyll-seo-tag
 - jekyll-redirect-from

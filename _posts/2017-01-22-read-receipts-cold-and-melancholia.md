@@ -1,26 +1,27 @@
 ---
-layout: post
 title: "✓✓ Read Receipts: Cold and Melancholia"
-redirect_from: /read-receipts-melancholia-and-cold
+date: 2017-01-22 00:00:00 Z
+layout: post
+redirect_from: "/read-receipts-melancholia-and-cold"
 image: assets/vivian-fu-picnic.jpg
 image_link: http://vivian-fu.tumblr.com/post/155539661672/picnic-december-2016
 image_caption: Vivian Fu, Picnic, December 2016.
-article_category:
-publisher:
-publisher_url:
-# Dublin Core Data
-contributor: # Contributor for articles with multiple authors
-coverage: # Geographical or temporal - typically used for science articles
-creator:
-description: # Description, short intro, or excerpt.
-format: article #Format - default to 'article'
-identifier: # Permalink - set in site YAML
-language: # Set in site YAML
-relation: # Related article, e.g. a series or a response.
-rights: # Set in site YAML, overwritten here.
-source: # A source which the article derives from
-subject: # The topic of the article
+article_category: 
+publisher: 
+publisher_url: 
+contributor: 
+coverage: 
+creator: 
+description: 
+format: article
+identifier: 
+language: 
+relation: 
+rights: 
+source: 
+subject: 
 ---
+
 The past week's Womens' Marches and the punching of the nazi Richard Spencer say more than any list of political articles could. Instead, here's a list to help overcome the melancholia that has filled the organs of everything. Galenic humourial theory associated melancholia with the Earth, autumn, the cold and dry, but also with the creative mind. I do tend towards these things, so I guess it makes sense.
 
 The photo above is by Vivian Fu, who was one of the first photographers I started following back in 2009. Her picnic from December 2016 was a joy to see on my timeline, lifting my out of the winter blues and into the heights of summer. As much as I love wearing my heavy wool coat and hats, there's little better than spending a month or two entirely in shorts, on grass, and warm concrete. I'm planning on having as many picnics as possible in the coming year.

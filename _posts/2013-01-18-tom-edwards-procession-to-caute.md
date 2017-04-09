@@ -1,15 +1,25 @@
 ---
-layout: post
 title: Tom Edwards, The Procession to Caute at Beach London
-redirect_from: "post/40807205026/tom-edwards-the-procession-to-caute"
+date: 2013-01-18 00:00:00 Z
+layout: post
+redirect_from: post/40807205026/tom-edwards-the-procession-to-caute
 image: assets/tom-edwards-caute-2.jpg
+<<<<<<< HEAD
 image_link:
 image_caption:
 image_alt:
 article_category:
 publisher:
 publisher_url:
+=======
+image_link: 
+image_caption: 
+article_category: 
+publisher: 
+publisher_url: 
+>>>>>>> 7d4bb73bd1cef90967a67aaf60935b275a79de8b
 ---
+
 Illustrator Tom Edwards’ small exhibition <cite>The Procession to Caute</cite> is a masterpiece of intricate craft and thought and exemplary of Edwards’ creative imagination. Through only a few objects he has created an entire world with its own rich mythology and iconography.
 
 Beach London is ideal for this exhibition of Edwards’ one-man cat-cult. The tiny basement of Beach, with its narrow stairs and low ceiling, has become some sort of lost tomb or temple. At each end of the room there's a huge fresco-like poster, a single cat rug on the floor, and a few drawings and ceramic works on the other walls.

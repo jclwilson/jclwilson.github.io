@@ -1,12 +1,14 @@
 ---
-layout: post
 title: Weekly Reader 34
+date: 2016-05-16 00:00:00 Z
+layout: post
 image: http://66.media.tumblr.com/ff07828afa1d12385a002ce8f0f49d88/tumblr_inline_o79guiEOAa1qj1kht_540.jpg
 image_caption: Photo by Juno Calypso
 image_link: https://www.instagram.com/junocalypso
-image_alt: "A girl sat in bed, facing the camera"
+image_alt: A girl sat in bed, facing the camera
 redirect_from: post/144444149539/weekly-reader-34
 ---
+
 I've missed a few weeks again, but thankfully I have a real excuse this time. I recently moved down to London and into a flat (for the next 5 months) to start working at the [Delfina Foundation](http://wwww.delfinafoundation.com/). Since then I've been settling back into things, starting to ride my bike again, and enjoying the slow, grinding, somewhat soggy start of Spring.
 The photo above is by Juno Calypso, whose work will be at <a href="http://photolondon.org/">Photo London</a> this week. I’m taking a week off my usual job to work at the fair, so if you end up there, or anywhere around Somerset House, then give me a message on <a href="http://twitter.com/jclwilson">Twitter</a> or <a href="http://instagram.com/jclwilson">Instagram</a>, and let’s hang out.
 - <q>Excuse my ignorance, but I'm somewhat of a novice. How exactly do I repot my houseplants? More to the point, when and why should I do this, and how do I ensure each specimen is fed and watered appropriately so they thrive and continue to grow?</q>, Nik Southern, <a href="http://www.anothermag.com/design-living/8528/the-agony-plant-on-how-to-repot-a-houseplant">The Agony Plant on How to Repot a Houseplant</a> in <cite>AnOther</cite>. I (thankfully) don't have any children, nor any pets, the only things I have to care for are my laptop and my houseplants. Unfortunately my cacti, palms, &amp; rosemary haven't made the journey down to London yet, I really didn't fancy a risky train and bike journey. So, I'm looking to get some new plants, if anyone knows of particularly good (read, cheap) shops then please let me know.

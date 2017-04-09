@@ -1,26 +1,27 @@
 ---
+title: 'And a drowning was not over in a single morning: Brecht, The Swamp'
+date: 2017-01-26 00:00:00 Z
 layout: post
-title: "And a drowning was not over in a single morning: Brecht, The Swamp"
-redirect_from:
+redirect_from: 
 image: assets/tollund-man.jpg
-image_link:
-image_caption:
-article_category:
-publisher:
-publisher_url:
-# Dublin Core Data
-contributor: # Contributor for articles with multiple authors
-coverage: # Geographical or temporal - typically used for science articles
-creator:
-description: # Description, short intro, or excerpt.
-format: article #Format - default to 'article'
-identifier: # Permalink - set in site YAML
-language: # Set in site YAML
-relation: # Related article, e.g. a series or a response.
-rights: # Set in site YAML, overwritten here.
-source: # A source which the article derives from
-subject: # The topic of the article
+image_link: 
+image_caption: 
+article_category: 
+publisher: 
+publisher_url: 
+contributor: 
+coverage: 
+creator: 
+description: 
+format: article
+identifier: 
+language: 
+relation: 
+rights: 
+source: 
+subject: 
 ---
+
 <p>I beheld many friends, and the friend I loved the most,<br/>
 helplessly sink into the swamp<br/>
 I pass by daily.</p>

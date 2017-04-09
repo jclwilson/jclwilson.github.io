@@ -1,26 +1,27 @@
 ---
-layout: post
 title: "✓✓ Read Receipts: The Act of Writing"
-redirect_from:
+date: 2017-02-05 00:00:00 Z
+layout: post
+redirect_from: 
 image: assets/whatweworeuk-kate-hillier.jpg
 image_link: https://www.instagram.com/p/BQDxpmigQXV/
 image_caption: Photo by What We Wore, via Kate Hillier.
-article_category:
-publisher:
-publisher_url:
-# Dublin Core Data
-contributor: # Contributor for articles with multiple authors
-coverage: # Geographical or temporal - typically used for science articles
-creator:
-description: # Description, short intro, or excerpt.
-format: article #Format - default to 'article'
-identifier: # Permalink - set in site YAML
-language: # Set in site YAML
-relation: # Related article, e.g. a series or a response.
-rights: # Set in site YAML, overwritten here.
-source: # A source which the article derives from
-subject: # The topic of the article
+article_category: 
+publisher: 
+publisher_url: 
+contributor: 
+coverage: 
+creator: 
+description: 
+format: article
+identifier: 
+language: 
+relation: 
+rights: 
+source: 
+subject: 
 ---
+
 Despite trying to overcome the cold, our boiler broke. My room, which is fine as far as London standards go, turned into a fridge for a week. Many people compare themselves to the caricature of the writer starving in their garret, hiding from the landlord, and dying of consumption—it's not romantic, it's awful. I spent well over a week unable to type because my hands were too cold and the bed was too comforting.
 
 - <q>No novels. No novellas. No essays. Just each bring a ten min writing game—get people to compose letters, emails, poems, to describe the patterns on the beer soaked carpets, or anything else that comes to mind. Writing is nice.</q> <a href="https://www.facebook.com/events/1779758115617992"><cite>Wetherspoons Writers' Club</cite></a>. Last Thursday I went to the Kentish Drovers in Peckham for the first meetup, where we wrote on Blue Peter time capsules, a three course menu of revenge, and Andy Murray as a parrot. We'll be meeting up again next month, probably at a Spoons in central.

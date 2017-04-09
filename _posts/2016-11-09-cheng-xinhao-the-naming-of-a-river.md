@@ -1,13 +1,15 @@
 ---
+title: 'Cheng Xinhao: The Naming of a River'
+date: 2016-11-09 00:00:00 Z
 layout: post
-title: "Cheng Xinhao: The Naming of a River"
 image: assets/cheng-xinhao-naming-of-a-river.jpg
-image_link:
-image_caption:
-article_category:
-publisher:
-publisher_url:
+image_link: 
+image_caption: 
+article_category: 
+publisher: 
+publisher_url: 
 ---
+
 When you talk of _a river_ how often do you talk of _the river?_ This linguistic quirk emphasises the significance and permanence that is ascribed to those rivers which within our lifetimes we become familiar with. Yet, rivers are not static, but are both subjects and objects of change. Though, this is typically across geological timescales and distances incomprehensible to individuals, instead known only through collective memory. One river may be known by many names.
 
 Cheng Xinhao’s <cite>The Naming of a River</cite> was inspired by his chance finding of <cite>Pictures of Six Rivers in Yunnan's Provincial Capital</cite>, a series of handdrawn maps of his hometown of Kunming. He notes in the epilogue to his book that he found great discrepancies between these maps made by Huang Shijie, a Qing Dynasty official, and his own memory of the city, which even in his own lifetime had doubled in size. In 2014, he returned to Kunming to photograph the Panlong River, the largest of Huang’s six rivers and one of the few remaining natural watercourses in the landscape. This project came about during a time of significant development in Cheng’s life, the previous year he had received his PhD in chemical and molecular engineering at Peking University, and two years before that had just started practicing photography. In recent years his work has begun to be recognised, with Cheng being named as a finalist of the prestigious 2015 Three Shadows Photography Award, and winning that year’s Shiseido Photographer Prize. <cite>The Naming of a River</cite>, Cheng’s inaugural photobook published by Ningbo-based [Jiazazhi Press](http://jiazazhi.com/), has now been shortlisted for the Aperture First Photobook Award 2016.

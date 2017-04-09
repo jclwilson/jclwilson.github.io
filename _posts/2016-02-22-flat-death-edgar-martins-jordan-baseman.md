@@ -1,14 +1,16 @@
 ---
+title: 'Flat Death: Edgar Martins and Jordan Baseman at Open Eye Gallery'
+date: 2016-02-22 00:00:00 Z
 layout: post
-title: "Flat Death: Edgar Martins and Jordan Baseman at Open Eye Gallery"
-redirect_from:
+redirect_from: 
 image: assets/jordan-baseman-deadness.jpg
-image_link:
+image_link: 
 image_caption: Jordan Baseman, Deadness, 2013
-article_category:
-publisher:
-publisher_url:
+article_category: 
+publisher: 
+publisher_url: 
 ---
+
 It seems apt that a photography exhibition on death should move away from the _decisive moment_, the <q>recognition, in a fraction of a second, of the significance of an event as well as of a precise organization of forms</q> that Henri Cartier Bresson defined as the essence of photography. The moment of death is medically, legally, and philosophically contested. Facing an exhibition on death, the [Open Eye Gallery](http://www.openeye.org.uk) has turned to Edgar Martins and Jordan Baseman, practitioners of _late photography_—as described by David Campany—artists who closer resemble a researcher in an archive or forensic investigator, turning up to the remains and aftermath of circumstances to draw on traces of evidence and to look at their subject indirectly.
 
 Martins presents a portion of his project <cite>Siloquies and Soliloquies on death, life and other interludes</cite>, made in collaboration with the Institute of Legal Medicine and Forensic Science in Portugal, in which he explores the cultural necessity to fully forensically understand death, as a concept and in individual circumstances. Martins seems literally unable to face the circumstances of death and his approach reaches as close as possible while remaining at a dignified and respectful distance expected by European attitudes towards death. He presents a series of photographs that at first appear to be nothing more than blank sheets of paper; the accompanying descriptions tell that these are the backs of suicide notes, taken from the coronas office in Portugal and blown up to life size.
