@@ -5,6 +5,7 @@ redirect_from:
 image: assets/dieter-roth-diaries.jpg
 image_link:
 image_caption:
+image_alt:
 article_category:
 publisher:
 publisher_url:
