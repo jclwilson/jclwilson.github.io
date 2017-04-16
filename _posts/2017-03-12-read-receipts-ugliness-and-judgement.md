@@ -2,26 +2,26 @@
 title: "✓✓ Read Receipts: Ugliness and Judgement"
 date: 2017-03-12 00:00:00 Z
 layout: post
-redirect_from: 
+redirect_from:
 image: assets/uglydesign-pillow.jpg
 image_link: https://www.instagram.com/uglydesign/
 image_caption: Photo by @uglydesign
 image_alt: A photo of a 'girlfriend' pillow; a fabric square with a single arm and
   two breasts.
 article_category: 
-publisher: 
-publisher_url: 
-contributor: 
-coverage: 
-creator: 
-description: 
+publisher:
+publisher_url:
+contributor:
+coverage:
+creator:
+description:
 format: article
-identifier: 
-language: 
-relation: 
-rights: 
-source: 
-subject: 
+identifier:
+language:
+relation:
+rights:
+source:
+subject:
 ---
 
 The supermarket I occasionally shop at has started selling *wonky* products, their euphemism for the misshapen unwashed fruit and veg. I prefer these wonky products as they're cheaper, and I really don’t mind if my potatoes are a little muddy. The hatred of the word curation. Supermarkets are one of the most viciously curated modern spaces. They employ invigilators and guards, and entire production lines exist to collect, judge, and sort the work they show. Their arbitration over beauty and taste follows interpretations of national and EU laws that loosely define the bendiness of bananas and the quantity of rat poison in Marmite. When the UK leaves the EU all of this legislation will have to be redefined, we’ll have new British standards of ugliness, of wonkiness, and tastelessness. Of course, the definition of ugliness is linked to degeneracy and inefficiency, the standards by which fascists judge people.

@@ -1,0 +1,20 @@
+---
+layout: post
+title: Weekly Reader 9
+redirect_from: post/113686259259/weekly-reader-9
+image: null
+image_link: 'http://instagram.com/kinfolk'
+image_caption: Photo by Kinfolk
+image_alt: null
+---
+The past week has been all about speeding up and slowing down. I've now completed 50% of my MA, with only the dissertation left to do, so I'm having a bit of a relax at the moment, before the work kicks in again. I think I'll be writing on a few technology & labour focussed artists for the dissertation, and this week's links reflect that.
+
+- Historical Lyff Hackes. [Playing with cats](http://askthepast.blogspot.co.uk/2014/09/how-to-play-with-cat-1658.html), [how to exchange photographs](http://askthepast.blogspot.co.uk/2014/04/how-to-exchange-photographs-1891.html), and [how to cut up birds](http://askthepast.blogspot.co.uk/2014/02/how-to-discuss-meat-carving-1673.html), "Untach that Curlew, Unjoint that Bittern, Disfigure that redirect_from, Display that Crane, Dismember that Hern, Unbrace that Mallard, Frust that Chicken, Spoil that Hen, Sauce that Capon, Lift that Swan"
+- "Shitphones are generally not actually shitty. [They are, if you isolate them from the distorting effect of highly competitive preference-driven smartphone retail and marketing,](https://medium.com/matter/shitphone-a-love-story-a44e66434807) the absence of which helps keep them so cheap, marvels of engineering and execution"
+- ["in the era of social media platforms, the power of archives is deployed in the banality of surveillance"](http://thenewinquiry.com/essays/the-collection-and-the-cloud/)
+- "ClassPass marks the latest advance of the Internet's middleman economy, which is progressing ever deeper into the territory of brick-and-mortar businesses -- [a process that began almost two decades ago with Amazon and shows no signs of stopping](http://www.nytimes.com/2015/03/05/magazine/classpass-and-the-joy-and-guilt-of-the-digital-middleman-economy.html)."
+- "[a small yet sizeable number of poets have ventured into pre-internet computer poems, yielding an even smaller number of specialists who know about their creative pursuits.](http://rhizome.org/editorial/2015/mar/5/speaking-code/) Not only that, but digital poems take resources to conserve, programmers who know how to do so and, considering that many of these poems pre-date the internet, they are not as accessible as their successors, such as hypertext narrative."
+- "Miao Ying's recent online exhibition "Meanwhile... in China, so in love, will never feel tired again," titled after the "Meanwhile in X" meme featuring absurd imagery of specific places, [inaugurated the platform Netizenet with a series of six web-based works, including three animated GIFs and three posts on issues related to the Chinese internet environment.](http://leapleapleap.com/2015/03/miao-ying-and-the-first-generation-of-chinese-net-art/)"
+- "Triple Canopy editors and invited artists, writers, and technologists will lead discussions and workshops with participating students, who will research, analyze, and enact an approach to publication that hinges on today's networked forms of production and circulation but also mines the history of print culture and artistic practice." [A series of workshops and a short course in writing at Triple Canopy, NYC](http://canopycanopycanopy.com/contents/announcing_our_publication_intensive_june_1526_2015).
+- "To me, being able to speak and write to anyone, anytime, anywhere is exhilarating. By freeing us from the constraints of time and space, mobile communication can help us seize the moment, which is the ultimate aim of Slow", [on the subject of deceleration, an interview with Carl Honoré in Kinfolk](http://www.kinfolk.com/an-interview-with-carl-honore/).
+- I've seen things you people wouldn't believe... [Barbie dolls that analyse natural speech](http://www.dazeddigital.com/artsandculture/article/24093/1/privacy-groups-want-this-really-creepy-barbie-banned), [Japanese families mourning the death of their Sony Aibo Robodog...](http://www.theguardian.com/commentisfree/2015/mar/12/mourn-robotic-dog-human-sony)

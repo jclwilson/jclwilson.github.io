@@ -1,0 +1,21 @@
+---
+layout: post
+title: Weekly Reader 8
+redirect_from: post/113089854299/weekly-reader-8
+image: 'http://66.media.tumblr.com/e69da3a79139a9ed505d8bf02e022168/tumblr_inline_nkwmoxXG041qj1kht.jpg'
+image_link: 'http:/instagram.com/louise_eaton'
+image_caption: Photo by Louise Eaton
+image_alt: null
+---
+I've had an incredibly busy week with the penultimate MA deadline and a couple of days working with the Courtauld Gallery on the new website. Thankfully the weekend has been relaxing and the sun has been perfect. On Saturday I got to the Peckham Pelican for the Kiosk Independent Publishers Fair, before going to cat-sit a little kitten. Today I biked to the Royal Academy to see _Premiums: Interim Projects_ and the Rubens show. I don't currently have any university deadlines, so if you'd like to hang out, now's the best time.
+
+- "Prior to its revival by feminist movements in the 70's and its adoption by the UN in 1977, ['Woman's Day' day was first recognized in the United States in 1910 following the thirteen week long strike of 20,000 female garment workers.](http://www.versobooks.com/blogs/1907-women-against-inequality-a-verso-reading-list-for-international-women-s-day)"
+- "There was something so fucking powerful about Ayesha's insistence on using a form and a forum like Twitter instead of writing that Important Thinkpiece in that Important Publication and insisting that [she can do better in 140 characters than what most people can do in a "proper" thinkpiece published in an established place with institutional backing.](http://logger.believermag.com/post/111377083944/reading-bhanu-kapil)"
+- "With its cascading concrete terraces and intersecting outdoor walkways, the University of Zambia in Lusaka, designed in 1965, is a powerful demonstration of this free-flowing landscape ideal. [Arranged along an axial spine, the faculty buildings have exposed staircases and galleries on multiple levels, with small niches, kiosks and seating areas built in, creating streetlike social bustle.](http://www.theguardian.com/artanddesign/2015/mar/01/african-modernist-architecture)"
+- "Hyatt's exhibition brings together works by 19 ceramic artists--from heroic, established figures to fresh names employing innovative techniques and styles--[to emphasize the generative and narrative possibilities of the medium.](https://www.artsy.net/post/editorial-curator-meredyth-hyatt-moses-assembles-standout-ceramics)"
+- "When I die, bury me inside a vat of saag paneer. [Indian food is categorically delicious: its flavors are complex, oscillating between sweet, savory, and spicy](http://munchies.vice.com/articles/theres-a-scientific-reason-why-indian-food-is-so-delicious); its textures meld creamy sauces with doughy breads and tender meat and vegetables to make the slop of dreams."
+- "[That's a heaps broad question. I love quiet, I love Oscar Key-Sung, I love tattooing myself, I love a clear mind, and i love dirty ass club music.](https://thump.vice.com/en_au/article/in-the-garden-of-htmlflowers)"
+- "I have heard older photographers call the trend cowardly. Some claim it represents an unwillingness on the part of young photographers to go out and confront the real world. [My problem is not that still-life photography is cowardly, but that most of the still lifes being made today are extremely lazy.](http://www.vice.com/read/still-life-photography-405)"
+- [Beth Kleinpeter photographs the Cat Fanciers Association Show](http://www.bethkleinpeter.com/dmtavscudgcbzh0080k8o1pr7ssoy9).
+- "Everything in this book is fake: fabricated streets that barely look real, [sculptures of airplanes that look like cheap overblown toys, American soldiers who pretend to be the enemy and paint anti-US slogans on the walls, etc.](http://we-make-money-not-art.com/archives/2015/03/staging-disorder.php#.VPyb4M2sWkA)"
+- "How differently the sun used to shine and the wind blow there, how different was the lovely song of the birds that could be heard there, or the melodious call of the herdsman. [And here--this strange, ugly city, the gloomy stall, the nauseating, stale hay, mixed with rotten straw, and the strange, frightening humans](http://versobooks.tumblr.com/post/112778454703/extract-from-the-letters-of-rosa-luxemburg)--the beating, the blood running from the fresh wound..."

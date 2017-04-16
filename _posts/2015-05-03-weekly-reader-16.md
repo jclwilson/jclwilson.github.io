@@ -1,0 +1,21 @@
+---
+layout: post
+title: Weekly Reader 16
+redirect_from: post/118016720881/weekly-reader-16
+image: 'http://65.media.tumblr.com/faa18bd6f264674a245c660a9402907e/tumblr_inline_nnqs8wZ0XI1qj1kht_540.jpg'
+image_caption: Photo by Devin Allen
+image_link: 'http://instagram.com/bydvnlln'
+image_alt: null
+---
+Just as I woke up to write this list it started lashing with rain, I can hear someone's poor cat mewing to be let back in. The past week I've been really looking forward to balmy summer days, fixing my bike up with panniers and properly cycling about, I reckon I'd need a new bike to do anything more than a short day trip to the countryside, but for today those plans are ruined! Hopefully it'll only be a few more days of raincoats and woolly hats.
+
+- An update on the Mediterranean asylum seekers links last week. Why abstract numbers on 'how many arrived' make no sense out of context; _[Displaced Again and Again, Some African Migrants Had No Plan to Land in Italy.](http://www.nytimes.com/2015/05/02/world/europe/displaced-again-and-again-some-african-migrants-had-no-plan-to-land-in-italy.html)_
+- [40 years of Visual Pleasure.](http://www.littlewhitelies.co.uk/features/articles/visual-pleasure-laura-mulvey-bfi-southbank-29998) I wrote an essay on Laura Mulvey's _Visual Pleasure_ in my second year class with Mignon Nixon. If I remember rightly it was the highest marked essay I wrote that year, it'd be funny to go back and read it.
+- "Cahun's work is considered as [strikingly similar to contemporary feminist thinking around gender, identity and sexuality and as a photographer she is described as a forerunner to artists](http://www.anothermag.com/art-photography/7358/claude-cahun-a-very-curious-spirit) like Cindy Sherman and Gillian Wearing." [There's a talk on the 5th of May at The Courtauld on Cahun's work](https://www.courtauld.ac.uk/researchforum/events/2015/summer/may05_HistoryofPhotography.shtml)!
+- I never knew that Barbara Hepworth was a photographer! Laszlo Moholy-Nagy is thought to have taught Hepworth how to use her first camera – a Zeiss Ikon in 1933\. [Her previously-unseen photographs will be shown at the upcoming retrospective at The Tate Britain in June.](http://www.bjp-online.com/2015/05/barbara-hepworths-never-seen-before-photographs-tate-britain-london/)
+- "[It's perhaps no real surprise that "Education" has emerged as our first theme.](http://intern-mag.com/theme/) It's a natural focal point for a generation of young people who (in the UK and US at least) leave university entrenched in debt then find many of the opportunities presented to them to be underpaid or unpaid."
+- "A lot of the stuff people are engaging with seems to be reliant on past glory or legacy – the industrial revolution or the Thatcher era, or the musical and cultural peaks provided by 80s music and [the Manchester rave scene... Rave culture was twenty years ago at the earliest. It's dead, isn't it?](http://paper-journal.com/interview-preston-is-my-paris/)"
+- [I desperately need a new pair of sunglasses to match my new (lack-of) hairstyle, so I'm turning to classic cinema for inspiration.](http://www.bfi.org.uk/news-opinion/news-bfi/features/50-shades-cinema-greatest-sunglasses)
+- Taken from [Stevie's weekend list](http://discothequeconfusion.blogspot.com/2015/05/the-weekend-list-no-16.html), _Shit You Should Know: How To Gut and Clean a Squid._ [The beautiful black and white .gif illustrations alone will make you want to pick up a squid and get slicing.](http://goodgoodgirl.com/shit-you-should-know-how-to-gut-and-clean-squid/)
+- "This is more of an observation than a question – in fact it's not a question at all – [in fact it's less an observation than an open-ended series of unconnected thoughts wrapped in a thin veneer of criticism – I've never asked a question in my life.](http://the-toast.net/2015/05/01/every-question-in-every-qa-session-ever/)"
+- "Have to be accountable. Yield to arguments. What I feel like is just fucking around. [Publish this diary for example. Say stupid shit. Barf out the fucking-around-o-maniacal schizo flow. Barter whatever for whoever wants to read it.](http://www.theparisreview.org/blog/2015/04/30/say-stupid-shit/) Now that I'm turning into a salable name I can find an editor for sure [...]"
