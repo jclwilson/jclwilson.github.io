@@ -219,7 +219,7 @@ module.exports = (name, func) => {
     p.request = request;
     return p;
   }
-
+  
   function promisifyCursorRequestCall(obj, method, args) {
     var p = promisifyRequestCall(obj, method, args);
     return p.then(function(value) {

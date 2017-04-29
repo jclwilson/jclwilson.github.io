@@ -2,18 +2,18 @@
   "_args": [
     [
       {
-        "raw": "sw-offline-google-analytics@^1.1.1",
+        "raw": "sw-offline-google-analytics@1.1.1",
         "scope": null,
         "escapedName": "sw-offline-google-analytics",
         "name": "sw-offline-google-analytics",
-        "rawSpec": "^1.1.1",
-        "spec": ">=1.1.1 <2.0.0",
-        "type": "range"
+        "rawSpec": "1.1.1",
+        "spec": "1.1.1",
+        "type": "version"
       },
       "/home/jacob/Projects/jclwilson.github.io"
     ]
   ],
-  "_from": "sw-offline-google-analytics@>=1.1.1 <2.0.0",
+  "_from": "sw-offline-google-analytics@1.1.1",
   "_id": "sw-offline-google-analytics@1.1.1",
   "_inCache": true,
   "_location": "/sw-offline-google-analytics",
@@ -29,21 +29,22 @@
   "_npmVersion": "3.8.6",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "sw-offline-google-analytics@^1.1.1",
+    "raw": "sw-offline-google-analytics@1.1.1",
     "scope": null,
     "escapedName": "sw-offline-google-analytics",
     "name": "sw-offline-google-analytics",
-    "rawSpec": "^1.1.1",
-    "spec": ">=1.1.1 <2.0.0",
-    "type": "range"
+    "rawSpec": "1.1.1",
+    "spec": "1.1.1",
+    "type": "version"
   },
   "_requiredBy": [
+    "#USER",
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/sw-offline-google-analytics/-/sw-offline-google-analytics-1.1.1.tgz",
   "_shasum": "6000ec4ead227a2b373289f65d94c5a5dd25b9a9",
   "_shrinkwrap": null,
-  "_spec": "sw-offline-google-analytics@^1.1.1",
+  "_spec": "sw-offline-google-analytics@1.1.1",
   "_where": "/home/jacob/Projects/jclwilson.github.io",
   "author": {
     "name": "Jeff Posnick",
@@ -77,7 +78,8 @@
   ],
   "name": "sw-offline-google-analytics",
   "optionalDependencies": {},
-  "readme": "ERROR: No README data found!",
+  "readme": "# sw-offline-google-analytics\n\nA service worker helper library to retry offline Google Analytics requests when a connection is available.\n\n## Installation\n\n`npm install --save-dev sw-offline-google-analytics`\n\n## Demo\n\nBrowse sample source code in the [demo directory](https://github.com/GoogleChrome/sw-helpers/tree/master/projects/sw-offline-google-analytics/demo), or\n[try it out](https://googlechrome.github.io/sw-helpers/sw-offline-google-analytics/demo/) directly.\n\n## API\n\n### goog.offlineGoogleAnalytics.initialize\n\n[projects/sw-offline-google-analytics/src/index.js:82-132](https://github.com/GoogleChrome/sw-helpers/blob/1bbd88bfee382bf2882f27b37fad8204f0cd1b5b/projects/sw-offline-google-analytics/src/index.js#L82-L132 \"Source code on GitHub\")\n\nIn order to use the library, call`goog.offlineGoogleAnalytics.initialize()`.\nIt will take care of setting up service worker `fetch` handlers to ensure\nthat the Google Analytics JavaScript is available offline, and that any\nGoogle Analytics requests made while offline are saved (using `IndexedDB`)\nand retried the next time the service worker starts up.\n\n**Parameters**\n\n-   `config` **\\[[Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)]** Optional configuration arguments.\n    -   `config.parameterOverrides` **\\[[Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)]** Optional\n                           [Measurement Protocol parameters](https://developers.google.com/analytics/devguides/collection/protocol/v1/parameters),\n                           expressed as key/value pairs, to be added to replayed\n                           Google Analytics requests. This can be used to, e.g., set\n                           a custom dimension indicating that the request was\n                           replayed.\n    -   `config.hitFilter` **\\[[Function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function)]** Optional\n                           A function that allows you to modify the hit parameters\n                           prior to replaying the hit. The function is invoked with\n                           the original hit's URLSearchParams object as its only\n                           argument. To abort the hit and prevent it from being\n                           replayed, throw an error.\n\n**Examples**\n\n```javascript\n// This code should live inside your service worker JavaScript, ideally\n// before any other 'fetch' event handlers are defined:\n\n// First, import the library into the service worker global scope:\nimportScripts('path/to/offline-google-analytics-import.js');\n\n// Then, call goog.offlineGoogleAnalytics.initialize():\ngoog.offlineGoogleAnalytics.initialize();\n\n// At this point, implement any other service worker caching strategies\n// appropriate for your web app.\n```\n\n```javascript\n// If you need to specify parameters to be sent with each hit, you can use\n// the `parameterOverrides` configuration option. This is useful in cases\n// where you want to set a custom dimension on all hits sent by the service\n// worker to differentiate them in your reports later.\ngoog.offlineGoogleAnalytics.initialize({\n  parameterOverrides: {\n    cd1: 'replay'\n  }\n});\n```\n\n```javascript\n// In situations where you need to programmatically modify a hit's\n// parameters you can use the `hitFilter` option. One example of when this\n// might be useful is if you wanted to track the amount of time that elapsed\n// between when the hit was attempted and when it was successfully replayed.\ngoog.offlineGoogleAnalytics.initialize({\n  hitFilter: searchParams =>\n    // Sets the `qt` param as a custom metric.\n    const qt = searchParams.get('qt');\n    searchParams.set('cm1', qt);\n  }\n});\n```\n\nReturns **[undefined](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined)** \n",
+  "readmeFilename": "README.md",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/googlechrome/sw-helpers.git"
