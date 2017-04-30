@@ -1,38 +1,42 @@
 ---
-layout: 
 ---
-
-var CACHE_VERSION = 'jclwilson-v5';
-var CACHE_FILES = [
-    '/',
-    '/404',
-    '/offline',
-    '/assets/reframe.js/dist/reframe.min.js',
-    'https://fonts.gstatic.com/s/worksans/v2/ElUAY9q6T0Ayx4zWzW63VFtXRa8TVwTICgirnJhmVJw.woff2',
-    'https://fonts.gstatic.com/s/droidserif/v6/0AKsP294HTD-nvJgucYTaI4P5ICox8Kq3LLUNMylGO4.woff2'
-];
+    var CACHE_VERSION = 'jclwilson-v5';
+	var CACHE_FILES = [
+	    '/',
+	    '/404',
+	    '/offline',
+	    '/assets/reframe.js/dist/reframe.min.js',
+	    'https://fonts.gstatic.com/s/worksans/v2/ElUAY9q6T0Ayx4zWzW63VFtXRa8TVwTICgirnJhmVJw.woff2',
+	    'https://fonts.gstatic.com/s/droidserif/v6/0AKsP294HTD-nvJgucYTaI4P5ICox8Kq3LLUNMylGO4.woff2'
+	];
 
 self.addEventListener('install', function(event) {
     event.waitUntil(
-        caches.open(CACHE_VERSION).then(function (cache) {
-            cache.addAll([
-                {% for page in site.posts limit: 10 %}
-                    {{ page.url | prepend: "'" | append: "'," }}
-					{{ page.image | prepend: "'" | append: "'," }}
-                {% endfor %}
-            ]);
+        caches.open(CACHE_VERSION).then(function(cache) {
+            cache.addAll([{ %
+                for page in site.posts limit: 10 %
+            } {
+                {
+                    page.url | prepend: "'" | append: "',"
+                }
+            } {
+                {
+                    page.image | prepend: "'" | append: "',"
+                }
+            } { % endfor %
+            }]);
             return cache.addAll(CACHE_FILES);
         })
     );
 });
 
-self.addEventListener('activate', function (event) {
+self.addEventListener('activate', function(event) {
     event.waitUntil(
         caches.keys().then(function(keys) {
             return Promise.all(
-                keys.map(function(key, i){
-                    if (key !== CACHE_VERSION){
-                        console.log('will delete '  + keys[i]);
+                keys.map(function(key, i) {
+                    if (key !== CACHE_VERSION) {
+                        console.log('will delete ' + keys[i]);
                         return caches.delete(keys[i]);
                     }
                 })
@@ -50,14 +54,14 @@ goog.offlineGoogleAnalytics.initialize();
 // appropriate for your web app.
 
 self.addEventListener('fetch', function(event) {
-  event.respondWith(
-    // Try the cache
-    caches.match(event.request).then(function(response) {
-      // Fall back to network
-      return response || fetch(event.request);
-    }).catch(function() {
-      // If both fail, show a generic fallback:
-      return caches.match('/offline');
-    })
-  );
+    event.respondWith(
+        // Try the cache
+        caches.match(event.request).then(function(response) {
+            // Fall back to network
+            return response || fetch(event.request);
+        }).catch(function() {
+            // If both fail, show a generic fallback:
+            return caches.match('/offline');
+        })
+    );
 });

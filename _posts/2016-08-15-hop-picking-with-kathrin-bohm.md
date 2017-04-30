@@ -2,13 +2,13 @@
 title: Hop Picking in Kent with Kathrin Böhm
 date: 2016-08-15 00:00:00 Z
 layout: post
-redirect_from: 
+redirect_from:
 image: assets/kathrin-bohm-hop-picking.jpg
-image_link: 
-image_caption: 
-article_category: 
-publisher: 
-publisher_url: 
+image_link:
+image_caption:
+article_category:
+publisher:
+publisher_url:
 ---
 
 Taking the train from Charing Cross out to the hop fields of Kent we found ourselves repeating a journey that thousands of families, hundreds of thousands of individuals, made each summer from the 1800s right up until the mid-twentieth century. Today, the train provides a convenience and comparative luxury, where in earlier times the journey would be made by carts, lorries, or even by foot. It was the promise of seasonal work—and perhaps a short summer holiday—as well as the desire to escape the smog-filled air and the poverty of the East End of London that drove people out to countryside and made them return year after year.
@@ -17,7 +17,7 @@ Hops are the essential ingredient in all modern beers. Other plants such as dand
 
 It's the social history of hop picking that excites Kathrin Böhm, founder of international artist group [_Myvillages_](http://www.myvillages.org/), now living and working in London, and currently a UK associate at [Delfina Foundation](http://delfinafoundation.com/) as part of this year's Politics of Food programme. Two years ago Kathrin and Myvillages started [Company Drinks](http://companydrinks.info/), a new community enterprise based in Barking and Dagenham, the heart of the East End of London, where many hop pickers came from. Company Drinks started out looking at the fruit and produce that could be picked around the East End and how this could be returned to the people living in the area.
 
-Discovering this micro-history of hop picking, Company Drinks decided to get the local community involved in the process, taking groups of Eastenders out on research and hop picking trips that draw on this history of collective work and collective living. Through these trips people have shared and collected family stories and even personal memories of a now nearly-lost industry that remains just within living memory. I had joined Kathrin, along with social historian and history lecturer at University East London Dr Toby Butler, and members of [MUF Architecture / Art](http://www.muf.co.uk/) on a research trip, to learn about the social history of hop-picking and to understand the collective work, gendered work, and the ways that these precarious workers lived.
+Discovering this micro-history of hop picking, Company Drinks decided to get the local community involved in the process, taking groups of Eastenders out on research and hop picking trips that draw on this history of collective work and collective living. Through these trips people have shared and collected family stories and even personal memories of a now nearly-lost industry that remains just within living memory. I was joining Kathrin, along with social historian and history lecturer at University East London Dr Toby Butler, and members of [MUF Architecture / Art](http://www.muf.co.uk/) on a research trip, to learn about the social history of hop-picking and to understand the collective work, gendered work, and the ways that these precarious workers lived.
 
 There wouldn't be any picking today. While the hop plants, known as _bines_, have reached their full height, as they're supposed to by Midsummer's Eve, they're only just producing the smallest of buds. Instead, we would be taking a walking tour of the hop pickers' seasonal accommodation. We met Kathrin and the fellow day-pickers at their own home for the weekend, the older hopper's hospital, a pub turned Christian mission by Richard Wilson, Vicar of St Augustine's Stepney in 1910. Setting out from the hospital, it's not long before we come across the first 'hopper's hut', but it takes keen eyes to spot one. A small brick rectangle with a corrugated roof, rusted and collapsed after around 100 years in the elements, it could easily be mistaken for a pig shed. These huts were a luxury compared to previous accommodation, which had been tents or shacks thrown up by the hoppers or a particularly generous farmer, hugely unpopular, and long since rotted away. In 1926 the Ministry of Health drew up new guidelines for hoppers' huts—a minimum size of 8 feet (2.44 m) by 10 feet (3.05 m) with a solid wall and roof—this style of hut would fit up to eight adults and children in bunk beds. Though, Toby tells us that some of the huts he's seen and measured fall well short of even these meagre conditions.
 
@@ -27,7 +27,7 @@ Leaving the haze of the hop fields we walk straight into the yard of Reeds Farm,
 
 The mechanisation of the hop industry only began in earnest following the second world war. The increasing tax on beers also drove demand down, and hop farmers found more profit was to be made in fruit orchards than hops. The BFI's Rural Britain archive has early newsreels of hop picking, and later documentaries made in the 60s as the industry [really began to collapse](http://player.bfi.org.uk/film/watch-hop-picking-1966/). In the films we see the mass employment of women and children, and a few men, who were typically working in factories, but maybe visiting at weekends. In the later documentaries, we hear the testimony of hop pickers who've been working the same farms for years. With hindsight it's heart wrenching to see the pickers, many elderly, who are aware of the coming mechanisation, but with a sense of willing disbelief, don't yet see how their income or their social lives will be affected by it.
 
-Further from Reeds' we come across a second field of huts, joined by static caravans. These are different to the first, still occupied, albeit by day trippers and families looking for a cheap getaway to the countryside. They're supplied with a few electricity lines and some collapsable showers, but are still cooking on barbeques or camping stoves. Sofas and radios now furnish the old breeze block cookhouses. These huts are what remains of an entire social world built up around a backbreaking industry.
+Further from Reeds' we come across a second field of huts, joined by static caravans. These are different to the first, still occupied, albeit by day trippers and families looking for a cheap getaway to the countryside. They're supplied with a few electricity lines and some collapsible showers, but are still cooking on barbeques or camping stoves. Sofas and radios now furnish the old breeze block cookhouses. These huts are what remains of an entire social world built up around a backbreaking industry.
 
 We return to the hoppers' hospital in the evening to meet with Toby Simmonds, co-founder of [Kent Brewery](http://www.kentbrewery.com/). Over a few pints of his own Kent Golden Bitter he tells us that most of the remaining British hop industry exports to the US and Canada, where bitters are gaining in popularity, while the UK imports its hops from these countries, along with New Zealand and even southern France. It's the result of a mixture of convenience and taste; the American hops, strong and citrusy—perfect for IPAs—are currently hugely popular, and the simple fact is that these varieties will only grow in warmer drier climates than Britain. The North American obsession with English ales comes from a fashion of nostalgia for the Old World.
 
