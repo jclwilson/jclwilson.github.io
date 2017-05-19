@@ -13,18 +13,12 @@
 self.addEventListener('install', function(event) {
     event.waitUntil(
         caches.open(CACHE_VERSION).then(function(cache) {
-            cache.addAll([{ %
-                for page in site.posts limit: 10 %
-            } {
-                {
-                    page.url | prepend: "'" | append: "',"
-                }
-            } {
-                {
-                    page.image | prepend: "'" | append: "',"
-                }
-            } { % endfor %
-            }]);
+            cache.addAll([
+				{% for page in site.posts limit: 10 %}
+					{{ page.url | prepend: "'" | append: "'," }}
+						{{ page.image | prepend: "'" | append: "'," }}
+				{% endfor %}
+			]);
             return cache.addAll(CACHE_FILES);
         })
     );
