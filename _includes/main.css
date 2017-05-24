@@ -75,7 +75,7 @@ blockquote p:after, q:after {
     left: 0.1em;
 }
 
-figure img {
+img {
     display: block;
     width: 100%;
 }
@@ -84,7 +84,7 @@ figure img {
     .figure__filter {
         background-color: #42449d;
     }
-    figure img {
+    img {
         filter: grayscale(1);
         mix-blend-mode: lighten;
     }
