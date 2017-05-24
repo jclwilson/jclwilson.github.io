@@ -143,3 +143,27 @@ figcaption {
     color: #fcf8ec;
     text-shadow: none;
 }
+
+@media print {
+    body {
+        background: white;
+        color: black;
+    }
+    img {
+        width: 33%;
+        margin-left: auto;
+        margin-right: auto;
+        filter: none;
+        mix-blend-mode: none;
+        filter: grayscale(1);
+    }
+    figcaption {
+        text-align: start;
+    }
+    .figure__filter {
+        background: none;
+    }
+}
+
+
+}
