@@ -36,17 +36,6 @@
 				</nav>
 			</footer>
 		</noscript>
-        <script>
-            if ('serviceWorker' in navigator) {
-             navigator.serviceWorker.register('/sw.js').then(function(registration) {
-                // Registration was successful
-                console.log('ServiceWorker registration successful with scope: ', registration.scope);
-              }).catch(function(err) {
-                // registration failed :(
-                console.log('ServiceWorker registration failed: ', err);
-              });
-            }
-        </script>
         <!-- Reframe.js makes container elements responsive -->
         <script src="/assets/reframe.js/dist/reframe.min.js"></script>
         <script>
@@ -61,6 +50,17 @@
 
           ga('create', 'UA-23909678-1', 'auto');
           ga('send', 'pageview');
+        </script>
+		<script>
+            if ('serviceWorker' in navigator) {
+             navigator.serviceWorker.register('/sw.js').then(function(registration) {
+                // Registration was successful
+                console.log('ServiceWorker registration successful with scope: ', registration.scope);
+              }).catch(function(err) {
+                // registration failed :(
+                console.log('ServiceWorker registration failed: ', err);
+              });
+            }
         </script>
     </body>
 </html>
