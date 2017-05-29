@@ -1,0 +1,32 @@
+---
+title: "✓✓ Read Receipts: The Indignity of Labour"
+layout: post
+redirect_from:
+image: assets/rodchenko-club.jpg
+image_link:
+image_caption: Alexander Rodchenko's workers' club, at the V-A-C Foundation, Venice.
+image_alt: The interior of the workers' club designed by the Soviet constructivist Alexander Rodchenko.
+article_category:
+publisher:
+publisher_url:
+contributor:
+coverage:
+creator:
+description:
+format: article
+identifier:
+language:
+relation:
+rights:
+source:
+subject:
+---
+For William Morris, labour itself was the source of human dignity as much as the source of material wealth. The problem as Morris saw it was that people were forced into undignified work. In his utopian novel <cite>News from Nowhere</cite> people approach work more as play than production—the joy of goldsmithing is its own reward, the belt buckle is merely a happy accident. There's a certain way I hold myself to this; I want to enjoy the work I do while using work as the means to judge myself. I struggle to remind myself of the indignity of labour. The development of the precariat economy over recent years has used the language of dignity and play to dissolve the differences between work and leisure. We shouldn't be demanding more dignified work, but less work—more play.
+
+- <q>Let's build a country where we invest our wealth to give everyone the best chance.</q> <cite>[The Labour Manifesto 2017](http://www.labour.org.uk/index.php/manifesto/2017/)</cite>. For the first time in my life there's a political party manifesto that has actual appeal and a slim chance of being put into practice. For two years, Corbyn and new left-wing members of the Labour Party have had to deal with an onslaught of slugs; rasping at every action, every statement, determined to consign any compassionate socialist ideal to the bin. Now it turns out these policies are popular.
+- <q><cite>New Socialist</cite> aims to create a new space for the radical left, helping to build, organise and encourage the movement as well as fostering robust intellectual discussion, razor-sharp debate and thorough criticism.</q> The [New Socialist](https://newsocialistblog.wordpress.com/about/). Founded by numerous comrades including the tireless [Tom Gann](https://twitter.com/Tom_Gann), I'm hopeful that this new website will play a part in redefining and sharpening broadly socialist ideology.
+- <q>That is fine with us: as an independent contractor you are free to work with whoever you choose and wear whatever kit you want.</q> <cite>[Deliveroo bows to pressure to change contracts for UK couriers](https://www.theguardian.com/business/2017/may/11/deliveroo-bows-to-pressure-to-change-contracts-for-british-couriers)</cite> on the <cite>Guardian</cite>. This is a case study in the contortions that companies such as Deliveroo and Uber are drawing themselves into—by refusing to classify their workers as employees they're losing the ability to brand themselves—ultimately, the only difference between the services. It's also a demonstration and a warning that employers can use union gains to their own advantage.
+- <q>I get to be romantic about these jobs because my hands are soft, not calloused by the type of labor that would require me to use them. I wrote, or I stood in shoe stores, or worked behind a cash register. Don't get me wrong, all of these things are also work—but they're different from the work that rests in American folklore.</q> <cite>[What Work Is](https://thebaffler.com/latest/what-work-is)</cite> in the <cite>Baffler</cite>. Hanif Willis-Abdurraqib on the intersection of art and labour in the city of Detroit, and the tenderness of the poetry of Philip Levine.
+- <q>Everybody works 12 hours… The machines have to be controlled… I need to use my strength and brains or I will break my hands and legs! This [barrel] has 220kg of chemicals. This has 100. That one has 60. The colour will be made according to the order… This is how things get made!</q> <cite>[Machines](http://tankmagazine.com/tank/2017/05/machines/)</cite> by William Bedingfield in <cite>Tank</cite>. This film by Rahul Jain is now showing nationwide, having premiered at the ICA earlier in the month. This is the vision of the world that politicians want every time that politicians argue that we must <q>compete on the world stage</q>, or say that unions are demanding red tape.
+- <q>It was only at some point during the twentieth century that a life of leisure for everyone became an aim in itself. Machines would take over all the necessary labour, leaving humans to a work-free existence. Then the problem became: what would we do with all that time?</q> <cite>[Knut Henrik Henriksen: The story of a man who lost interest in his job and started walking in circles](https://artreview.com/reviews/may_2017_review_knut_henrik_henriksen_/)</cite> in <cite>ArtReview</cite>. Chris Fite-Wassilak reviews the recent show at Hollybush Gardens, London that draws on the issues of free time and free space within the working city. Henriksen presents a world in which even though work has been eliminated, people still wander aimlessly doing stuff for the sake of it.
+- <q>I have a close friend and collaborator who lives in another city. A constant stream of emails, WhatsApp messages and long phone calls go back and forth, in which we apply the same critical thinking to each other's love-lives, emotions and worries about the future as we do each other's scripts, projects and funding applications.</q> <cite>[The Thinking Business](http://corridor8.co.uk/article/the-thinking-business/)</cite> on <cite>Corridor8</cite>. At the Royal Standard, Liverpool, Rebecca Ounstead and Paloma Proudfoot present their own take on the experience of creative work, what you might call <em>cognitive</em> or <em>immaterial</em> labour, and the friendships or looser-defined relationships that this fosters.
