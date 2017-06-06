@@ -21,6 +21,6 @@ rights:
 source:
 subject:
 ---
-Towards the end of May I visited <cite>[Offprint](http://offprint.org/)</cite>, the annual photo publishers fair at Tate Modern, London, to interview Winfried Heininger, the designer and publisher behind Kodoji Press. It was fascinating to hear such an experienced person talk on their practice and the importance of building relationships with artists.
+Towards the end of May I visited <cite>[Offprint](http://offprint.org/)</cite>, the annual photo publishers fair at Tate Modern, London, to interview Winfried Heininger, the designer and publisher behind [Kodoji Press](http://www.kodoji.com/). It was fascinating to hear such an experienced person talk on their practice and the importance of building relationships with artists.
 
 > Everyone comes with their own knowledge and own history, I think there’s never two people who understand or anticipate the book in the same way, and that’s interesting to me
