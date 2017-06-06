@@ -1,5 +1,5 @@
 ---
-title: '“They seem to fight to stop each other breathing”: Evangelia Kolyra’s 10,000 Litres — Reviewed'
+title: '"They seem to fight to stop each other breathing": Evangelia Kolyra’s 10,000 Litres — Reviewed'
 layout: syndicated
 redirect_from:
 image: assets/evangelia-kolyra-10000-litres.jpg
