@@ -13,7 +13,7 @@ instagram:
   username: jclwilson
 permalink: "/:title"
 markdown: kramdown
-gems:
+plugins:
 - jekyll-seo-tag
 - jekyll-redirect-from
 - jekyll-feed
