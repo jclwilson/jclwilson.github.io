@@ -10,7 +10,6 @@ html, body, cite, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquo
     padding: 0;
 }
 
-
 /* Font Rules */
 
 @font-face {
@@ -39,7 +38,7 @@ body {
     background-color: #fcf8ec;
     color: #42449d;
     font-family: 'Droid Serif', 'Georgia', serif;
-    font-size: 1.2em;
+    font-size: 1.4em;
     line-height: 1.4;
     margin: 0 5%;
     width: 90%;
@@ -93,6 +92,8 @@ img {
 figcaption {
     text-align: end;
 }
+
+.header {margin-top:1em;}
 
 .header, .main * {
     margin-bottom: 1em;
