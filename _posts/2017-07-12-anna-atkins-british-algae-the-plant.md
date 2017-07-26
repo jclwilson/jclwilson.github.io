@@ -1,5 +1,5 @@
 ---
-title: 'Anna Atkins'
+title: 'Sun, Sea, Algae'
 layout: print
 redirect_from:
 image: assets/anna-atkins-seaweed.jpg
