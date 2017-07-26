@@ -1,6 +1,6 @@
 ---
 title: 'In Profile: Daniel Castro Garcia'
-layout: syndicated
+layout: online
 redirect_from:
 image: assets/aly-gadiaga-robe.jpg
 image_link: https://frieze.com/article/profile-daniel-castro-garcia

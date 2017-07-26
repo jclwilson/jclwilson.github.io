@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<article class="post">
+    <header class="post__header">
+		{% if page.article_category %}{{ page.article_category | append: ': ' }}{% endif %}
+			<h1 class="post__title">
+				<a class="post__link" href="{{ page.url }}">{{ page.title }}</a>
+			</h1>{% if page.publisher %} for
+			<cite class="post__publisher">
+				{% if page.publisher_url %}<a class="post__publisher-link" href="{{ page.publisher_url }}">{% endif %}
+					{{ page.publisher }}
+				{% if page.publisher_url %}</a>{% endif %}
+			</cite>
+		{% endif %}
+    </header>
+    <section class="post__content">
+        {% if page.image %}
+            {% include page_image.html %}
+        {% endif %}
+        {{ page.content }}
+		<p>
+			The {{ page.format }}, <a href="{{ page.relation }}"><cite>{{ page.title }}</cite></a>, is now up on <a href="{{ page.publisher_url }}"><cite>{{ page.publisher }}</cite></a>.
+		</p>
+    </section>
+</article>

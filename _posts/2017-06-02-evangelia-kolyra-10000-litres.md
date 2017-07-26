@@ -1,6 +1,6 @@
 ---
 title: '"They seem to fight to stop each other breathing": Evangelia Kolyra’s 10,000 Litres — Reviewed'
-layout: syndicated
+layout: online
 redirect_from:
 image: assets/evangelia-kolyra-10000-litres.jpg
 image_link: http://www.thedoublenegative.co.uk/2017/06/they-seem-to-fight-to-stop-each-other-breathing-10000-litres-reviewed/

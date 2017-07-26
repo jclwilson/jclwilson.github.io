@@ -1,7 +1,7 @@
 ---
 title: Dinh Q. Lê at 133 Rye Lane, London
 date: 2016-09-28 00:00:00 Z
-layout: syndicated
+layout: online
 image: assets/dinh-q-le-the-colony.jpg
 image_link: 
 image_caption: Dinh Q. Lê, The Colony, 2016.

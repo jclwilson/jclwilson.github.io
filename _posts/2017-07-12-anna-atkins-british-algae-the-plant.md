@@ -1,6 +1,6 @@
 ---
 title: 'Anna Atkins'
-layout: syndicated
+layout: print
 redirect_from:
 image: assets/anna-atkins-seaweed.jpg
 image_link:
@@ -20,6 +20,7 @@ relation: http://theplantmagazine.com
 rights:
 source:
 subject:
+issue: issue 11
 ---
 In January I wrote an article on the seaweed cyanotypes of Anna Atkins, well regarded as the first female photographer. It's appeared in print with the summer issue of <cite>[The Plant](http://theplantmagazine.com)</cite>. It's only available in print, so you'll have to find a copy of the magazine. Alternatively, copies of her book <cite>British Algae</cite> can be found in the British Museum, the British Library, the Horniman Museum, and the New York Public Library. A recently acquired copy is currently featured at the Rijksmuseum as part of <cite>New Realities: Photography of the Nineteenth Century</cite>, open until the 17 of September.
 

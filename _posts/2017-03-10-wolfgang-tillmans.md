@@ -2,7 +2,7 @@
 title: '"Tillmans demonstrates that photography is still free to shape the world":
   Wolfgang Tillmans — Reviewed'
 date: 2017-03-10 00:00:00 Z
-layout: syndicated
+layout: online
 redirect_from: 
 image: assets/wolfgang-tillmans-tate.jpg
 image_link: http://www.thedoublenegative.co.uk/2017/03/tillmans-demonstrates-that-photography-is-still-free-to-shape-the-world-wolfgang-tillmans-reviewed/

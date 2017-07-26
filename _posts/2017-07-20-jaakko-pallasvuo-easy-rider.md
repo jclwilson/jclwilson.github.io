@@ -1,6 +1,6 @@
 ---
 title: 'Jaakko Pallasvuo’s Easy Rider Explores Supernatural Solutions to Real-World Problems'
-layout: syndicated
+layout: online
 redirect_from:
 image: assets/jaakko-pallasvuo-easy-rider.jpg
 image_link: https://eyeondesign.aiga.org/jaakko-pallasvuos-easy-rider-explores-supernatural-solutions-to-real-world-problems/

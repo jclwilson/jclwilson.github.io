@@ -1,6 +1,6 @@
 ---
 title: '"The privilege of being an artist is the ability to answer back": Art and Protest at Frieze Academy'
-layout: syndicated
+layout: online
 redirect_from:
 image: assets/heather-phillipson-more-flinching.jpg
 image_link: http://www.thedoublenegative.co.uk/2017/05/the-privilege-of-being-an-artist-is-the-ability-to-answer-back-art-and-protest-at-frieze-academy/

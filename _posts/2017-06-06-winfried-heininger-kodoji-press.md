@@ -1,6 +1,6 @@
 ---
 title: 'An interview with Kodoji Press'
-layout: syndicated
+layout: online
 redirect_from:
 image: assets/40-jahre-kernspaltung.jpg
 image_link: http://paper-journal.com/publishers-series-an-interview-with-kodoji-press/
