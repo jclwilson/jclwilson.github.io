@@ -10,22 +10,18 @@ html, body, cite, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquo
     padding: 0;
 }
 
-/* Font Rules */
-
-@font-face {
-    font-family: 'Droid Serif';
-    src: local('Droid Serif'), local('DroidSerif'), url(https://fonts.gstatic.com/s/droidserif/v6/0AKsP294HTD-nvJgucYTaI4P5ICox8Kq3LLUNMylGO4.woff2) format('woff2');
 :root {
 	/* colours */
 	--jcw-primary-colour: #222222;
 	--jcw-secondary-colour: #fefefe;
 }
 
+/* Font Rules */
+
 @font-face {
     font-family: 'Work Sans';
     src: local('Work Sans'), local('WorkSans-Regular'), url(https://fonts.gstatic.com/s/worksans/v2/ElUAY9q6T0Ayx4zWzW63VFtXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
 }
-
 
 /* BEM CSS below */
 
@@ -39,9 +35,9 @@ html {
 }
 
 body {
-    font-family: 'Droid Serif', 'Georgia', serif;
     background-color: var(--jcw-secondary-colour);
     color: var(--jcw-primary-colour);
+	font-family: 'Work Sans', 'Helvetica', 'Arial', sans-serif;
     font-size: 1.4em;
     line-height: 1.4;
     margin: 0 5%;
