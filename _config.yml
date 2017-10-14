@@ -13,7 +13,10 @@ instagram:
   username: jclwilson
 permalink: "/:title"
 markdown: kramdown
-gems:
+
+cdn_url: https://s3.eu-west-2.amazonaws.com/jclwilson-cdn/
+
+plugins:
 - jekyll-seo-tag
 - jekyll-redirect-from
 - jekyll-feed
