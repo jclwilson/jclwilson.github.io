@@ -2,7 +2,7 @@
 
 The personal blog of Jacob Charles Wilson ([@jclwilson](https://github.com/jclwilson/)).
 
-- Designed by [Jake](https://jacobcharleswilson.com).
+- Designed by [Jake](https://jacobcharleswilson.com/about).
 - Edited in [Atom](http://atom.io/).
 - Written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 - Rendered by [Jekyll](https://jekyllrb.com/).
