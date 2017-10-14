@@ -2,7 +2,7 @@
 title: Ben Rivers at the Whitworth Art Gallery, Manchester
 date: 2016-03-19 09:12:26 Z
 layout: online
-image: assets/ben-rivers.jpg
+image: ben-rivers
 image_link: http://www.thedoublenegative.co.uk/2016/03/bandits-banality-lies-ben-rivers-the-two-eyes-are-not-brothers/
 image_caption: 
 publisher: The Double Negative

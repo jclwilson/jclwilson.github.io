@@ -2,7 +2,7 @@
 layout: post
 title: "But the game is up! We must all die: Ben Rivers, Urth"
 redirect_from:
-image: assets/ben-rivers-urth.jpg
+image: ben-rivers-urth
 image_link:
 image_caption:
 article_category:

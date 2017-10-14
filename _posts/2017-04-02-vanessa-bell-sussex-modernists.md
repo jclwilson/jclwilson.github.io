@@ -4,7 +4,7 @@ title: 'They lived in squares, painted in circles and loved in triangles: Vaness
 date: 2017-04-02 00:00:00 Z
 layout: post
 redirect_from: vanessa-bell-sussex-modernists
-image: assets/bell-pond.jpg
+image: bell-pond
 image_link:
 image_caption: Vanessa Bell, View of the Pond at Charleston (c.1919)
 image_alt: A colourful painting of a vase, shaped like a feminine torso, on a windowsill

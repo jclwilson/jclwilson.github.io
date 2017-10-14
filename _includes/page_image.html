@@ -1,9 +1,10 @@
 <figure class="post__lead">
-    {% if page.image_link %}<a href="{{ page.image_link }}">{% endif %}
-        <div class="figure__filter">
-            <img src="{{ page.image }}" class="post__image" alt="{{ page.image_alt }}"/>
-        </div>
-    {% if page.image_link %}</a>{% endif %}
+	{% if page.image_link %}<a href="{{ page.image_link }}">{% endif %}
+		<picture class="figure__filter">
+		   <source type="image/webp" src="{{ site.cdn_url }}webp/{{ page.image }}.webp" />
+		   <img src="{{ site.cdn_url }}jpg/{{ page.image }}.jpg" class="post__image" alt="{{ page.image_alt }}" />
+		</picture>
+	{% if page.image_link %}</a>{% endif %}
     {% if page.image_caption %}
         <figcaption class="post__image-caption">
 			{% if page.image_link %}<a href="{{ page.image_link }}">{% endif %}

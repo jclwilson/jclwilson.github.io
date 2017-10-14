@@ -2,7 +2,7 @@
 title: Reframe, Rehang, Reassess
 date: 2016-12-03 00:00:00 Z
 layout: post
-image: assets/self-portrait-gregor-samsa.jpg
+image: self-portrait-gregor-samsa
 image_link: 
 image_caption: 
 article_category: 

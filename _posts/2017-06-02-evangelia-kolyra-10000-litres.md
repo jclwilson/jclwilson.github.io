@@ -2,7 +2,7 @@
 title: '"They seem to fight to stop each other breathing": Evangelia Kolyra’s 10,000 Litres — Reviewed'
 layout: online
 redirect_from:
-image: assets/evangelia-kolyra-10000-litres.jpg
+image: evangelia-kolyra-10000-litres
 image_link: http://www.thedoublenegative.co.uk/2017/06/they-seem-to-fight-to-stop-each-other-breathing-10000-litres-reviewed/
 image_alt: A performer stares into the middle distance, behind her, another holds a microphone and puts their hand to her neck.
 image_caption: Evangelia Kolyra, 10,000 Litres, 2017.

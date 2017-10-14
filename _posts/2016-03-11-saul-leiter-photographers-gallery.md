@@ -3,7 +3,7 @@ title: Saul Leiter at The Photographers' Gallery, London
 date: 2016-03-11 00:00:00 Z
 layout: post
 redirect_from: 
-image: assets/saul-leiter-photographers-gallery.jpg
+image: saul-leiter-photographers-gallery
 image_link: 
 image_caption: 
 article_category: 

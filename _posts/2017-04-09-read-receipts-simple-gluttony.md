@@ -2,7 +2,7 @@
 title: "✓✓ Read Receipts: Simple Gluttony"
 layout: post
 redirect_from:
-image: assets/simple-gluttony.jpg
+image: simple-gluttony
 image_link: https://www.instagram.com/p/BSZC9ZYFuT_/
 image_caption: Photo by Bon Appetit
 image_alt: A photograph of a soft fried egg, slightly crisped at the edges.

@@ -3,7 +3,7 @@ title: 'And a drowning was not over in a single morning: Brecht, The Swamp'
 date: 2017-01-26 00:00:00 Z
 layout: post
 redirect_from: 
-image: assets/tollund-man.jpg
+image: tollund-man
 image_link: 
 image_caption: 
 article_category: 

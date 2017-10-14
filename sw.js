@@ -1,6 +1,6 @@
 ---
 ---
-    var CACHE_VERSION = 'jclwilson-v6';
+    var CACHE_VERSION = 'jclwilson-v7';
 	var CACHE_FILES = [
 	    '/',
 	    '/404',
@@ -15,10 +15,15 @@ self.addEventListener('install', function(event) {
             cache.addAll([
 				{% for page in site.posts limit: 10 %}
 					{{ page.url | prepend: "'" | append: "'," }}
-						{{ page.image | prepend: "'" | append: "'," }}
+					{% if page.image %}
+						{{ site.cdn_url | prepend: "'" }}jpg/{{ page.image | append: ".jpg'," }}
+						{{ site.cdn_url | prepend: "'" }}webp/{{ page.image | append: ".webp'," }}
+					{% endif %}
 				{% endfor %}
 			]);
             return cache.addAll(CACHE_FILES);
+			console.log(CACHE_VERSION);
+			console.log(CACHE_FILES);
         })
     );
 });

@@ -3,7 +3,7 @@ title: "✓✓ Read Receipts: The Death of John Berger"
 date: 2017-01-08 00:00:00 Z
 layout: post
 redirect_from: 
-image: assets/john-berger-portrait.jpg
+image: john-berger-portrait
 image_link: 
 image_caption: John Berger
 article_category: 

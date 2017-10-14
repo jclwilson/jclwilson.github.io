@@ -2,7 +2,7 @@
 title: '"Calle condenses the entirety of her intriguing life down to a pack of cards": Deutsche Börse Photography Prize — Reviewed'
 layout: online
 redirect_from:
-image: assets/dana-lixenberg-imperial-court.jpg
+image: dana-lixenberg-imperial-court
 image_link: http://www.thedoublenegative.co.uk/2017/04/calle-condenses-the-entirety-of-her-intriguing-life-down-to-a-pack-of-cards-deutsche-borse-photography-prize-reviewed/
 image_alt: A photo of a young black man, seated, wearing a soft grey cotton tracksuit.
 image_caption: Dana Lixenberg, Toussaint, 1993.

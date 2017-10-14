@@ -2,7 +2,7 @@
 title: 'Mould Map 6: TERRAFORMERS at Bonington Gallery'
 date: 2016-10-08 00:00:00 Z
 layout: online
-image: assets/jonny-negron-mould-map.jpg
+image: jonny-negron-mould-map
 image_link: http://jonnynegron.com/
 image_caption: Poster, Jonny Negron
 article_category:

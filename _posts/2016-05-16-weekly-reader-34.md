@@ -2,7 +2,7 @@
 title: Weekly Reader 34
 date: 2016-05-16 00:00:00 Z
 layout: post
-image: http://66.media.tumblr.com/ff07828afa1d12385a002ce8f0f49d88/tumblr_inline_o79guiEOAa1qj1kht_540.jpg
+image: http://66.media.tumblr.com/ff07828afa1d12385a002ce8f0f49d88/tumblr_inline_o79guiEOAa1qj1kht_540
 image_caption: Photo by Juno Calypso
 image_link: https://www.instagram.com/junocalypso
 image_alt: A girl sat in bed, facing the camera

@@ -3,7 +3,7 @@ title: Dieter Roth at The Fruitmarket Gallery, Edinburgh
 date: 2012-08-27 00:00:00 Z
 layout: post
 redirect_from: 
-image: assets/dieter-roth-diaries.jpg
+image: dieter-roth-diaries
 image_link:
 image_caption:
 image_alt:

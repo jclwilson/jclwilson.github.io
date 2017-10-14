@@ -2,7 +2,7 @@
 title: "✓✓ Read Receipts: The Indignity of Labour"
 layout: post
 redirect_from:
-image: assets/rodchenko-club.jpg
+image: rodchenko-club
 image_link:
 image_caption: Alexander Rodchenko's workers' club, at the V-A-C Foundation, Venice.
 image_alt: The interior of the workers' club designed by the Soviet constructivist Alexander Rodchenko.
