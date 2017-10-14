@@ -1,4 +1,4 @@
 _site
 .jekyll-metadata
 _drafts
-node_modules
+assets/cdn
