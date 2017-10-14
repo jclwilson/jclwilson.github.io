@@ -40,8 +40,7 @@ body {
 	font-family: 'Work Sans', 'Helvetica', 'Arial', sans-serif;
     font-size: 1.4em;
     line-height: 1.4;
-    margin: 1em 5%;
-    width: 90%;
+    padding: 1em 5%;
     word-break: break-word;
     transition: font-size 0.3s ease;
 }
