@@ -79,6 +79,7 @@ img {
     display: block;
     width: 100%;
 	color: var(--jcw-secondary-colour);
+	text-shadow: none;
 }
 
 @supports (mix-blend-mode: lighten) {
