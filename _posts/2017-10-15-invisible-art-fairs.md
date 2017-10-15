@@ -22,7 +22,7 @@ source:
 subject:
 ---
 
-When Marco Polo arrived at the court of the great Kublai Khan, having travelled the art fairs of the boundless empire, he was called to report to the emperor on the magnificence of the work he had seen. But the famed Venetian had no riches, so he could not bring any treasures to the Great Khan, he had only what his tote bag and camera roll could carry. Returning to these blurry pictures and scribbled notes he had to improvise the descriptions of the works he had seen from the cards he hadn't thrown away, scraps of press releases, and some of the other art and culture blogs he followed.
+When Marco Polo arrived at the court of Kublai Khan, having travelled the art fairs of the boundless empire, he was called to report to the emperor on the magnificence of the work he had seen. But the famed Venetian had no riches, so he could not bring any treasures to the Great Khan, he had only what his tote bag and camera roll could carry. Returning to these blurry pictures and scribbled notes he had to improvise the descriptions of the works he had seen from the cards he hadn't thrown away, scraps of press releases, and some of the other art and culture blogs he followed.
 
 —
 
