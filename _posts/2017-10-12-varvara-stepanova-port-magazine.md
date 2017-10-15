@@ -5,7 +5,7 @@ redirect_from:
 image: varvara-stepanova-desk
 image_link:
 image_alt: 'A young woman sat at a desk covered in pens, rulers, and paper.'
-image_caption: ''
+image_caption:
 article_category:
 publisher: Port Magazine
 publisher_url: http://port-magazine.com/
