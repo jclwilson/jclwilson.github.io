@@ -44,7 +44,7 @@ There are times when strangers may be of great use to you. All artworks require 
 
 Kublai Khan ran his long whisp-like beard between his jewelled fingers, he had heard these summaries before. The reports of petty officials who talked of 'must sees' and 'highlights'.
 
-“You come to me with summaries of summaries, a roundup of roundups. It seems these are one and the same. The same artworks. The same magnificence. The same takes. Why should I listen to you before my most trusted ambassadors?”
+“You come to me with summaries of summaries, a round-up of round-ups. It seems these are one and the same. The same artworks. The same magnificence. The same takes. Why should I listen to you before my most trusted ambassadors?”
 
 Marco Polo fell silently for a moment, before the Great Khan continued.
 
