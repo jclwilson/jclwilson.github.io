@@ -21,7 +21,7 @@ layout: default
         {% endif %}
         {{ page.content }}
 		<p>
-			The {{ page.format }}, <a href="{{ page.relation }}"><cite>{{ page.title }}</cite></a>, is available in {{ page.issue }} of <a href="{{ page.publisher_url }}"><cite>{{ page.publisher }}</cite></a>.
+			{% if page.format %}The {{ page.format }},{% endif %} <a href="{{ page.relation }}"><cite>{{ page.title }}</cite></a>, is available in {% if page.issue %}{{ page.issue }} of {% endif %}<a href="{{ page.publisher_url }}"><cite>{{ page.publisher }}</cite></a>.
 		</p>
     </section>
 </article>
