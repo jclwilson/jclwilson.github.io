@@ -140,10 +140,11 @@ figcaption {
     }
 }
 
-::selection {
+:focus, ::selection {
     background: var(--jcw-primary-colour);
     color: var(--jcw-secondary-colour);
     text-shadow: none;
+	outline:none;
 }
 
 @media print {
