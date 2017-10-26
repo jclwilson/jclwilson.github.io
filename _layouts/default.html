@@ -21,9 +21,9 @@
 			<noscript>
 				<h2>Contact</h2>
 			</noscript>
-			<ul class="header__list">
-				{% if site.email %}<li class="header__link"><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %}
-				{% if site.twitter.username %}<li class="header__link"><a href="http://twitter.com/{{ site.twitter.username }}">{{ site.twitter.username | prepend: '@' }}</a></li>{% endif %}
+			<ul class="menu">
+				{% if site.email %}<li class="menu__link"><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %}
+				{% if site.twitter.username %}<li class="menu__link"><a href="http://twitter.com/{{ site.twitter.username }}">{{ site.twitter.username | prepend: '@' }}</a></li>{% endif %}
 			</ul>
         </header>
         <main class="main">
@@ -31,11 +31,11 @@
         </main>
 		<footer>
 			<nav>
-				<ul>
-					<li>
+				<ul class="menu">
+					<li class="menu__link">
 						<a href="/about">About</a>
 					</li>
-					<li>
+					<li class="menu__link">
 						<a href="#header">Back to top</a>
 					</li>
 				</ul>

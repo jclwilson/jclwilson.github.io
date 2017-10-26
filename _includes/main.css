@@ -104,11 +104,11 @@ figcaption {
     display: inline;
 }
 
-.header__list, .index {
+.menu, .index {
     list-style-type: none;
 }
 
-.header__link:before {
+.menu__link:before {
     content: " – "
 }
 
@@ -127,10 +127,10 @@ figcaption {
     body {
         font-size: 2.5em;
     }
-    .header__list {
+    .menu {
         display: inline;
     }
-    .header__link {
+    .menu__link {
         display: inline;
     }
     .post__lead {
