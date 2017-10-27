@@ -46,8 +46,8 @@ Kublai Khan ran his long whisp-like beard between his jewelled fingers, he had h
 
 “You come to me with summaries of summaries, a round-up of round-ups. It seems these are one and the same. The same artworks. The same magnificence. The same takes. Why should I listen to you before my most trusted ambassadors?”
 
-Marco Polo fell silently for a moment, before the Great Khan continued.
+Marco Polo fell silent for a moment, before the Great Khan continued.
 
-“I think I understand your format, let me describe an artwork, and you will tell me if it exists? An artwork of great size and length, this one draws a thimble from the deep well of history, it represents the latest work by the young artist living and working in the fashionable up-and-coming area of the city. The artwork explores issues of memory, desire, and subverts the gaze of the viewer.”
+“I think I understand your format, let me describe an artwork, and you will tell me if it exists? An artwork of great size and length, this piece draws a thimble from the deep well of history. It represents the latest work by the young artist living and working in the fashionable up-and-coming area of the city. The artwork explores issues of memory, desire, and subverts the gaze of the viewer.”
 
-“Indeed Great Khan, such an artwork will exist, and such an artwork will be written on, just as you have described. I myself may talk of such a work, but you must see that my stories are unlike those of your officials, for whom sale prices are more important, my stories are accompanied by stunning photo slideshows, <span class="underline">click to see more</span>.”
+“Indeed Great Khan, such an artwork will exist, and such an artwork will be written on, just as you have described. I myself may talk of such a work, but you must see that my stories are unlike those of your officials, for whom sale prices are more important. You see, my stories are accompanied by stunning photo slideshows, <span class="underline">click to see more</span>.”
