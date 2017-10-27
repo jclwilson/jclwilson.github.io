@@ -100,7 +100,7 @@ figcaption {
     margin-bottom: 1em;
 }
 
-.header__title, .post__title {
+.header__title, .post__title, .footer__title, .footer__nav {
     display: inline;
 }
 
