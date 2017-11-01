@@ -1,10 +1,11 @@
 ---
 ---
-    var CACHE_VERSION = 'jclwilson-v7';
+    var CACHE_VERSION = 'jclwilson-v8';
 	var CACHE_FILES = [
 	    '/',
 	    '/404',
 	    '/offline',
+		'/about',
 	    '/assets/reframe.js/dist/reframe.min.js',
 	    'https://fonts.gstatic.com/s/worksans/v2/ElUAY9q6T0Ayx4zWzW63VFtXRa8TVwTICgirnJhmVJw.woff2'
 	];
@@ -16,8 +17,8 @@ self.addEventListener('install', function(event) {
 				{% for page in site.posts limit: 10 %}
 					{{ page.url | prepend: "'" | append: "'," }}
 					{% if page.image %}
-						{{ site.cdn_url | prepend: "'" }}jpg/{{ page.image | append: ".jpg'," }}
-						{{ site.cdn_url | prepend: "'" }}webp/{{ page.image | append: ".webp'," }}
+					//	{{ site.cdn_url | prepend: "'" }}jpg/{{ page.image | append: ".jpg'," }}
+					//	{{ site.cdn_url | prepend: "'" }}webp/{{ page.image | append: ".webp'," }}
 					{% endif %}
 				{% endfor %}
 			]);
