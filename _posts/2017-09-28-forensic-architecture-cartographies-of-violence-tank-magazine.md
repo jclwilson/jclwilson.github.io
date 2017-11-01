@@ -1,5 +1,5 @@
 ---
-title: 'Cartographies of Violence'
+title: 'Forensic Architecture'
 layout: online
 redirect_from:
 image: forensic-architecture
