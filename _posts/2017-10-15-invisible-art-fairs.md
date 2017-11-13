@@ -3,8 +3,8 @@ title: 'Invisible Art Fairs'
 layout: post
 redirect_from:
 image: frieze1
-image_link: https://tankmagazine.com/tank/2017/10/marcel-broodthaers/
-image_alt: ''
+image_link:
+image_alt: 'Two people stand in front of three paintings'
 image_caption: ''
 article_category:
 publisher:
@@ -13,10 +13,10 @@ contributor:
 coverage:
 creator: Jacob Charles Wilson
 description:
-format: roundup
+format:
 identifier:
 language: English
-relation: https://tankmagazine.com/tank/2017/10/marcel-broodthaers/
+relation: 
 rights:
 source:
 subject:
