@@ -43,6 +43,7 @@ body {
     padding: 1em 5%;
     word-break: break-word;
     transition: font-size 0.3s ease;
+	font-feature-settings:"onum" 0, "pnum" 1, "kern" 1, "ss01" 0;
 }
 
 @supports (text-shadow: 1em 1em var(--jcw-primary-colour)) {
