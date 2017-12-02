@@ -77,20 +77,9 @@ blockquote p:after, q:after {
 }
 
 img {
-    display: block;
-    width: 100%;
-	color: var(--jcw-secondary-colour);
-	text-shadow: none;
-}
-
-@supports (mix-blend-mode: lighten) {
-    .figure__filter {
-        background-color: var(--jcw-primary-colour);
-    }
-    img {
-        filter: grayscale(1);
-        mix-blend-mode: lighten;
-    }
+	display: block;
+	width: 100%;
+	filter: grayscale(1);
 }
 
 figcaption {
@@ -157,14 +146,5 @@ figcaption {
         width: 33%;
         margin-left: auto;
         margin-right: auto;
-        filter: none;
-        mix-blend-mode: none;
-        filter: grayscale(1);
-    }
-    figcaption {
-        text-align: start;
-    }
-    .figure__filter {
-        background: none;
     }
 }
