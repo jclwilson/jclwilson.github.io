@@ -130,7 +130,7 @@ figcaption {
     }
 }
 
-:focus, ::selection {
+:focus, ::selection, ::-moz-selection {
     background: var(--jcw-primary-colour);
     color: var(--jcw-secondary-colour);
     text-shadow: none;
