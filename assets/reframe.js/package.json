@@ -1,41 +1,19 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "reframe.js@0.3.8",
-        "scope": null,
-        "escapedName": "reframe.js",
-        "name": "reframe.js",
-        "rawSpec": "0.3.8",
-        "spec": "0.3.8",
-        "type": "version"
-      },
-      "/home/jacob/Projects/jclwilson.github.io"
-    ]
-  ],
   "_from": "reframe.js@0.3.8",
   "_id": "reframe.js@0.3.8",
-  "_inCache": true,
+  "_inBundle": false,
+  "_integrity": "sha1-XI8RFffQrz9Oo1ux4MDG4AipDIo=",
   "_location": "/reframe.js",
-  "_nodeVersion": "6.4.0",
-  "_npmOperationalInternal": {
-    "host": "packages-18-east.internal.npmjs.com",
-    "tmp": "tmp/reframe.js-0.3.8.tgz_1481696032872_0.9482734117191285"
-  },
-  "_npmUser": {
-    "name": "dollarshaveclub-engineering",
-    "email": "engineering.services@dollarshaveclub.com"
-  },
-  "_npmVersion": "3.10.3",
   "_phantomChildren": {},
   "_requested": {
+    "type": "version",
+    "registry": true,
     "raw": "reframe.js@0.3.8",
-    "scope": null,
-    "escapedName": "reframe.js",
     "name": "reframe.js",
+    "escapedName": "reframe.js",
     "rawSpec": "0.3.8",
-    "spec": "0.3.8",
-    "type": "version"
+    "saveSpec": null,
+    "fetchSpec": "0.3.8"
   },
   "_requiredBy": [
     "#USER",
@@ -43,7 +21,6 @@
   ],
   "_resolved": "https://registry.npmjs.org/reframe.js/-/reframe.js-0.3.8.tgz",
   "_shasum": "5c8f1115f7d0af3f4ea35bb1e0c0c6e008a90c8a",
-  "_shrinkwrap": null,
   "_spec": "reframe.js@0.3.8",
   "_where": "/home/jacob/Projects/jclwilson.github.io",
   "author": {
@@ -54,7 +31,8 @@
   "bugs": {
     "url": "https://github.com/dollarshaveclub/reframe.js/issues"
   },
-  "dependencies": {},
+  "bundleDependencies": false,
+  "deprecated": false,
   "description": "Reframe.js: responsive iframes for embedded content",
   "devDependencies": {
     "babel-core": "^6.14.0",
@@ -78,15 +56,9 @@
     "rollup-plugin-node-resolve": "^2.0.0",
     "rollup-plugin-uglify": "^1.0.1"
   },
-  "directories": {},
-  "dist": {
-    "shasum": "5c8f1115f7d0af3f4ea35bb1e0c0c6e008a90c8a",
-    "tarball": "https://registry.npmjs.org/reframe.js/-/reframe.js-0.3.8.tgz"
-  },
   "files": [
     "dist"
   ],
-  "gitHead": "2b2e972068d5037fab5ba61ac74ec7d274ea003b",
   "homepage": "https://github.com/dollarshaveclub/reframe.js#readme",
   "keywords": [
     "js",
@@ -101,20 +73,7 @@
   ],
   "license": "ISC",
   "main": "dist/reframe.js",
-  "maintainers": [
-    {
-      "name": "dollarshaveclub-engineering",
-      "email": "engineering.services@dollarshaveclub.com"
-    },
-    {
-      "name": "yowainwright",
-      "email": "jjwainwright2@gmail.com"
-    }
-  ],
   "name": "reframe.js",
-  "optionalDependencies": {},
-  "readme": "![Reframe.js, reframe your content responsively](https://cloud.githubusercontent.com/assets/1074042/19376472/f01422cc-9192-11e6-950a-04298e406aca.jpg)\n\n\n[![npm version 0.3.6](https://badge.fury.io/js/reframe.js.svg)](https://www.npmjs.com/package/reframe.js)\n[![Bower version 0.3.6](https://badge.fury.io/bo/reframe.js.svg)](https://github.com/dollarshaveclub/reframe.js)\n[![Build Status](https://travis-ci.org/dollarshaveclub/reframe.js.svg?branch=master)](https://travis-ci.org/dollarshaveclub/reframe.js)\n[![Join the chat at https://gitter.im/reframe-js/Lobby](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/reframe-js/Lobby)\n[![Share](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&maxAge=2592000)](https://twitter.com/home?status=Reframe+unresponsive+elements+responsively.+%F0%9F%92%AAhttps%3A%2F%2Fgithub.com%2Fdollarshaveclub%2Freframe.js+%40DSCEngineering+%40yowainwright+%23JavaScript)\n\n## 🖼 Reframe.js\n\nReframe.js is a javascript plugin that makes elements scale at a fixed ratio.\n\nAlternatively, [noframe.js](#noframe) is provided. Noframe.js scales selected elements at a fixed ratio but **does not** wrap the selected elements.\n\n### Installing\nNPM\n```sh\nnpm i reframe.js --save\n```\nBower\n```sh\nbower i reframe.js --save\n```\nYarn\n```sh\nyarn add reframe.js \n```\n\n### Setup\n1.  Add `dist/reframe.js`\n2.  `reframe` the element you'd like to re-frame.\n\n### Examples\n\n```javascript\nreframe('iframe'); // Wrap all iFrames in the page\nreframe(document.getElementById('my-frame')); // Pass a DOM element\nreframe(document.querySelectorAll('.my-targets')) // Pass a live node list\n```\n\nElements that have been wrapped with reframe will not be wrapped twice.\n\n### How?\n\n**Reframe.js** wraps a specified element in a `div` that is an [intrinsic ratio](http://alistapart.com/article/creating-intrinsic-ratios-for-video) of the original element. This plugin is great for **embedded content** like `iframes` or `videos`.\n\n### Why Reframe.js?\n\n**Reframe.js** is inspired by [FitVids](https://github.com/davatron5000/FitVids.js) and does what FitVids does but without the need for `jQuery`. This makes the plugin highly valuable when including it in a module that has to be very small and with minimal dependencies. Here's a basic [codepen example](http://codepen.io/yowainwright/pen/7f34f86e716ea93013899a71752dbff6).\n\nThis plugin is small - `~1.3kb` unminified and is meant to do 1 thing - _wrap elements that aren't responsive and make them responsive_. 💪\n\n### Options\n\nIf you'd like to not use the classname 'js-reframe', just use your own.\n\n```javascript\nreframe('iframe', 'my-classname');\n```\n### jQuery\n\nYou can use **Reframe.js** with jQuery or Zepto as well.\n\n```javascript\n$('iframe').reframe();\n\n// While using a custom class name\n$('iframe').reframe('my-classname');\n```\n<h2 id=\"noframe\"><em>New:</em> Noframe.js</h2>\n\nNoframe.js makes the same ratio as Reframe.js using [css calc](https://developer.mozilla.org/en-US/docs/Web/CSS/calc).\n\nNoframe.js's doesn't wrap the element you'd like to be responsive. It, instead, does a calculation based on its or a parent element's `max-width`. Here's a basic [codepen example](http://codepen.io/yowainwright/pen/19cd3f2fc3e00ce80e36285feae20b77).\n\n**Noframe.js Notes**\n-   The reframed element requires a parent element with a `max width` to scale above the selected elements intial size otherwise the reframed element will only scale below its initial size. 👍\n\n### Setup\n1.  Add `dist/noframe.js`\n2.  `noframe` the element you'd like to re-frame.\n\n### Examples\n\n```javascript\nnoframe('iframe');\nnoframe('iframe', 'parent');\n```\n\n### jQuery\n\nYou can use **Noframe.js** with jQuery as well.\n\n```javascript\n$('iframe').noframe();\n$('iframe').noframe('parent');\n```\n## Reframe.js or Noframe.js?\n\nReframe.js offers the **simplest solution** to making elements scale at an intrinsic ratio.\n\nNoframe.js **doesn't wrap** the selected element to make it scale at an intrinsic ratio. Noframe.js is the ideal solution when various events, like tracking events, could be affected when an element is _wrapped_. It _does_ require a `width` or `max-width` which can involve a bit more setup awareness.\n",
-  "readmeFilename": "README.md",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dollarshaveclub/reframe.js.git"

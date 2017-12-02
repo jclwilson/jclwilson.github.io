@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/jclwilson/jclwilson.github.io#readme",
   "dependencies": {
-    "reframe.js": "^0.3.7",
+    "reframe.js": "^0.3.8",
     "sw-offline-google-analytics": "^1.1.1"
   }
 }
