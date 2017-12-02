@@ -147,6 +147,11 @@ figcaption {
         margin-left: auto;
         margin-right: auto;
     }
+	.underline, a {
+		text-decoration: underline;
+		text-shadow: none;
+		box-shadow: none;
+    }
 	.footer {
 		display: none;
 	}
