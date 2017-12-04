@@ -47,7 +47,7 @@ body {
 }
 
 @supports (text-shadow: 1em 1em var(--jcw-primary-colour)) {
-	.underline, a {
+	.underline, a, cite {
 		text-decoration: none;
 		text-shadow:
 			0.06em 0.06em 0 var(--jcw-secondary-colour),
@@ -126,10 +126,28 @@ figcaption {
     }
 }
 
-:focus, ::selection, ::-moz-selection {
-    background: var(--jcw-primary-colour);
-    color: var(--jcw-secondary-colour);
-    text-shadow: none;
+:focus, a:hover {
+	background: var(--jcw-primary-colour);
+	color: var(--jcw-secondary-colour);
+	text-shadow: none;
+	outline:none;
+}
+
+cite:hover, cite:focus, cite::selection {
+	text-shadow: none;
+}
+
+::selection {
+	background: var(--jcw-primary-colour);
+	color: var(--jcw-secondary-colour);
+	text-shadow: none;
+	outline:none;
+}
+
+::-moz-selection {
+	background: var(--jcw-primary-colour);
+	color: var(--jcw-secondary-colour);
+	text-shadow: none;
 	outline:none;
 }
 
