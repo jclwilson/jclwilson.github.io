@@ -4,13 +4,6 @@
 	--jcw-secondary-colour: #fefefe;
 }
 
-/* Font Rules */
-
-@font-face {
-    font-family: 'Work Sans';
-    src: local('Work Sans'), local('WorkSans-Regular'), url(https://fonts.gstatic.com/s/worksans/v2/ElUAY9q6T0Ayx4zWzW63VFtXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
-}
-
 /* BEM CSS below */
 
 html {
@@ -25,7 +18,7 @@ html {
 body {
     background-color: var(--jcw-secondary-colour);
     color: var(--jcw-primary-colour);
-	font-family: 'Work Sans', 'Helvetica', 'Arial', sans-serif;
+	font-family: 'Helvetica', 'Arial', sans-serif;
     font-size: 1.4em;
     line-height: 1.4;
     padding: 1em 5%;
