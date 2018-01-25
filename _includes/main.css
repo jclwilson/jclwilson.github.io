@@ -151,3 +151,9 @@ cite:hover, cite:focus, cite::selection {
 		display: none;
 	}
 }
+
+/* Accessibility */
+
+.no-show {
+    display:none;
+}

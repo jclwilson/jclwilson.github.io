@@ -16,9 +16,7 @@
 	<body>
 		<header class="header" id="header">
 			<h1 class="header__title"><a href="{{ site.url }}">Jacob Charles Wilson</a></h1>
-			<noscript>
-					<h2>Contact</h2>
-				</noscript>
+			<h2 class="no-show">Contact</h2>
 			<ul class="menu">
 				{% if site.email %}
 				<li class="menu__link"><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %} {% if site.twitter.username %}
