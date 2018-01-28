@@ -19,7 +19,7 @@ body {
     background-color: var(--jcw-secondary-colour);
     color: var(--jcw-primary-colour);
 	font-family: 'Helvetica', 'Arial', sans-serif;
-    font-size: 1em;
+    font-size: 1.2em;
     line-height: 1.4;
     padding: 1em 5%;
     word-break: break-word;
