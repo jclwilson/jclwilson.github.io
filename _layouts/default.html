@@ -24,13 +24,13 @@
 				{% if site.twitter.username %}
 					<li class="menu__link"><a href="http://twitter.com/{{ site.twitter.username }}">{{ site.twitter.username | prepend: '@' }}</a></li>
 				{% endif %}
-					<li class="menu__link"><a href="/about">About</a></li>
+					<li class="menu__link no-print"><a href="/about">About</a></li>
 			</ul>
 		</header>
 		<main class="main">
 			{{ content }}
 		</main>
-		<footer class="footer">
+		<footer class="footer no-print">
 			<nav class="footer__nav">
 				<ul class="menu">
 					<li class="menu__link">

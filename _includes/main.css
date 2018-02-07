@@ -147,7 +147,7 @@ cite:hover, cite:focus, cite::selection {
 		text-shadow: none;
 		box-shadow: none;
     }
-	.footer {
+	.no-print {
 		display: none;
 	}
 }
