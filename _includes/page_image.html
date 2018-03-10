@@ -1,14 +1,16 @@
-<figure class="post__lead">
-	{% if page.image_link %}<a href="{{ page.image_link }}">{% endif %}
-		<picture class="figure__filter">
-		   <source type="image/webp" srcset="{{ site.cdn_url }}webp/{{ page.image }}.webp" />
-		   <img src="{{ site.cdn_url }}jpg/{{ page.image }}.jpg" class="post__image" alt="{{ page.image_alt }}" />
-		</picture>
-	{% if page.image_link %}</a>{% endif %}
-    {% if page.image_caption %}
-        <figcaption class="post__image-caption">
-			{% if page.image_link %}<a href="{{ page.image_link }}">{% endif %}
-				{{ page.image_caption }}</figcaption>
-			{% if page.image_link %}</a>{% endif %}
-    {% endif %}
-</figure>
+{% if page.image %}
+	<figure class="post__lead">
+		{% if page.image_link %}<a href="{{ page.image_link }}">{% endif %}
+			<picture class="figure__filter">
+			   <source type="image/webp" srcset="{{ site.cdn_url }}webp/{{ page.image }}.webp" />
+			   <img src="{{ site.cdn_url }}jpg/{{ page.image }}.jpg" class="post__image" alt="{{ page.image_alt }}" />
+			</picture>
+		{% if page.image_link %}</a>{% endif %}
+	    {% if page.image_caption %}
+	        <figcaption class="post__image-caption">
+				{% if page.image_link %}<a href="{{ page.image_link }}">{% endif %}
+					{{ page.image_caption }}</figcaption>
+				{% if page.image_link %}</a>{% endif %}
+	    {% endif %}
+	</figure>
+{% endif %}
