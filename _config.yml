@@ -20,3 +20,16 @@ plugins:
 - jekyll-redirect-from
 - jekyll-feed
 - jekyll-sitemap
+
+# Default Post Front Matter
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: post
+      latest_content: false
+      # Dublin Core Metadata
+      creator: Jacob Charles Wilson # An entity primarily responsible for making the resource.
+      language: English # A language of the resource.
+      rights: # Information about rights held in and over the resource.
