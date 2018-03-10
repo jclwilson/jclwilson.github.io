@@ -114,7 +114,7 @@ figcaption {
 	outline:none;
 }
 
-cite:hover, cite:focus, cite::selection {
+a cite:hover, cite a:hover, a cite:focus, cite a:focus, cite::selection {
 	text-shadow: none;
 }
 
