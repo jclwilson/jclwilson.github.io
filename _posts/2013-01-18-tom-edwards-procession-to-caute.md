@@ -1,6 +1,5 @@
 ---
 title: Tom Edwards, The Procession to Caute at Beach London
-date: 2013-01-18 00:00:00 Z
 layout: post
 redirect_from: post/40807205026/tom-edwards-the-procession-to-caute
 image: tom-edwards-caute-2
