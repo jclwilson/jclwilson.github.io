@@ -18,11 +18,11 @@ layout: default
             {% if post.publisher %}
                 <span> for</span>
                 <cite class="post__publisher">
-                    {% if post.publisher_url %}
-                        <a class="post__publisher-link" href="{{ post.publisher_url }}">
+                    {% if post.relation %}
+                        <a class="post__publisher-link" href="{{ post.relation }}">
                     {% endif %}
                     {{ post.publisher }}
-                    {% if post.publisher_url %}
+                    {% if post.relation %}
                         </a>
                     {% endif %}
                 </cite>
