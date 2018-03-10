@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Weekly Reader 1
-date: '2015-01-18T17:29:00+00:00'
 redirect_from: post/108456817284/weekly-reader-1
-image: 'http://66.media.tumblr.com/988e02d8a32e9a67d4f0795125d31ffa/tumblr_inline_nidug0wtqm1qj1kht.jpg'
+image: heather-sten
 image_link: 'http://heathersten.tumblr.com/'
 image_caption: By Heather Sten
 image_alt: A photo of a cat next to a man sitting in a wheelchair.

@@ -2,12 +2,12 @@
 layout: post
 title: Weekly Reader 10
 redirect_from: post/114397696149/weekly-reader-10
-image: 'http://66.media.tumblr.com/63defad4ae4989134adac96f87017dfb/tumblr_inline_nlmse2BAuG1qj1kht_500.jpg'
+image: bethany-baker
 image_caption: Photo by Bethany Baker
 image_link: 'https://instagram.com/bakerie/'
-image_alt: null
+image_alt: A photograph of a cactus on a windowsill.
 ---
-This _Weekly Reader_ is a little late and a little short because I spent most of Sunday drinking Bloody Marys trying to cure a hangover - but perhaps only contributing to it.
+This <cite>Weekly Reader</cite> is a little late and a little short because I spent most of Sunday drinking Bloody Marys trying to cure a hangover - but perhaps only contributing to it.
 
 - [_How to Write A Thesis,_ by Umberto Eco](http://www.timeshighereducation.co.uk/books/how-to-write-a-thesis-by-umberto-eco/2019071.article)
 - "It's characteristic of Lucas's approach that she both needs and has the confidence to take periodic retreats from the main stage [in order to preserve her own enjoyment in art making, rather than feeling hobbled by obligation.](http://tmagazine.blogs.nytimes.com/2015/03/22/sarah-lucas-artist-profile/)"

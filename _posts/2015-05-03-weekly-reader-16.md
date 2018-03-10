@@ -2,10 +2,10 @@
 layout: post
 title: Weekly Reader 16
 redirect_from: post/118016720881/weekly-reader-16
-image: 'http://65.media.tumblr.com/faa18bd6f264674a245c660a9402907e/tumblr_inline_nnqs8wZ0XI1qj1kht_540.jpg'
+image: devin-allen
 image_caption: Photo by Devin Allen
 image_link: 'http://instagram.com/bydvnlln'
-image_alt: null
+image_alt: A young black protestor runs from a line of charging riot police. This was a particularly famous image at the time.
 ---
 Just as I woke up to write this list it started lashing with rain, I can hear someone's poor cat mewing to be let back in. The past week I've been really looking forward to balmy summer days, fixing my bike up with panniers and properly cycling about, I reckon I'd need a new bike to do anything more than a short day trip to the countryside, but for today those plans are ruined! Hopefully it'll only be a few more days of raincoats and woolly hats.
 

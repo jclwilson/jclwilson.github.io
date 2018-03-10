@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Weekly Reader 6
-date: '2015-02-22T23:44:42+00:00'
-image: 'http://66.media.tumblr.com/c038a59acd772f93b33a7271e3b6036d/tumblr_inline_nk6dftCrtE1qj1kht.jpg'
+image: jen-collins
 image_link: 'http://instagram.com/jen.collins'
 image_caption: Photo by Jen Collins
-image_alt:
+image_alt: A photograph of a person drawing a group of potted plants.
 redirect_from: post/111806206754/weekly-reader-6
 ---
-This past week I've been _enthused_ by the late winter sunshine, as James Butler commented, the time to live in a city, "when pre-spring sunlight suddenly pulls a riot of colour out of streets that have been a uniform grey for months". In this mood I bought a few new clothes for summer, and partly inspired by the photo above, a new marker pen to practice handwriting and lettering. Unfortunately the weather turned again and it's back to grey skies and thick wool coats. I really can't wait for summer now.
+This past week I've been enthused by the late winter sunshine, as James Butler commented, the time to live in a city, "when pre-spring sunlight suddenly pulls a riot of colour out of streets that have been a uniform grey for months". In this mood I bought a few new clothes for summer, and partly inspired by the photo above, a new marker pen to practice handwriting and lettering. Unfortunately the weather turned again and it's back to grey skies and thick wool coats. I really can't wait for summer now.
 
 - So it turns out that part of the reason I've been ill for so long is because I have a vitamin D deficiency. I suppose that's what happens when you spend all day holed up in libraries three stories underground. [This past week Protein gallery featured an exhibition on Seasonal Affective Disorder, or SAD](http://www.vice.com/en_uk/read/sad-seasonal-affective-disorder-and-exhibition-293).
 - "Though science has since demonstrated the atom to be the most basic part of all matter, Jamnitzer's studies possess a captivating artistic merit. [With the manipulation, repetition, and layering of basic shapes, they seem like distant precursors to Minimalism and its concerns.](http://hyperallergic.com/176036/the-minimalist-beauty-of-a-renaissance-era-geometry-book/)"

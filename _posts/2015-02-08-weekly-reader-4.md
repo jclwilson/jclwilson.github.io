@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Weekly Reader 4
-date: '2015-02-08T13:39:00+00:00'
-image: 'http://66.media.tumblr.com/25b74d1ae4da4fa766b28a24c3e806fc/tumblr_inline_njdk2i5LYt1qj1kht.jpg'
+image: emily-maye
 image_link: 'http://instagram.com/emilymaye'
 image_caption: 'Photo, Emily Maye'
-image_alt:
+image_alt: A row of people sit in chairs around a fountain, it looks like it could be in Paris.
 redirect_from: post/110435555144/weekly-reader-4
 ---
 I've had a crappy week. The illness continues. I went to the doctor's and unexpectedly ended up spending the rest of the day in hospital having blood tests and chest x-rays. I'm still writing the essay. I have an extension on the grounds I've spent most of the week lying in bed wheezing. While playing about with my laptop I managed to wipe all the data from my browser. No more bookmarks, no apps, no history. About the only good thing that happened this week is that in the course of research I read a Daoist proverb on butchering oxen and dealing with difficulties.

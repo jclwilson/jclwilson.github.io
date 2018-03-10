@@ -2,10 +2,10 @@
 layout: post
 title: Weekly Reader 31
 redirect_from: post/138925425429/weekly-reader-31
-image: 'http://67.media.tumblr.com/dd942ef38ccd48ccae1e6385977e2f11/tumblr_inline_o1oalwUVe71qj1kht_540.jpg'
+image: alexander-krack
 iamge_link: 'http://www.alexanderkrack.com/'
 image_caption: Photo by Alexander Krack
-image_alt:
+image_alt: A row of people sit in plastic garden chairs facing the wall of a cave.
 ---
 I got to Liverpool last Friday to have a look around the city and to hear a number of the Liverpool Biennial 2016 artists talk at the Bluecoat. Pretty soon I'll be travelling up to Glasgow, so if you have any suggestions of food spots, galleries, or fancies joining me then drop me a message here or on twitter [@jclwilson](http://twitter.com/jclwilson).
 

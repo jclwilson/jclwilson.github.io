@@ -2,7 +2,7 @@
 layout: post
 title: Weekly Reader 24
 redirect_from: post/131099982209/weekly-reader-24
-image: 'http://66.media.tumblr.com/a73357563719510b937b33d1f29b74d4/tumblr_inline_nw66e9OZQN1qj1kht_540.jpg'
+image: emzlolz
 image_link: 'http://instagram.com/emzlolz'
 image_alt: A photo of an old mill chimney in Manchester.
 image_caption: Photo by Emzlolz

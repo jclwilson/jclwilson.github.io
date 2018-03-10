@@ -2,10 +2,10 @@
 layout: post
 title: Weekly Reader 13
 redirect_from: post/116285059694/weekly-reader-13
-image: 'http://66.media.tumblr.com/24577a64c854c6aae4a22731914d526c/tumblr_inline_nmj6riCkq11qj1kht_540.jpg'
-image_caption: Photob by Fuchsia Macaree
+image: fuchsia-macaree
+image_caption: Photo by Fuchsia Macaree
 image_link: 'http://instagram.com/fuchsiamacaree'
-image_alt: null
+image_alt: A photograph from the driver's seat of a car, a man is chasing sheep off the road ahead.
 ---
 Spending the last few days in Manchester before going back to London. I've mainly been locked inside, working on my dissertation. In between that I've been doing the usual - going for walks in the hills and practicing cooking big meals.
 

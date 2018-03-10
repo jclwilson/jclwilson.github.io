@@ -2,12 +2,12 @@
 layout: post
 title: Weekly Reader 8
 redirect_from: post/113089854299/weekly-reader-8
-image: 'http://66.media.tumblr.com/e69da3a79139a9ed505d8bf02e022168/tumblr_inline_nkwmoxXG041qj1kht.jpg'
+image: louise-eaton
 image_link: 'http:/instagram.com/louise_eaton'
 image_caption: Photo by Louise Eaton
-image_alt: null
+image_alt: A photograph of a man walking around a shallow pool, part of an artwork by Cao Guo-Qiang.
 ---
-I've had an incredibly busy week with the penultimate MA deadline and a couple of days working with the Courtauld Gallery on the new website. Thankfully the weekend has been relaxing and the sun has been perfect. On Saturday I got to the Peckham Pelican for the Kiosk Independent Publishers Fair, before going to cat-sit a little kitten. Today I biked to the Royal Academy to see _Premiums: Interim Projects_ and the Rubens show. I don't currently have any university deadlines, so if you'd like to hang out, now's the best time.
+I've had an incredibly busy week with the penultimate MA deadline and a couple of days working with the Courtauld Gallery on the new website. Thankfully the weekend has been relaxing and the sun has been perfect. On Saturday I got to the Peckham Pelican for the Kiosk Independent Publishers Fair, before going to cat-sit a little kitten. Today I biked to the Royal Academy to see <cite>Premiums: Interim Projects</cite> and the Rubens show. I don't currently have any university deadlines, so if you'd like to hang out, now's the best time.
 
 - "Prior to its revival by feminist movements in the 70's and its adoption by the UN in 1977, ['Woman's Day' day was first recognized in the United States in 1910 following the thirteen week long strike of 20,000 female garment workers.](http://www.versobooks.com/blogs/1907-women-against-inequality-a-verso-reading-list-for-international-women-s-day)"
 - "There was something so fucking powerful about Ayesha's insistence on using a form and a forum like Twitter instead of writing that Important Thinkpiece in that Important Publication and insisting that [she can do better in 140 characters than what most people can do in a "proper" thinkpiece published in an established place with institutional backing.](http://logger.believermag.com/post/111377083944/reading-bhanu-kapil)"

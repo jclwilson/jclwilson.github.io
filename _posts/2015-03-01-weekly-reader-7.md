@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Weekly Reader 7
-image: 'http://66.media.tumblr.com/e16de0de3e0e0214bae4e48fc00c3109/tumblr_inline_nkjnxceRUE1qj1kht.jpg'
+image: sophie-rose-williams
 image_link: http://instagram.com//sophie___rose
 image_caption: "Photo by Sophie Rose Williams"
-image_alt:
+image_alt: A group of houseplants, photographed from above.
 redirect_from: post/112432482974/weekly-reader-7
 ---
 The past week has been fairly chill despite the predictable looming university deadline. The Mehdi Ghadyanloo opening was good fun, and it was nice to see my name down as 'sub-editor'. I've been home-cooking more and more, and today I was congratulated by an old woman in the greengrocer's for buying a rosemary plant instead of the pre-packaged stuff, "if only more kids were like you." Little did she know it's actually pretty hip these days to own house plants.

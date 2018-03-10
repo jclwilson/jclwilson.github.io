@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Weekly Reader 2
-date: '2015-01-25T12:55:00+00:00'
 redirect_from: post/109097725364/weekly-reader-2
-image: 'http://66.media.tumblr.com/acd59dc9550c9c022e61c4ce952be785/tumblr_inline_niqgircNmY1qj1kht.jpg'
+image: jamie-luke
 image_link: 'http://jamiejohnluke.tumblr.com/'
 image_caption: By Jamie Luke
-image_alt: 
+image_alt: Two cats sit on a comfy looking sofa.
 ---
 This past week I've been less focussed on keeping up to date with reading and more focussed on lying in bed, coughing, wheezing, and generally having some sort of nasty illness.
 - On January the 19th 1815, Byron wrote to Thomas Moore of, '[Boatswain, the dearest, and alas! the maddest of dogs](http://lordbyron.cath.lib.vt.edu/monograph.php?doc=ThMoore.1830&select=AD1815.3)'

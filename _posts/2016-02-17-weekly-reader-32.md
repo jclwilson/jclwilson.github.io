@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Weekly Reader 32
-date: '2016-02-17T13:39:21+00:00'
-image: 'http://66.media.tumblr.com/f160d4d5fcc94c4d953380495e883faf/tumblr_inline_o2ldrh6RcS1qj1kht_540.jpg'
+image: adam-birkan
 image_link: 'http://instagram.com/adambirkan'
 image_caption: 'Photo, Adam Birkan'
+image_alt: A photograph of a room full of partially complete mannequins.
 redirect_from: post/139482750329/weekly-reader-32
 ---
 Since the start of 2015 I've found myself increasingly interested in radio, podcasts, and sound art. I think it's the result of spending days typing at computers and the fact that I can enjoy these art forms while working from home. I was surprised to find I hadn't previously selected a photo by Adam Birkan, his work is varied and well deserving of your time. I'm not quite sure where the above photo was taken, other than that it's somewhere in Hanoi. What initially caught my eye was the stacking of mannequin bodies and the gradient of colours. There's a sense that these bodies become more recognisable as they curve round from right to left, from standing, to animated, to coloured, before looking back and contemplating the bodies on the right. There's a lot more to say about this photo, so I'll dedicate some spare time to writing on it.

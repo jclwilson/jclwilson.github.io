@@ -2,10 +2,10 @@
 layout: post
 title: Weekly Reader 15
 redirect_from: post/117594243459/weekly-reader-15
-image: 'http://66.media.tumblr.com/e58875896b74af9918745e5276b36ae5/tumblr_inline_nnicxsqXr51qj1kht_540.jpg'
+image: ian-kenneth-bird
 image_caption: Photo by Ian Kenneth Bird
 image_link: 'http://instagram.com/ikbird'
-image_alt: null
+image_alt: A girl walks away from the camera, the bright red wall contrasts with the purple floor and her yellow jacket.
 ---
 Another late post, thankfully(?) no-one's paying me to write these. I had good feedback on the dissertation, so I took time out. This week's list starts with a series of prescient issues that are being sidelined by the mainstream media's coverage of the general election.
 
