@@ -8,12 +8,11 @@ image_caption: Photo by Bon Appetit
 image_alt: A photograph of a soft fried egg, slightly crisped at the edges.
 article_category:
 publisher:
-publisher_url:
+
 contributor:
 coverage:
 creator:
 description:
-format: article
 identifier:
 language:
 relation:

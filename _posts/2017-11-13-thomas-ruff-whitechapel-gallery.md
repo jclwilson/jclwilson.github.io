@@ -7,8 +7,8 @@ image_link:
 image_alt: 'A photo of a plane flying upwards through the clouds, the print is overlaid with text and scribbles'
 image_caption: 'Thomas Ruff, press++ 21.11, 2016'
 article_category:
+article_format:
 publisher:
-publisher_url:
 contributor:
 coverage:
 creator: Jacob Charles Wilson

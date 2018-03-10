@@ -1,22 +1,23 @@
 ---
 title: 'The Constructivist'
-layout: print
+layout: post
 redirect_from:
 image: varvara-stepanova-desk
 image_link:
 image_alt: 'A young woman sat at a desk covered in pens, rulers, and paper.'
 image_caption:
 article_category:
+article_format: profile
 publisher: Port Magazine
-publisher_url: http://port-magazine.com/
+format: print
+publisher_issue:
 contributor:
 coverage:
 creator: Jacob Charles Wilson
 description:
-format: article
 identifier:
 language: English
-relation: http://port-magazine.com/
+relation: http://www.port-magazine.com/art-photography/the-constructivist-varvara-stepanova/
 rights:
 source:
 subject:

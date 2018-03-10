@@ -1,19 +1,18 @@
 ---
 title: 'Charlie Godet Thomas'
-layout: online
+format: online
 redirect_from:
 image: charlie-godet-thomas-cloud-study
 image_link: https://www.thelondonmagazine.org/interview-charlie-godet-thomas/
 image_alt: 'The proposal for Cloud Study, hand drawn on a scrap of paper'
 image_caption:
 article_category:
+article_format: interview
 publisher: The London Magazine
-publisher_url: https://www.thelondonmagazine.org/
 contributor: Charlie Godet Thomas
 coverage:
 creator: Jacob Charles Wilson
 description:
-format: interview
 identifier:
 language: English
 relation: https://www.thelondonmagazine.org/interview-charlie-godet-thomas/

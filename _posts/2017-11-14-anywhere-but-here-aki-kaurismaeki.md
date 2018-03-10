@@ -1,14 +1,15 @@
 ---
 title: 'Anywhere but here: rediscovering the films of Aki Kaurismäki'
-layout: online
+format: online
 redirect_from:
 image: aki-kaurismaki-calamari-union
 image_link: https://tankmagazine.com/tank/2017/11/aki-kaurismaeki/
 image_alt: ""
 image_caption: ""
 article_category:
-publisher: Tank Magazine
-publisher_url: https://tankmagazine.com/
+article_format: article
+publisher: Tank Magazine # An entity responsible for making the resource available.
+publisher_issue:
 contributor:
 coverage:
 creator: Jacob Charles Wilson

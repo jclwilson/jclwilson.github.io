@@ -1,27 +1,26 @@
 ---
-title: '"There is a thirst for something new, something authentic" — North: Identity,
-  Photography, Fashion'
-date: 2017-01-12 00:00:00 Z
-layout: online
-redirect_from: 
+title: '"There is a thirst for something new, something authentic" — North: Identity, Photography, Fashion'
+format: online
+redirect_from:
 image: alice-hawkins-liver-birds
 image_link: http://www.thedoublenegative.co.uk/2017/01/there-is-a-thirst-for-something-new-something-authentic-north-identity-photography-fashion/
 image_caption: Alice Hawkins, The Liver Birds, 2015.
-article_category: 
+article_category:
+article_format: interview
 publisher: The Double Negative
-publisher_url: http://www.thedoublenegative.co.uk
-contributor: 
+contributor:
+  - Lou Stoppard
+  - Adam Murray
 coverage: Liverpool
-creator: 
+creator: Jacob Charles Wilson
 description: An interview with curators Adam Murray and Lou Stoppard, covering the
   North exhibition at Open Eye Gallery, Liverpool.
-format: article
-identifier: 
-language: 
+identifier:
+language:
 relation: http://www.thedoublenegative.co.uk/2017/01/there-is-a-thirst-for-something-new-something-authentic-north-identity-photography-fashion/
-rights: 
-source: 
-subject: 
+rights:
+source:
+subject:
 ---
 
 Liverpool's [Open Eye Gallery](http://openeye.org.uk/) is starting 2017 with <cite>North: Identity, Photography, Fashion</cite>, a huge show comprising video, photo, and magazine archive material that showcases the style and attitude of northerness. I had the chance to interview the curators of the exhibition, Lou Stoppard, editor of <a href="http://showstudio.com/"><cite>SHOWstudio.co.uk</cite></a>, and Adam Murray, co-founder of <a href="http://prestonismyparis.co.uk/"><cite>Preston Is My Paris</cite></a>, speaking to them on what it means to be putting on such a show outside of London, and how this could change perceptions of the North.

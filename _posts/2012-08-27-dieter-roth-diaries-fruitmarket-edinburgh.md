@@ -8,7 +8,7 @@ image_caption:
 image_alt: Dieter Roth sits at a table
 article_category:
 publisher:
-publisher_url:
+
 ---
 
 The Fruitmarket Gallery in Edinburgh is currently a sanctuary away from the intensity of the various summer festivals. Last time I was there I saw Martin Creed's playful exhibition. This year I saw the work of Dieter Roth (1930–1998), a man who saw little separation between art and life, and whose works drew on his own existence. This exhibition, <cite>Dieter Roth: Diaries</cite>, looks at Roth's obsessive cataloguing and recording of his daily activities in books, drawings, paintings, sculptures, assemblages and audio-visual installation pieces. This show is the first time Roth's work has been seen in Scotland since Richard Demarco's exhibition <cite>Strategy Get Art</cite> at the 1970 International Festival.

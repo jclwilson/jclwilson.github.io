@@ -8,7 +8,7 @@ image_caption:
 image_alt:
 article_category:
 publisher:
-publisher_url:
+
 ---
 
 Illustrator Tom Edwards’ small exhibition <cite>The Procession to Caute</cite> is a masterpiece of intricate craft and thought and exemplary of Edwards’ creative imagination. Through only a few objects he has created an entire world with its own rich mythology and iconography.

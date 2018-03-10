@@ -8,12 +8,11 @@ image_caption: Alexander Rodchenko's workers' club, at the V-A-C Foundation, Ven
 image_alt: The interior of the workers' club designed by the Soviet constructivist Alexander Rodchenko.
 article_category:
 publisher:
-publisher_url:
+
 contributor:
 coverage:
 creator:
 description:
-format: article
 identifier:
 language:
 relation:

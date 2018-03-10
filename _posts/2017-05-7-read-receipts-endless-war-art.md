@@ -7,13 +7,12 @@ image_link:
 image_caption: Otto Dix, Wounded Man, 1916.
 image_alt: An etching of a wounded German soldier. The man stares at the viewer and screams in horror. His flesh seems to melt off his body and into the mud.
 article_category:
+article_format:
 publisher:
-publisher_url:
 contributor:
 coverage:
 creator:
 description:
-format: article
 identifier:
 language:
 relation:

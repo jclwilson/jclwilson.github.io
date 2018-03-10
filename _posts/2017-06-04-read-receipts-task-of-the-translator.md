@@ -8,12 +8,12 @@ image_caption:
 image_alt: A photograph of a book entitled, Typewriter Art.
 article_category:
 publisher:
-publisher_url:
+
 contributor:
 coverage:
 creator: Jacob Charles Wilson
 description:
-format: article
+
 identifier:
 language: English
 relation:

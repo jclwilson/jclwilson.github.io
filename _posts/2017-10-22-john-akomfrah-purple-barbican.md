@@ -1,19 +1,18 @@
 ---
 title: 'John Akomfrah'
-layout: online
+format: online
 redirect_from:
 image: john-akomfrah-purple
 image_link: https://tankmagazine.com/tank/2017/10/john-akomfrah/
 image_alt: "A row of cinema screens show different scenes from John Akomfrah's work 'Purple'"
 image_caption:
 article_category:
+article_format: exhibition review
 publisher: Tank Magazine
-publisher_url: https://tankmagazine.com/
 contributor:
 coverage:
 creator: Jacob Charles Wilson
 description: "A review of John Akomfrah's latest film 'Purple', screened at the Barbican Gallery, London. This was written for Tank Magazine's blog."
-format: article
 identifier:
 language: English
 relation: https://tankmagazine.com/tank/2017/10/john-akomfrah/

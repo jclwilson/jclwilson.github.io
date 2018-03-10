@@ -1,25 +1,24 @@
 ---
 title: "✓✓ Read Receipts: Cold and Melancholia"
-date: 2017-01-22 00:00:00 Z
 layout: post
 redirect_from: "/read-receipts-melancholia-and-cold"
 image: vivian-fu-picnic
 image_link: http://vivian-fu.tumblr.com/post/155539661672/picnic-december-2016
 image_caption: Vivian Fu, Picnic, December 2016.
-article_category: 
-publisher: 
-publisher_url: 
-contributor: 
-coverage: 
-creator: 
-description: 
-format: article
-identifier: 
-language: 
-relation: 
-rights: 
-source: 
-subject: 
+article_category:
+article_format:
+publisher:
+contributor:
+coverage:
+creator:
+description:
+
+identifier:
+language:
+relation:
+rights:
+source:
+subject:
 ---
 
 The past week's Womens' Marches and the punching of the nazi Richard Spencer say more than any list of political articles could. Instead, here's a list to help overcome the melancholia that has filled the organs of everything. Galenic humourial theory associated melancholia with the Earth, autumn, the cold and dry, but also with the creative mind. I do tend towards these things, so I guess it makes sense.

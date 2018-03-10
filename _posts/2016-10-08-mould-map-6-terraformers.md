@@ -1,20 +1,18 @@
 ---
 title: 'Mould Map 6: TERRAFORMERS at Bonington Gallery'
-date: 2016-10-08 00:00:00 Z
-layout: online
+format: online
 image: jonny-negron-mould-map
-image_link: http://jonnynegron.com/
+image_link: http://www.thedoublenegative.co.uk/2016/11/visualising-our-horrors-of-dystopia-introducing-mould-map-magazine/
 image_caption: Poster, Jonny Negron
 article_category:
+article_format: exhibition review
 publisher: The Double Negative
-publisher_url: http://www.thedoublenegative.co.uk/2016/11/visualising-our-horrors-of-dystopia-introducing-mould-map-magazine/
 contributor:
 coverage:
-creator:
-description:
-format: article
+creator: Jacob Charles Wilson
+description: An exhibition review of Mould Map 6 at the Bonington Gallery, Nottingham.
 identifier:
-language:
+language: English
 relation: http://www.thedoublenegative.co.uk/2016/11/visualising-our-horrors-of-dystopia-introducing-mould-map-magazine/
 rights:
 source:

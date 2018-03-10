@@ -8,12 +8,12 @@ image_caption:
 image_alt: A row of men wearing welders' masks sit in deck chairs, looking very relaxed.
 article_category:
 publisher:
-publisher_url:
+
 contributor:
 coverage:
 creator: Jacob Charles Wilson
 description:
-format: article
+
 identifier:
 language:
 relation:

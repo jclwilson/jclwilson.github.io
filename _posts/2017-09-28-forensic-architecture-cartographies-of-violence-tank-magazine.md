@@ -1,19 +1,18 @@
 ---
 title: 'Forensic Architecture'
-layout: online
+format: online
 redirect_from:
 image: forensic-architecture
 image_link: https://tankmagazine.com/tank/2017/09/forensic-architecture/
 image_alt: 'A digital map covered in intersecting lines and dots linking events'
 image_caption:
 article_category:
+article_format: article
 publisher: Tank Magazine
-publisher_url: https://tankmagazine.com/
 contributor:
 coverage:
 creator: Jacob Charles Wilson
 description:
-format: article
 identifier:
 language: English
 relation: https://tankmagazine.com/tank/2017/09/forensic-architecture/

@@ -8,7 +8,7 @@ image_link:
 image_caption: 
 article_category: 
 publisher: 
-publisher_url: 
+
 ---
 
 Today marks twenty years since a one-and-a-half tonne ammonium nitrate and Semtex bomb, the largest such bomb in Great Britain since World War II and the preferred recipe of the Provisional IRA, detonated in Manchester city centre. The bomb was the seventh and final in a series of attacks on the British mainland which started in February 1996 following the breakdown of the 1994 ceasefire.

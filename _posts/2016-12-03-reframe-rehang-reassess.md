@@ -7,7 +7,7 @@ image_link:
 image_caption: 
 article_category: 
 publisher: 
-publisher_url: 
+
 ---
 
 It's been a long time since I last wrote for this blog. Over the past few months I've been focussed on my paid work, on web design projects, and on learning again to navigate London, which every six months or so becomes a little more challenging. I've moved house a few times this year and each new room gives a chance to reassess how I want to present myself in response to the space, the colours, the landlord-mandated furniture—you can't choose everything. I unpack my drawings and paintings and rehang.

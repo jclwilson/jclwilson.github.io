@@ -1,21 +1,18 @@
 ---
 title: "✓✓ Read Receipts: Ugliness and Judgement"
-date: 2017-03-12 00:00:00 Z
 layout: post
 redirect_from:
 image: uglydesign-pillow
 image_link: https://www.instagram.com/uglydesign/
 image_caption: Photo by @uglydesign
-image_alt: A photo of a 'girlfriend' pillow; a fabric square with a single arm and
-  two breasts.
-article_category: 
+image_alt: A photo of a 'girlfriend' pillow; a fabric square with a single arm and two breasts.
+article_category:
 publisher:
-publisher_url:
+
 contributor:
 coverage:
 creator:
 description:
-format: article
 identifier:
 language:
 relation:

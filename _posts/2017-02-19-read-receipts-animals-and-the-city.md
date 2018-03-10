@@ -1,25 +1,23 @@
 ---
 title: "✓✓ Read Receipts: Animals and the City"
-date: 2017-02-19 00:00:00 Z
 layout: post
-redirect_from: 
+redirect_from:
 image: small-frog
 image_link: http://www.metmuseum.org/art/collection/search/547486
 image_caption: Frog, c.3100–2650 BCE.
-article_category: 
-publisher: 
-publisher_url: 
-contributor: 
-coverage: 
-creator: 
-description: 
-format: article
-identifier: 
-language: 
-relation: 
-rights: 
-source: 
-subject: 
+article_category:
+publisher:
+
+contributor:
+coverage:
+creator:
+description:
+identifier:
+language:
+relation:
+rights:
+source:
+subject:
 ---
 
 Since I've started working evenings I've become properly aware of London's nocturnal life. Everyone who's lived here has heard foxes and I'd be surprised if there was anyone who hadn't seen one, but I never realised quite how many there are. There's now even more as the young fox cubs have just started running about by themselves. They're a little curious, and one or two have allowed me to get very close before running off. The other week I went to a friends new flat that overlooks a wide area of gardens, you could sit at their table and watch all the animals running about three stories below. Birds and cats and squirrels were screeching and running about, they had their own routes that went over and between fences, up trees and into holes. It was a sight that you rarely see in such a flat and built up city. The reads this week draw from these experiences, and look at how animals and cities are adapting to one another.

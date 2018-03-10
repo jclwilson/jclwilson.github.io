@@ -8,7 +8,7 @@ image_link:
 image_caption:
 article_category:
 publisher:
-publisher_url:
+
 ---
 
 Taking the train from Charing Cross out to the hop fields of Kent we found ourselves repeating a journey that thousands of families, hundreds of thousands of individuals, made each summer from the 1800s right up until the mid-twentieth century. Today, the train provides a convenience and comparative luxury, where in earlier times the journey would be made by carts, lorries, or even by foot. It was the promise of seasonal work—and perhaps a short summer holiday—as well as the desire to escape the smog-filled air and the poverty of the East End of London that drove people out to countryside and made them return year after year.

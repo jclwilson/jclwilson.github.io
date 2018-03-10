@@ -1,6 +1,6 @@
 ---
 title: 'Sun, Sea, Algae'
-layout: print
+layout: post
 redirect_from:
 image: anna-atkins-seaweed
 image_link:
@@ -8,12 +8,14 @@ image_alt: A white silhouette of a frond of seaweed, laid against a deep blue ba
 image_caption: 'Anna Atkins, Cystoseira fibrosa, 1843.'
 article_category:
 publisher: The Plant
-publisher_url: http://theplantmagazine.com
+
+format: print
+publisher_issue: issue 11
 contributor:
 coverage:
 creator:
 description:
-format: article
+
 identifier:
 language: English
 relation: http://theplantmagazine.com

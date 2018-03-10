@@ -8,12 +8,12 @@ image_caption: Daniel Castro Garcia, Michael, 2015.
 image_alt: A photo of a young man sat on a chair in the corner of a square room, he sits, relaxed, yet confident, and looks directly out towards the viewer.
 article_category:
 publisher:
-publisher_url:
+
 contributor:
 coverage:
 creator: Jacob Charles Wilson
 description:
-format: article
+
 identifier:
 language:
 relation:

@@ -1,25 +1,23 @@
 ---
 title: "✓✓ Read Receipts: The Death of John Berger"
-date: 2017-01-08 00:00:00 Z
 layout: post
-redirect_from: 
+redirect_from:
 image: john-berger-portrait
-image_link: 
+image_link:
 image_caption: John Berger
-article_category: 
-publisher: 
-publisher_url: 
-contributor: 
-coverage: 
-creator: 
-description: 
-format: article
-identifier: 
-language: 
-relation: 
-rights: 
-source: 
-subject: 
+article_category:
+publisher:
+
+contributor:
+coverage:
+creator:
+description:
+identifier:
+language:
+relation:
+rights:
+source:
+subject:
 ---
 
 On the 31st of December one extra second was added to Coordinated Universal Time. This resulted in a number of vital systems breaking as 2016 lingered on ever so slightly longer than they expected. It seemed the year wouldn’t relent.

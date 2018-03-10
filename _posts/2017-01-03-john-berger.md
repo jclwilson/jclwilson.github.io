@@ -1,25 +1,23 @@
 ---
 title: 'I Hope You Consider What I Arrange, But Be Sceptical of It: John Berger'
-date: 2017-01-03 00:00:00 Z
 layout: post
-redirect_from: 
+redirect_from:
 image: john-berger-ways-of-seeing.png
-image_link: 
-image_caption: 
-article_category: 
-publisher: 
-publisher_url: 
-contributor: 
-coverage: 
-creator: 
-description: 
-format: article
-identifier: 
-language: 
-relation: 
-rights: 
-source: 
-subject: 
+image_link:
+image_caption:
+article_category:
+publisher:
+
+contributor:
+coverage:
+creator:
+description:
+identifier:
+language:
+relation:
+rights:
+source:
+subject:
 ---
 
 I started 2017 with John Berger on my mind. 2016 ended with a number of deaths, with Berger at ninety it wouldn’t be long. In November I went to the launch of <cite>A Jar of Wild Flowers</cite>. Then, over Christmas, I was given a couple of his books, <cite>Portraits</cite> and <cite>About Looking</cite>.

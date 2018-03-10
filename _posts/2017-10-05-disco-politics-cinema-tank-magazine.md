@@ -1,19 +1,18 @@
 ---
 title: 'Good Times: How disco films captured a society in flux'
-layout: online
+format: online
 redirect_from:
 image: thank-god-its-friday-1978
 image_link: https://tankmagazine.com/tank/2017/10/disco
 image_alt: 'A black DJ in a bright orange shirt calls down to the dancefloor from his booth'
 image_caption:
 article_category:
+article_format: article
 publisher: Tank Magazine
-publisher_url: https://tankmagazine.com/
 contributor:
 coverage:
 creator: Jacob Charles Wilson
 description:
-format: article
 identifier:
 language: English
 relation: https://tankmagazine.com/tank/2017/10/disco

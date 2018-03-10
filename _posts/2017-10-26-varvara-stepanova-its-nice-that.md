@@ -1,19 +1,18 @@
 ---
 title: 'Varvara Stepanova, the pioneer who brought constructivist design to proletarian life'
-layout: online
+format: online
 redirect_from:
 image: varvara-stepanova-clothes
 image_link:
 image_alt: "A digital reproduction of two of Stepanova's clothing designs"
 image_caption:
 article_category:
+article_format: profile
 publisher: "It's Nice That"
-publisher_url: https://www.itsnicethat.com/articles/varvara-stepanova-contructivist-design-port-magazine-fashion-261017
 contributor:
 coverage:
 creator: Jacob Charles Wilson
 description:
-format: article
 identifier:
 language: English
 relation: https://www.itsnicethat.com/articles/varvara-stepanova-contructivist-design-port-magazine-fashion-261017

@@ -1,14 +1,14 @@
 ---
 title: 'The Modern Magazine 2017'
-layout: online
+format: online
 redirect_from:
 image: modern-magazine-2017
 image_link: https://magculture.com/category/the-modern-magazine/
 image_alt: "A lectern on a stage"
 image_caption:
 article_category:
+article_format: live blog
 publisher: The magCulture Journal
-publisher_url: http://magculture.com/
 contributor:
 coverage:
 creator: Jacob Charles Wilson

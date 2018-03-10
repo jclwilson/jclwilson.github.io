@@ -7,8 +7,8 @@ image_link:
 image_alt: 'Two people stand in front of three paintings'
 image_caption: ''
 article_category:
+article_format: story
 publisher:
-publisher_url:
 contributor:
 coverage:
 creator: Jacob Charles Wilson
@@ -16,7 +16,7 @@ description:
 format:
 identifier:
 language: English
-relation: 
+relation:
 rights:
 source:
 subject:

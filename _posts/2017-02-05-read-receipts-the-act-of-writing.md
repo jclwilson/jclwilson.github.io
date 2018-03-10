@@ -1,25 +1,23 @@
 ---
 title: "✓✓ Read Receipts: The Act of Writing"
-date: 2017-02-05 00:00:00 Z
 layout: post
-redirect_from: 
+redirect_from:
 image: whatweworeuk-kate-hillier
 image_link: https://www.instagram.com/p/BQDxpmigQXV/
 image_caption: Photo by What We Wore, via Kate Hillier.
-article_category: 
-publisher: 
-publisher_url: 
-contributor: 
-coverage: 
-creator: 
-description: 
-format: article
-identifier: 
-language: 
-relation: 
-rights: 
-source: 
-subject: 
+article_category:
+publisher:
+
+contributor:
+coverage:
+creator:
+description:
+identifier:
+language:
+relation:
+rights:
+source:
+subject:
 ---
 
 Despite trying to overcome the cold, our boiler broke. My room, which is fine as far as London standards go, turned into a fridge for a week. Many people compare themselves to the caricature of the writer starving in their garret, hiding from the landlord, and dying of consumption—it's not romantic, it's awful. I spent well over a week unable to type because my hands were too cold and the bed was too comforting.

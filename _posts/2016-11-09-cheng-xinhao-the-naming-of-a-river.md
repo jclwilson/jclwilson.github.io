@@ -7,7 +7,7 @@ image_link:
 image_caption: 
 article_category: 
 publisher: 
-publisher_url: 
+
 ---
 
 When you talk of _a river_ how often do you talk of _the river?_ This linguistic quirk emphasises the significance and permanence that is ascribed to those rivers which within our lifetimes we become familiar with. Yet, rivers are not static, but are both subjects and objects of change. Though, this is typically across geological timescales and distances incomprehensible to individuals, instead known only through collective memory. One river may be known by many names.

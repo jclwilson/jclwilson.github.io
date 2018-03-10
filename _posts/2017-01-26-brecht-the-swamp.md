@@ -1,25 +1,23 @@
 ---
 title: 'And a drowning was not over in a single morning: Brecht, The Swamp'
-date: 2017-01-26 00:00:00 Z
 layout: post
-redirect_from: 
+redirect_from:
 image: tollund-man
-image_link: 
-image_caption: 
-article_category: 
-publisher: 
-publisher_url: 
-contributor: 
-coverage: 
-creator: 
-description: 
-format: article
-identifier: 
-language: 
-relation: 
-rights: 
-source: 
-subject: 
+image_link:
+image_caption:
+article_category:
+publisher:
+
+contributor:
+coverage:
+creator:
+description:
+identifier:
+language:
+relation:
+rights:
+source:
+subject:
 ---
 
 <p>I beheld many friends, and the friend I loved the most,<br/>

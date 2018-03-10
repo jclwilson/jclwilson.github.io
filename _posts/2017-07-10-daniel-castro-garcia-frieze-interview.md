@@ -1,6 +1,6 @@
 ---
 title: 'In Profile: Daniel Castro Garcia'
-layout: online
+format: online
 redirect_from:
 image: aly-gadiaga-robe
 image_link: https://frieze.com/article/profile-daniel-castro-garcia
@@ -8,12 +8,12 @@ image_alt:
 image_caption: 'Daniel Castro Garcia, Aly Gadiaga "Gucci", Catania, Sicily, Italy, November 2015'
 article_category:
 publisher: Frieze
-publisher_url: https://frieze.com/article/profile-daniel-castro-garcia
+
 contributor:
 coverage:
 creator:
 description:
-format: article
+
 identifier:
 language:
 relation: https://frieze.com/article/profile-daniel-castro-garcia

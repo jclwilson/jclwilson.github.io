@@ -8,7 +8,7 @@ image_link:
 image_caption: Jordan Baseman, Deadness, 2013
 article_category: 
 publisher: 
-publisher_url: 
+
 ---
 
 It seems apt that a photography exhibition on death should move away from the _decisive moment_, the <q>recognition, in a fraction of a second, of the significance of an event as well as of a precise organization of forms</q> that Henri Cartier Bresson defined as the essence of photography. The moment of death is medically, legally, and philosophically contested. Facing an exhibition on death, the [Open Eye Gallery](http://www.openeye.org.uk) has turned to Edgar Martins and Jordan Baseman, practitioners of _late photography_—as described by David Campany—artists who closer resemble a researcher in an archive or forensic investigator, turning up to the remains and aftermath of circumstances to draw on traces of evidence and to look at their subject indirectly.
