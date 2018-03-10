@@ -1,5 +1,5 @@
 _site
 .jekyll-metadata
 _drafts
-assets/cdn
+assets/_cdn
 node_modules/
