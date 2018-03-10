@@ -6,8 +6,8 @@ image: marcel-broodthaers-jardin-d-hiver
 image_link: https://tankmagazine.com/tank/2017/10/marcel-broodthaers/
 image_alt: "A photograph of Broodthaers' installation. A woman walks through the gallery space between potted palms towards a television and camera."
 image_caption: "Marcel Broodthaers, Un Jardin d'Hiver, 1974. (2017)"
-article_category: review
-article_format: exhibition
+article_category:
+article_format: exhibition review
 publisher: Tank Magazine
 contributor:
 coverage:
