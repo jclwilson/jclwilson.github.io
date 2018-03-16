@@ -9,8 +9,9 @@
 	    {% if page.image_caption %}
 	        <figcaption class="post__image-caption">
 				{% if page.image_link %}<a href="{{ page.image_link }}">{% endif %}
-					{{ page.image_caption }}</figcaption>
+					{{ page.image_caption }}
 				{% if page.image_link %}</a>{% endif %}
+			</figcaption>
 	    {% endif %}
 	</figure>
 {% endif %}
