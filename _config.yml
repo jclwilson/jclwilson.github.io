@@ -13,6 +13,9 @@ instagram:
 permalink: "/:title"
 markdown: kramdown
 
+kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+
 cdn_url: https://s3.eu-west-2.amazonaws.com/jclwilson-cdn/
 
 plugins:

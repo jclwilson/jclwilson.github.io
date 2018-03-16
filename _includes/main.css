@@ -43,11 +43,15 @@ body {
 
 blockquote {
     margin-left: 2em;
-	quotes: "\201C""\201D""\2018""\2019";
+	quotes: "\0022" "\0022" "\0027" "\0027";
 }
 
 q {
-	quotes: "\2018""\2019""\201C""\201D";
+	quotes: "\0027" "\0027" "\0022" "\0022";
+}
+
+blockquote q {
+	quotes: "\0022" "\0022" "\0027" "\0027";
 }
 
 blockquote p:before, q:before {
