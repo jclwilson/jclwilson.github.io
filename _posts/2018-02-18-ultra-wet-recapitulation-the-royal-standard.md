@@ -1,0 +1,43 @@
+---
+title: 'Ultra Wet - Recapitulation at The Royal Standard'
+layout: post
+redirect_from:
+image: ultra-wet-recapitulation
+image_link:
+image_alt:
+image_caption:
+article_category:
+article_format: review
+publisher: # An entity responsible for making the resource available.
+publisher_issue:
+contributor: # An entity responsible for making contributions to the resource.
+coverage: review  # The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant.
+creator: Jacob Charles Wilson # An entity primarily responsible for making the resource.
+# date: # A point or period of time associated with an event in the lifecycle of the resource.
+description: # An account of the resource.
+format: # The file format, physical medium, or dimensions of the resource.
+identifier: # An unambiguous reference to the resource within a given context. In the context of posts on jacobcharleswilson.com this would be the permalink.
+language: English # A language of the resource.
+relation: # A related resource.
+rights: # Information about rights held in and over the resource.
+source: # A related resource from which the described resource is derived.
+subject: # The topic of the resource. e.g. tags
+---
+
+Who built the pyramids, and why? For the Ancient Alien theorists pyramids are unique, singular, they are the relics of lost utopias that hide truths and treasures at their cores, accessible only to those who can unravel their mysteries. For others, these questions have already been partially answered. Pyramids have multiple origins and take numerous forms, at Giza they were built by workers as funerary monuments of the pharaohs, at Teotihuacán the pyramids were built as temple platforms with each new structure built successively over an older one. Take a look at a map of Cairo or San Juan Teotihuacán and you'll see the pyramids are not lost to the jungles or sands of time, rather they are a part of the city, they are structures managed by conservative politicians, small-minded officials, and inhuman bureaucracies.
+
+A mirrored pyramid sits at the heart of <cite>[Ultra Wet—Recapitulation](http://the-royal-standard.com/programme/ultra-wet-recapitulation/)</cite> by Tabita Rezaire, <q>a video artist, health-tech-politix practitioner, and Kemetic™ / Kundalini Yoga teacher</q>, currently showing at The Royal Standard, Liverpool. Emanating images of mystery and hidden knowledge, its foiled faces reflect a projected video essay onto the similarly mirrored walls of the small dark gallery space, which according to the artist promises to <q>dig into African and indigenous knowledge and current cybersexual praxis, searching for ways of existing as an autonomous being</q>. It's an exhibition with an enormous scope, that claims to resist and undo a number of binaries, however unfortunately it's also a disjointed, contradictory show that remains riven by binary divisions, unexamined contradictions, and uncritically-accepted concepts.
+
+The video’s lo-fi, maximalist, wavy word-art, stock-image cyber aesthetic draws on a style of post-internet art that's existed since around 2010. It's shiny, it's visually compelling, and I'm always keen to see projections across objects other than flat screens. A short text written by the artist and published on the website, printed on leaflets, and printed on the gallery wall outlines a series of questions the work intends to address: <q>How can we use our sexual-creative energy to raise consciousness?</q>, <q>How can we reclaim a politic of resistance beyond pleasure and pain?</q>, <q>How do we shift our practice and thirst of power from <q>having power over</q> to <q>yielding inner power</q>?</q>, and <q>What lies outside of exploitative and oppressive structures?</q>. These are placed alongside a quote attributed to <q>a traditional healer</q>,
+
+> You are a balanced being, meaning that your feminine and masculine energy are of equal measure. Yet your masculine side feels like a scared little boy, as your feminine is virulently taking over. That makes you energetically unbalanced. It's good to want to crush the patriarchy but it shouldn't be at the expense of the masculine all together. You need to find a way to still celebrate the masculine and understand deeply that this energy is as necessary and valuable as the feminine. How will you grow this terrified little boy into a blooming man?
+
+This is binarism—there's a difference between critiquing binarism and questioning the apportioning of binary characteristics, and this is the latter. This is an essentialist definition of gender where masculinity and femininity are two sides of an ultimately detrimental battle for reconciliation fought internally around the point of balance that remains the boy's natural and expected development into the man. Rezaire herself reiterates this essentialist view of gender in the video essay where she talks of fundamental differences in the masculine and feminine perception of structures—the hard right-angled masculine versus the soft and flowing feminine—but this idea isn't framed as contingent and historical, rather it's presented as inherent and eternal.
+
+Further problems can be found where Rezaire discusses the <q>reclamation of the legacies of feminine and masculine energies</q>: Where are these energies? Are they finite? Who are these energies being reclaimed from, and on whose behalf? The idea of internal energies dislocates gender from society, it presents individuals as existing only amongst individuals, each with their own quantity and quality of energy. This idea creates the <q>Autonomous beings</q> celebrated by the exhibition text, but these beings are totally disconnected from history and politics, rather than gendered according to a set of arbitrary categories ascribed to people by names, by cultural expectations, by the law—a mutable product of society, a set of rules to be applied, followed, and renegotiated.
+
+There are more claims that could be described as problematic, appropriative, essentialist, as the erasure and invalidation of identities: the invocation of the pyramid as the sign of an unknowable Other and mystical source of knowledge—this is colonial logic that doesn't seek to understand but to inscribe; the abstraction of <q>African and indigenous knowledge</q>, as if these were coherent, historically consistent, pure, unproblematic; and the references to Kemetic Yoga™, developed in the 1970s and tracing its origins to <q>Kemetic systems of self-development that fuelled the creation of the Kemetic civilization that spawned western science, philosophy and religion</q>—the same western science, philosophy, and religion that is implicated in colonialism.
+
+How have these various statements been allowed to go unexamined? In this specific case, The Royal Standard, as an artist-run space, doesn't have the resources to provide a full-time curator who might be able to guide the artists and advise on their approach, suggest readings, and work through contradictions. More generally, these statements are allowed to go unchallenged because currently the critiques of cultural appropriation and colonialism are made within a discourse that values the <q>local</q> and <q>traditional</q>, the fact that these statements were made with <q>African and indigenous knowledge</q> is enough to justify it. But given, as the artist acknowledges, colonial thought and practices are present in the fields of technology, sexuality, health and spirituality, how are we supposed to understand local and traditional thought?
+
+The practice of decolonisation—the effort to remove and undo the legacies of centuries of death, immiseration, and exploitation—is a necessary one, but the questioning of colonial logic shouldn't equate to the questioning of critical thought. There's a distinct difference between the practices that seek to erase and totalise knowledge, and that of critically assessing multiple forms of knowledge to find points of coincidence and contradiction. Unfortunately this exhibition doesn't make this distinction, with the result its expansive critique is spread thinly on ground as stable as shifting sands.
