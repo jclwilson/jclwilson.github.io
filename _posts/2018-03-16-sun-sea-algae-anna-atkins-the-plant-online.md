@@ -7,15 +7,14 @@ image_link:
 image_alt: A white silhouette of a frond of seaweed, laid against a deep blue background. The paper is a little old.
 image_caption: 'Anna Atkins, Cystoseira fibrosa, 1843.'
 article_category:
-article_format: essay
+article_format: article
 publisher: The Plant # An entity responsible for making the resource available.
 publisher_issue: issue 11
 contributor: # An entity responsible for making contributions to the resource.
 coverage: # The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant.
 creator: Jacob Charles Wilson # An entity primarily responsible for making the resource.
 # date: # A point or period of time associated with an event in the lifecycle of the resource. This is blanked out because otherwise it will override the default publication date.
-description: "An exhibition essay on 'I Blew On Mr Greenhill's arm with a very 'hot' breath' at the De La Warr Pavilion, Bexhill-on-Sea" # An account of the resource.
-format: online # The file format, physical medium, or dimensions of the resource.
+description: "A profile of the Victorian photographer and biologist Anna Atkins" # An account of the resource.
 identifier: # An unambiguous reference to the resource within a given context.
 language: English # A language of the resource.
 relation: http://theplantmagazine.com # A related resource. In the case of link posts, this is the URL of the canonical article.
@@ -24,7 +23,7 @@ source: # A related resource from which the described resource is derived.
 subject: # The topic of the resource. e.g. tags
 ---
 
-The photographer Anna Atkins was born 147 years ago, on the 16th of March, 1871. It was around this time last year that I wrote on her seaweed cyanotype photographs for <cite>[The Plant](http://theplantmagazine.com)</cite>. To mark the occasion, and to celebrate the launch of the latest issue of the magazine, I've posted the full article below.
+The photographer Anna Atkins was born 219 years ago on the 16th of March, 1799. It was around this time last year that I wrote on her seaweed cyanotype photographs for <cite>[The Plant](http://theplantmagazine.com)</cite>. To mark the occasion, and to celebrate the launch of the latest issue of the magazine, I've posted the full article below.
 
 —
 
