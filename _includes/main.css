@@ -42,7 +42,7 @@ body {
 }
 
 blockquote {
-    margin-left: 2em;
+    margin-lft: 2em;
 	quotes: "\0022" "\0022" "\0027" "\0027";
 }
 
@@ -70,6 +70,14 @@ img {
 
 figcaption {
     text-align: end;
+}
+
+hr {
+	margin: 0;
+	border:none;
+	background: var(--jcw-primary-colour);
+	height:0.09em;
+	width: 1em;
 }
 
 .header, .main * {
