@@ -1,5 +1,5 @@
 {% if page.format == 'print' %}
     <p>{% if page.article_format %}The {{ page.article_format }},{% endif %} {% if page.relation %}<a href="{{ page.relation }}">{% endif %}<cite>{{ page.title }}</cite>{% if page.relation %}</a>{% endif %}, is available in {% if page.publisher_issue %}{{ page.publisher_issue }} of {% endif %}{% if page.relation %}<a href="{{ page.relation }}">{% endif %}<cite>{{ page.publisher }}</cite>{% if page.relation %}</a>{% endif %}.</p>
 {% elsif page.format == 'online' %}
-    <p>{% if page.article_format %}The {{ page.article_format }},{% endif %} {% if page.relation %}<a href="{{ page.relation }}">{% endif %}<cite>{{ page.title }}</cite>{% if page.relation %}</a>{% endif %}, is available on {% if page.relation %}<a href="{{ page.relation }}">{% endif %}<cite>{{ page.publisher }}</cite>{% if page.relation %}</a>{% endif %}.</p>
+    <p>{% if page.article_format %}The {{ page.article_format }},{% endif %} {% if page.relation %}<a href="{{ page.relation }}">{% endif %}<cite>{{ page.title }}</cite>{% if page.relation %}</a>{% endif %}, is up on {% if page.relation %}<a href="{{ page.relation }}">{% endif %}<cite>{{ page.publisher }}</cite>{% if page.relation %}</a>{% endif %}.</p>
 {% endif %}
