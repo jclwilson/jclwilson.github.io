@@ -24,7 +24,7 @@ source: # A related resource from which the described resource is derived.
 subject: # The topic of the resource. e.g. tags
 ---
 
-The history of modernism is less clean and well ordered than it likes to tell us. There are failures, dead ends, repetitions, coincidences if you look at it from the right angle. There are parallels to be drawn between magnetic psychics, concrete architecture, and astral cities.
+The history of modernism is less clean and ordered than it likes to claim. There are failures, dead ends, repetitions, coincidences if you look at it from the right angle. There are parallels to be drawn between magnetic psychics, concrete architecture, and astral cities.
 
 <cite>The Magnetic Chain</cite>, my latest article for <cite>Tank Magazine</cite>, takes a look at the work of artists Tamar Guimarães and Kasper Akhøj, who—in their current show, <cite>I Blew On Mr Greenhill's arm with a very 'hot' breath'</cite> at the De La Warr Pavilion, Bexhill-on-Sea—explore the links between the spiritist cult town of Palmelo in Brazil, Eileen Gray's E-1027 house on the Cote d'Azur, the De La Warr Pavilion, and Arthur Spray, a Bexhill local who claimed to have gained magnetic powers of healing.
 
