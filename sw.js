@@ -35,12 +35,10 @@ workbox.googleAnalytics.initialize();
 // Now fetch
 self.addEventListener('fetch', function(event) {
     event.respondWith(
-        caches.open(CACHE_VERSION).then(function(cache) {
-            return fetch(event.request).then(function(response) {
-                return response;
-            }).catch(function() {
-              return caches.match('/offline');
-            });
+        fetch(event.request).catch(function() {
+            return caches.match(event.request);
+        }).catch(function() {
+          return caches.match('/offline');
         })
     );
 });
