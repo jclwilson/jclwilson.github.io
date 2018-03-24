@@ -1,30 +1,46 @@
 ---
 ---
-    var CACHE_VERSION = 'jclwilson-v8';
+    var CACHE_VERSION = 'jclwilson-v1';
 	var CACHE_FILES = [
 	    '/',
 	    '/404',
 	    '/offline',
 		'/about',
-	    '/assets/reframe.js/dist/reframe.min.js',
-	    'https://fonts.gstatic.com/s/worksans/v2/ElUAY9q6T0Ayx4zWzW63VFtXRa8TVwTICgirnJhmVJw.woff2'
+	    '/assets/img/favicon-16.png',
+        '/assets/img/favicon-32.png',
+        '/assets/img/favicon-96.png'
 	];
 
 self.addEventListener('install', function(event) {
     event.waitUntil(
         caches.open(CACHE_VERSION).then(function(cache) {
             cache.addAll([
-				{% for page in site.posts limit: 10 %}
-					{{ page.url | prepend: "'" | append: "'," }}
-					{% if page.image %}
-					//	{{ site.cdn_url | prepend: "'" }}jpg/{{ page.image | append: ".jpg'," }}
-					//	{{ site.cdn_url | prepend: "'" }}webp/{{ page.image | append: ".webp'," }}
-					{% endif %}
-				{% endfor %}
-			]);
+                {% for post in site.posts limit: 10 %}
+                    {{ post.url | prepend: "'" | append: "'," }}
+                    {% if post.image %}
+                    	{{ site.cdn_url | prepend: "'" }}jpg/{{ post.image | append: ".jpg'," }}
+                    	{{ site.cdn_url | prepend: "'" }}webp/{{ post.image | append: ".webp'," }}
+                    {% endif %}
+                {% endfor %}
+            ]);
             return cache.addAll(CACHE_FILES);
-			console.log(CACHE_VERSION);
-			console.log(CACHE_FILES);
+        })
+    );
+});
+
+// Adds offline analytics
+importScripts('https://storage.googleapis.com/workbox-cdn/releases/3.0.0/workbox-sw.js');
+workbox.googleAnalytics.initialize();
+
+// Now fetch
+self.addEventListener('fetch', function(event) {
+    event.respondWith(
+        caches.open(CACHE_VERSION).then(function(cache) {
+            return fetch(event.request).then(function(response) {
+                return response;
+            }).catch(function() {
+              return caches.match('/offline');
+            });
         })
     );
 });
@@ -35,32 +51,10 @@ self.addEventListener('activate', function(event) {
             return Promise.all(
                 keys.map(function(key, i) {
                     if (key !== CACHE_VERSION) {
-                        console.log('will delete ' + keys[i]);
                         return caches.delete(keys[i]);
                     }
                 })
             )
         })
     )
-});
-
-// First, import the library into the service worker global scope:
-importScripts('assets/sw-offline-google-analytics/offline-google-analytics-import.js');
-// Then, call goog.offlineGoogleAnalytics.initialize():
-// See https://github.com/GoogleChrome/sw-helpers/tree/master/projects/sw-offline-google-analytics#googofflinegoogleanalyticsinitialize
-goog.offlineGoogleAnalytics.initialize();
-// At this point, implement any other service worker caching strategies
-// appropriate for your web app.
-
-self.addEventListener('fetch', function(event) {
-    event.respondWith(
-        // Try the cache
-        caches.match(event.request).then(function(response) {
-            // Fall back to network
-            return response || fetch(event.request);
-        }).catch(function() {
-            // If both fail, show a generic fallback:
-            return caches.match('/offline');
-        })
-    );
 });
