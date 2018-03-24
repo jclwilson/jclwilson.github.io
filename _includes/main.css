@@ -42,7 +42,7 @@ body {
 }
 
 blockquote {
-    margin-lft: 2em;
+    margin-left: 2em;
 	quotes: "\0022" "\0022" "\0027" "\0027";
 }
 
