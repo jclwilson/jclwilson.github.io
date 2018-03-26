@@ -34,14 +34,25 @@ workbox.googleAnalytics.initialize();
 
 // Now fetch
 self.addEventListener('fetch', function(event) {
-    event.respondWith(
-        fetch(event.request).catch(function() {
-            return caches.match(event.request);
-        }).catch(function() {
-          return caches.match('/offline');
-        })
-    );
+  event.respondWith(
+    // Try the cache
+    caches.match(event.request).then(function(response) {
+      if (response) {
+        return response;
+      }
+      return fetch(event.request).then(function(response) {
+        if (response.status === 404) {
+          return caches.match('/404');
+        }
+        return response
+      });
+    }).catch(function() {
+      // If both fail, show a generic fallback:
+      return caches.match('/offline');
+    })
+  );
 });
+
 
 self.addEventListener('activate', function(event) {
     event.waitUntil(
