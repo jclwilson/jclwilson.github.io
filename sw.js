@@ -1,6 +1,6 @@
 ---
 ---
-    var CACHE_VERSION = 'jclwilson-v1';
+    var CACHE_VERSION = 'jclwilson-{{ "now" | date_to_xmlschema }}';
 	var CACHE_FILES = [
 	    '/',
 	    '/404',
