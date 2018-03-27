@@ -24,8 +24,8 @@
 				{% if site.email %}
 					<li class="menu__link"><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
 				{% endif %}
-				{% if site.twitter.username %}
-					<li class="menu__link"><a href="http://twitter.com/{{ site.twitter.username }}">{{ site.twitter.username | prepend: '@' }}</a></li>
+				{% if site.author.twitter %}
+					<li class="menu__link"><a href="http://twitter.com/{{ site.author.twitter }}">{{ site.author.twitter | prepend: '@' }}</a></li>
 				{% endif %}
 					<li class="menu__link no-print"><a href="/about">About</a></li>
 			</ul>
