@@ -4,12 +4,18 @@ description: Freelance Arts Writer
 url: https://jacobcharleswilson.com
 enforce_ssl: jacobcharleswilson.com
 email: hello@jacobcharleswilson.com
-twitter:
-  username: jclwilson
-github:
-  username: jclwilson
-instagram:
-  username: jclwilson
+author:
+  twitter: jclwilson
+  github: jclwilson
+  instagram:
+social:
+  name: Jacob Charles Wilson
+  links:
+    - https://twitter.com/jclwilson
+    - https://instagram.com/jclwilson
+    - https://www.facebook.com/jacobcharleswilson
+    - https://www.linkedin.com/in/jclwilson
+    - https://github.com/jclwilson
 permalink: "/:title"
 markdown: kramdown
 
