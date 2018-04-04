@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /offline
+Sitemap: https://jacobcharleswilson.com/sitemap.xml
