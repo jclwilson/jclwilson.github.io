@@ -65,5 +65,6 @@ self.addEventListener('activate', function(event) {
                 })
             )
         })
-    )
+    );
+    event.waitUntil(clients.claim());
 });
