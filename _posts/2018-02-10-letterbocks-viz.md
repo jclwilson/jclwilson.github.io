@@ -18,7 +18,7 @@ description: # An account of the resource.
 format: print # The file format, physical medium, or dimensions of the resource.
 identifier: # An unambiguous reference to the resource within a given context. In the context of posts on jacobcharleswilson.com this would be the permalink.
 language: English # A language of the resource.
-relation: # A related resource.
+relation: http://viz.co.uk/ # A related resource.
 rights: # Information about rights held in and over the resource.
 source: # A related resource from which the described resource is derived.
 subject: # The topic of the resource. e.g. tags
