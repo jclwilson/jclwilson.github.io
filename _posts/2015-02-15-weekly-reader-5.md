@@ -2,7 +2,7 @@
 layout: post
 title: Weekly Reader 5
 image: annie-gregoire
-image_link: 'http://instagram.com/annieslg'
+image_link: 'http://instagram.com/annielsg'
 image_caption: Photo by Annie Gregoire
 image_alt: An abstract photo of series of circles on a cloudy red background.
 redirect_from: post/111091077244/weekly-reader-5
