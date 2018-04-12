@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Weekly Reader 33
-image: 'http://66.media.tumblr.com/d84dcce8b739aec800f4e73ebc038038/tumblr_inline_o4du90B9y21qj1kht_540.jpg'
-image_link: 'https://www.instagram.com/bfgf/'
+image: bfgf
+image_link: https://www.instagram.com/bfgf/
 image_caption: 'Photo by BFGF'
 redirect_from: post/142186699659/weekly-reader-33
 ---
