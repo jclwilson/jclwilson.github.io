@@ -2,14 +2,14 @@
 title: Weekly Reader 34
 date: 2016-05-16 00:00:00 Z
 layout: post
-image: http://66.media.tumblr.com/ff07828afa1d12385a002ce8f0f49d88/tumblr_inline_o79guiEOAa1qj1kht_540
+image: juno-calypso-bed
 image_caption: Photo by Juno Calypso
 image_link: https://www.instagram.com/junocalypso
 image_alt: A girl sat in bed, facing the camera
 redirect_from: post/144444149539/weekly-reader-34
 ---
 
-I've missed a few weeks again, but thankfully I have a real excuse this time. I recently moved down to London and into a flat (for the next 5 months) to start working at the [Delfina Foundation](http://wwww.delfinafoundation.com/). Since then I've been settling back into things, starting to ride my bike again, and enjoying the slow, grinding, somewhat soggy start of Spring.
+I've missed a few weeks again, but thankfully I have a real excuse this time. I recently moved down to London and into a flat (for the next 5 months) to start working at the [Delfina Foundation](http://delfinafoundation.com/). Since then I've been settling back into things, starting to ride my bike again, and enjoying the slow, grinding, somewhat soggy start of Spring.
 The photo above is by Juno Calypso, whose work will be at <a href="http://photolondon.org/">Photo London</a> this week. I’m taking a week off my usual job to work at the fair, so if you end up there, or anywhere around Somerset House, then give me a message on <a href="http://twitter.com/jclwilson">Twitter</a> or <a href="http://instagram.com/jclwilson">Instagram</a>, and let’s hang out.
 - <q>Excuse my ignorance, but I'm somewhat of a novice. How exactly do I repot my houseplants? More to the point, when and why should I do this, and how do I ensure each specimen is fed and watered appropriately so they thrive and continue to grow?</q>, Nik Southern, <a href="http://www.anothermag.com/design-living/8528/the-agony-plant-on-how-to-repot-a-houseplant">The Agony Plant on How to Repot a Houseplant</a> in <cite>AnOther</cite>. I (thankfully) don't have any children, nor any pets, the only things I have to care for are my laptop and my houseplants. Unfortunately my cacti, palms, &amp; rosemary haven't made the journey down to London yet, I really didn't fancy a risky train and bike journey. So, I'm looking to get some new plants, if anyone knows of particularly good (read, cheap) shops then please let me know.
 - <a href="http://www.theguardian.com/lifeandstyle/2016/may/13/rachel-roddys-kitchen-essentials">Rachel Roddy's Kitchen Essentials</a> in <cite>The Guardian</cite> and <a href="http://www.bonappetit.com/entertaining-style/gift-guides/article/graduation-gifts-kitchen-basics">7 Kitchen Basics for Penniless Graduates</a> in <cite>Bon Appetit</cite>. I'm a complete sucker for <q>Must Have Kitchen Essentials</q> articles, I have an acute sense of fear-of-missing-out, yet at the same time I know that in five, let alone ten, years we'll be able to look back and laugh at the tack plastic that filled our rental kitchens (fondue sets and spiralisers?). The <cite>Bon Appetit</cite> article is fairly useful, my enamel cooking pot is one the best things I own, and timeless.
