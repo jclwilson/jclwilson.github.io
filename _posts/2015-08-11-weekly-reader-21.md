@@ -2,7 +2,7 @@
 layout: post
 title: Weekly Reader 21
 image: lula-hyers
-image_link: http://instagram.com/lulahyers66
+image_link: http://instagram.com/lulahyers
 image_alt: A woman lying on a bed, a venetian blind casts a striped shadow over her face.
 image_caption: Photo by Lula Hyers
 redirect_from: post/126416587789/weekly-reader-21
