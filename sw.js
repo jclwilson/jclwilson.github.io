@@ -32,27 +32,23 @@ self.addEventListener('install', function(event) {
 importScripts('https://storage.googleapis.com/workbox-cdn/releases/3.0.0/workbox-sw.js');
 workbox.googleAnalytics.initialize();
 
-// Now fetch
 self.addEventListener('fetch', function(event) {
-  event.respondWith(
-    // Try the cache
-    caches.match(event.request).then(function(response) {
-      if (response) {
-        return response;
-      }
-      return fetch(event.request).then(function(response) {
-        if (response.status === 404) {
-          return caches.match('/404');
-        }
-        return response
-      });
-    }).catch(function() {
-      // If both fail, show a generic fallback:
-      return caches.match('/offline');
-    })
-  );
+    event.respondWith(
+        caches.match(event.request).then(function(response) {
+            if (response) {
+                return response;
+            }
+            return fetch(event.request).then(function(response) {
+                if (response.status === 404) {
+                    return caches.match('/404');
+                }
+                return response
+            });
+        }).catch(function() {
+            return caches.match('/offline');
+        })
+    );
 });
-
 
 self.addEventListener('activate', function(event) {
     event.waitUntil(
@@ -66,5 +62,4 @@ self.addEventListener('activate', function(event) {
             )
         })
     );
-    event.waitUntil(clients.claim());
 });
