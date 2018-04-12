@@ -3,7 +3,7 @@ layout: post
 title: Weekly Reader 8
 redirect_from: post/113089854299/weekly-reader-8
 image: louise-eaton
-image_link: 'http:/instagram.com/louise_eaton'
+image_link: https://instagram.com/louise_eaton
 image_caption: Photo by Louise Eaton
 image_alt: A photograph of a man walking around a shallow pool, part of an artwork by Cao Guo-Qiang.
 ---
@@ -16,6 +16,6 @@ I've had an incredibly busy week with the penultimate MA deadline and a couple o
 - "When I die, bury me inside a vat of saag paneer. [Indian food is categorically delicious: its flavors are complex, oscillating between sweet, savory, and spicy](http://munchies.vice.com/articles/theres-a-scientific-reason-why-indian-food-is-so-delicious); its textures meld creamy sauces with doughy breads and tender meat and vegetables to make the slop of dreams."
 - "[That's a heaps broad question. I love quiet, I love Oscar Key-Sung, I love tattooing myself, I love a clear mind, and i love dirty ass club music.](https://thump.vice.com/en_au/article/in-the-garden-of-htmlflowers)"
 - "I have heard older photographers call the trend cowardly. Some claim it represents an unwillingness on the part of young photographers to go out and confront the real world. [My problem is not that still-life photography is cowardly, but that most of the still lifes being made today are extremely lazy.](http://www.vice.com/read/still-life-photography-405)"
-- [Beth Kleinpeter photographs the Cat Fanciers Association Show](http://www.bethkleinpeter.com/dmtavscudgcbzh0080k8o1pr7ssoy9).
+- [Beth Kleinpeter photographs the Cat Fanciers Association Show](http://bethkleinpeter-blog.tumblr.com).
 - "Everything in this book is fake: fabricated streets that barely look real, [sculptures of airplanes that look like cheap overblown toys, American soldiers who pretend to be the enemy and paint anti-US slogans on the walls, etc.](http://we-make-money-not-art.com/archives/2015/03/staging-disorder.php#.VPyb4M2sWkA)"
 - "How differently the sun used to shine and the wind blow there, how different was the lovely song of the birds that could be heard there, or the melodious call of the herdsman. [And here--this strange, ugly city, the gloomy stall, the nauseating, stale hay, mixed with rotten straw, and the strange, frightening humans](http://versobooks.tumblr.com/post/112778454703/extract-from-the-letters-of-rosa-luxemburg)--the beating, the blood running from the fresh wound..."
