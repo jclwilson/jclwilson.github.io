@@ -2,10 +2,10 @@
 layout: post
 title: Weekly Reader 24
 redirect_from: post/131099982209/weekly-reader-24
-image: emzlolz
-image_link: 'http://instagram.com/emzlolz'
+image: mariahdisnaecarey
+image_link: 'http://instagram.com/mariahdisnaecarey'
 image_alt: A photo of an old mill chimney in Manchester.
-image_caption: Photo by Emzlolz
+image_caption: Photo by mariahdisnaecarey
 ---
 
 Last Tuesday I moved back to Manchester, I got into the swing of things and on Thursday and Friday was working at [Indy Man Beer Con](http://www.indymanbeercon.co.uk) (hosted at Victoria Baths, the chimney pictured above). On Sunday I went to [The Moss Cider Project](http://themossciderproject.org/) to drop off around 50kg of apples, before spending the evening cooking.
