@@ -1,13 +1,11 @@
 title: Jacob Charles Wilson
 description: Freelance Arts Writer
-
 url: https://jacobcharleswilson.com
 enforce_ssl: jacobcharleswilson.com
 email: hello@jacobcharleswilson.com
 author:
-  twitter: jclwilson
-  github: jclwilson
-  instagram:
+    name: Jacob Charles Wilson
+    twitter: jclwilson
 social:
   name: Jacob Charles Wilson
   links:
