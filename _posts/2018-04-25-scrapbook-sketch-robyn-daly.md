@@ -23,7 +23,7 @@ source: # A related resource from which the described resource is derived.
 subject: # The topic of the resource. e.g. tags
 ---
 
-My eye was caught by the stark flat white and endless black. The light cast left to right by a relentless sun and shaped by the window frame into a diagonal rectangle. The fuzzy edges of the shadow and the light scattered by the faceted Duralex glass. The stillness and silence of each part: the yellow lemon, the single pure white rose and lighter, the picture within the picture. The <cite>Mona Lisa</cite>—the contemporary sign of fine art, the most reproduced image in art history, reduced to a dishcloth.
+My eye was caught by the stark flat white and endless black. The light cast left-to-right by a relentless sun and shaped by the window frame into a diagonal rectangle. The fuzzy edges of the shadow and the beams scattered by the faceted Duralex glass. The stillness and silence of each part: the yellow lemon, the single pure white rose and lighter, the picture within the picture. The <cite>Mona Lisa</cite>—the symbol of fine art, the most reproduced image in art history, reduced to a dishcloth.
 
 Cut out of the frame and printed on fabric, the Mona Lisa's 'perfect' face is crumpled and distorted. Is it disrespectful, or would the purchase of his work please him? Either way, the dishcloth brings down the tone of the picture, it's not an art gallery, it's a domestic scene. But at the same time, this is still an arranged scene, it only gives the pretence of being domestic, as any still life does.
 
