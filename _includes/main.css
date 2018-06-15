@@ -7,12 +7,14 @@
 /* BEM CSS below */
 
 html {
-    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
     font-size: 16px;
 }
 
 *, *:before, *:after {
-    box-sizing: inherit;
+    -webkit-box-sizing: inherit;
+            box-sizing: inherit;
 }
 
 body {
@@ -23,8 +25,10 @@ body {
     line-height: 1.4;
     padding: 1em 5%;
     word-break: break-word;
+    -webkit-transition: font-size 0.3s ease;
     transition: font-size 0.3s ease;
-	font-feature-settings:"onum" 0, "pnum" 1, "kern" 1, "ss01" 0;
+	-webkit-font-feature-settings:"onum" 0, "pnum" 1, "kern" 1, "ss01" 0;
+	        font-feature-settings:"onum" 0, "pnum" 1, "kern" 1, "ss01" 0;
 }
 
 @supports (text-shadow: 1em 1em var(--jcw-primary-colour)) {
@@ -37,7 +41,8 @@ body {
 			0.03em 0.03em 0 var(--jcw-secondary-colour),
 			0 0.03em 0 var(--jcw-secondary-colour),
 			-0.06em 0.03em 0 var(--jcw-secondary-colour);
-		box-shadow: inset 0 -0.08em 0 0 var(--jcw-primary-colour);
+		-webkit-box-shadow: inset 0 -0.08em 0 0 var(--jcw-primary-colour);
+		        box-shadow: inset 0 -0.08em 0 0 var(--jcw-primary-colour);
     }
 }
 
@@ -65,7 +70,8 @@ blockquote p:after, q:after {
 img {
 	display: block;
 	width: 100%;
-	filter: grayscale(1);
+	-webkit-filter: grayscale(1);
+	        filter: grayscale(1);
 }
 
 figcaption {
@@ -131,8 +137,19 @@ hr {
 	outline:none;
 }
 
+a cite:hover, cite a:hover, a cite:focus, cite a:focus, cite::-moz-selection {
+	text-shadow: none;
+}
+
 a cite:hover, cite a:hover, a cite:focus, cite a:focus, cite::selection {
 	text-shadow: none;
+}
+
+::-moz-selection {
+	background: var(--jcw-primary-colour);
+	color: var(--jcw-secondary-colour);
+	text-shadow: none;
+	outline:none;
 }
 
 ::selection {
@@ -162,7 +179,8 @@ a cite:hover, cite a:hover, a cite:focus, cite a:focus, cite::selection {
 	.underline, a, cite {
 		text-decoration: underline;
 		text-shadow: none;
-		box-shadow: none;
+		-webkit-box-shadow: none;
+		        box-shadow: none;
     }
 	.no-print {
 		display: none;
