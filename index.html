@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-<h1 class="no-show">Articles</h1>
+<h2 class="no-show">Articles</h2>
 <ul class="index">
     {% for post in site.posts %}
         {% assign currentdate = post.date | date: "%Y" %}
         {% if currentdate != date %}
             {% unless forloop.first %}</ul>{% endunless %}
             <li>
-                <h2 class="post__date" id="y{{ post.date | date: "%Y"}}">{{ currentdate }}</h2>
+                <h3 class="post__date" id="y{{ post.date | date: "%Y"}}">{{ currentdate }}</h3>
                 <ul class="index">
                     {% assign date = currentdate %}
         {% endif %}
