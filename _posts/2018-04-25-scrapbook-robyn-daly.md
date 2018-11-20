@@ -1,5 +1,5 @@
 ---
-title: "Scrapbook Sketch: Robyn Daly, Mona Lisa on my Desk, 2018"
+title: "Scrapbook: Robyn Daly, Mona Lisa on my Desk, 2018"
 layout: post
 redirect_from:
 image: robyn-daly-mona-lisa-on-my-desk-2018
