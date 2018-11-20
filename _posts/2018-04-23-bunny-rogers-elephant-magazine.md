@@ -1,6 +1,6 @@
 ---
 title: 'Belonging in the World of Bunny Rogers'
-format: online
+format: post
 redirect_from:
 image: bunny-rogers-pones
 image_link: https://elephant.art/belonging-in-the-world-of-bunny-rogers/
@@ -22,6 +22,6 @@ rights:
 source:
 subject:
 ---
-Growing up in online communities through a plethora of avatars, the now internationally-exhibited artist Bunny Rogers makes work that explores ways individuals and society has dealt with the sense of isolation and belonging. After finding one of Bunny's websites, I went to Paris to talk with her about her practice.
+Growing up in online communities through a plethora of avatars, the now internationally-exhibited artist Bunny Rogers makes work that explores ways individuals and society has dealt with the sense of isolation and belonging. After stumbling across one of Bunny's websites I went to Paris, to the Louis Vuitton Foundation, to talk with her about her practice.
 
 > I would like to see less homogeneity and more freaks dealing with their issues.
