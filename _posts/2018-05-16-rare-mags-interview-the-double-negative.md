@@ -1,6 +1,6 @@
 ---
-title: 'Rare Mags'
-format: online
+title: 'Introducing: Rare Mags, Stockport'
+format: post
 redirect_from:
 image: rare-mags-stockport
 image_link: http://www.thedoublenegative.co.uk/2018/05/its-a-luxury-and-a-privilege-introducing-rare-mags-stockport/
