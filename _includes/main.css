@@ -94,6 +94,10 @@ hr {
     display: inline;
 }
 
+.post__time {
+	display:block;
+}
+
 .menu, .index {
     list-style-type: none;
 }
