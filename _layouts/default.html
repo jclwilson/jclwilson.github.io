@@ -55,7 +55,11 @@
 		  function gtag(){dataLayer.push(arguments);}
 		  gtag('js', new Date());
 
-		  gtag('config', 'UA-23909678-1');
+		  gtag('config', 'UA-23909678-1', {
+		  	'custom_map': {'dimension1': 'Network Status'}
+		  });
+
+		  gtag('event', 'network_status_hit', {'Network Status': online});
 		</script>
 		<script>
 		if ('serviceWorker' in navigator) {
