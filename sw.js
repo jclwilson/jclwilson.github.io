@@ -42,7 +42,7 @@ self.addEventListener('fetch', function(event) {
             if (response) {
                 return response;
             }
-            return fetch(event.request).then(function(response) {
+            return fetch(event.request, {mode: 'cors'}).then(function(response) {
                 if (response.status === 404) {
                     return caches.match('/404');
                 }
