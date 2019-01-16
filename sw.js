@@ -30,11 +30,7 @@ self.addEventListener('install', function(event) {
 
 // Adds offline analytics
 importScripts('https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js');
-workbox.googleAnalytics.initialize({
-    parameterOverrides: {
-        cd1: 'offline',
-    },
-});
+workbox.googleAnalytics.initialize();
 
 self.addEventListener('fetch', function(event) {
     event.respondWith(
