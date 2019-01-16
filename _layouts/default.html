@@ -16,6 +16,19 @@
 		<link rel="icon" type="image/png" href="assets/img/favicon-32.png" sizes="32x32">
 		<link rel="icon" type="image/png" href="assets/img/favicon-96.png" sizes="96x96">
 	</head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23909678-1"></script>
+	<script>
+  		window.dataLayer = window.dataLayer || [];
+ 		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
+
+  		gtag('config', 'UA-23909678-1', {
+  			'custom_map': {'dimension1': 'network_status'}
+  	  	});
+
+  	  	gtag('event', 'network_status_hit', {'network_status': 'online'});
+	</script>
 	<body>
 		<header class="header" id="header">
 			<h1 class="header__title"><a href="{{ site.url }}">Jacob Charles Wilson</a></h1>
@@ -47,19 +60,6 @@
 		<script>
 			// Reframe matching elements
 			reframe(document.querySelectorAll('iframe'))
-		</script>
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23909678-1"></script>
-		<script>
-		  window.dataLayer = window.dataLayer || [];
-		  function gtag(){dataLayer.push(arguments);}
-		  gtag('js', new Date());
-
-		  gtag('config', 'UA-23909678-1', {
-		  	'custom_map': {'dimension1': 'network_status'}
-		  });
-
-		  gtag('event', 'network_status_hit', {'network_status': 'online'});
 		</script>
 		<script>
 		if ('serviceWorker' in navigator) {
