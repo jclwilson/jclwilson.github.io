@@ -1,5 +1,5 @@
 ---
-title: Face In The Crowd: vintage shots of British football fans
+title: 'Face In The Crowd: vintage shots of British football fans'
 layout: post
 redirect_from:
 cdn-image: alan-dein-face
