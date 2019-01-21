@@ -16,10 +16,10 @@ self.addEventListener('install', function(event) {
         caches.open(CACHE_VERSION).then(function(cache) {
             cache.addAll([
                 {% for post in site.posts limit: 10 %}
-                    {{ post.url | prepend: "'" | append: "'," }
-                        {% if post.image %}
-                            {{ site.cdn_url | prepend: "'" }}jpg/{{ post.image | append: ".jpg'," }}
-                        {{ site.cdn_url | prepend: "'" }}webp/{{ post.image | append: ".webp'," }}
+                    {{ post.url | prepend: "'" | append: "'," }}
+                    {% if post.cdn-image %}
+                        {{ site.cdn_url | prepend: "'" }}jpg/{{ post.cdn-image | append: ".jpg'," }}
+                        {{ site.cdn_url | prepend: "'" }}webp/{{ post.cdn-image | append: ".webp'," }}
                     {% endif %}
                 {% endfor %}
             ]);
