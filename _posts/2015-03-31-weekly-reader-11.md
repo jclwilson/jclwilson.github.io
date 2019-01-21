@@ -2,7 +2,7 @@
 layout: post
 title: Weekly Reader 11
 redirect_from: post/115113057349/weekly-reader-11
-image: hayley-flynn
+cdn-image: hayley-flynn
 image_caption: Photo by Hayley Flynn
 image_link: 'http://instagram.com/skylinermcr/'
 image_alt: A photograph of the interior of an abandoned building.

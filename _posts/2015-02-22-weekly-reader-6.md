@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly Reader 6
-image: jen-collins
+cdn-image: jen-collins
 image_link: 'http://instagram.com/jen.collins'
 image_caption: Photo by Jen Collins
 image_alt: A photograph of a person drawing a group of potted plants.

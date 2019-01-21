@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly Reader 27
-image: darragh-mccaus
+cdn-image: darragh-mccaus
 image_link: https://www.instagram.com/darraghmccaus/
 image_alt: A photograph of a tree at dusk
 image_caption:  Photo by Darragh McCaus

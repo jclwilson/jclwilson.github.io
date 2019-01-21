@@ -2,7 +2,7 @@
 title: "Edouard Malingue and Mother's Tankstation at Condo London 2018"
 format: online
 redirect_from:
-image: condo-london-2018
+cdn-image: condo-london-2018
 image_link:
 image_alt:
 image_caption:

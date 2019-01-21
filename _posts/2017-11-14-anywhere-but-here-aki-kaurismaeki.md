@@ -2,7 +2,7 @@
 title: 'Anywhere but here: rediscovering the films of Aki Kaurismäki'
 format: online
 redirect_from:
-image: aki-kaurismaki-calamari-union
+cdn-image: aki-kaurismaki-calamari-union
 image_link: https://tankmagazine.com/tank/2017/11/aki-kaurismaeki/
 image_alt: ""
 image_caption: ""

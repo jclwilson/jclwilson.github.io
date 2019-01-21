@@ -3,7 +3,7 @@ title: 'Flat Death: Edgar Martins and Jordan Baseman at Open Eye Gallery'
 date: 2016-02-22 00:00:00 Z
 layout: post
 redirect_from: 
-image: jordan-baseman-deadness
+cdn-image: jordan-baseman-deadness
 image_link: 
 image_caption: Jordan Baseman, Deadness, 2013
 article_category: 

@@ -2,7 +2,7 @@
 title: '"The privilege of being an artist is the ability to answer back": Art and Protest at Frieze Academy'
 format: online
 redirect_from:
-image: heather-phillipson-more-flinching
+cdn-image: heather-phillipson-more-flinching
 image_link: http://www.thedoublenegative.co.uk/2017/05/the-privilege-of-being-an-artist-is-the-ability-to-answer-back-art-and-protest-at-frieze-academy/
 image_alt: A photograph of a plastic Alsatian dog amidst a pile of paper.
 image_caption:  Heather Phillipson, more flinching, 2016.

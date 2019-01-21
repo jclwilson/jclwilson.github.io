@@ -2,7 +2,7 @@
 title: 'Ultra Wet - Recapitulation at The Royal Standard'
 layout: post
 redirect_from:
-image: ultra-wet-recapitulation
+cdn-image: ultra-wet-recapitulation
 image_link:
 image_alt:
 image_caption:

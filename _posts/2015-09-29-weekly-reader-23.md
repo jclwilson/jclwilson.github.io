@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly Reader 23
-image: law-magazine
+cdn-image: law-magazine
 image_link: http://instagram.com/Law_Magazine
 image_alt: A blurry photograph of parakeets in flight
 image_caption: Photo by Law Magazine

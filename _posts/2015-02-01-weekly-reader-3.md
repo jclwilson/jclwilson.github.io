@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly Reader 3
-image: syed-abbas
+cdn-image: syed-abbas
 image_link: 'http://instagram.com/dapper_kid'
 image_caption: 'Photo, Syed Abbas'
 image_alt: A photograph of a  hand stroking the head of a black cat.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly Reader 30
-image: emily-baker
+cdn-image: emily-baker
 image_link: http://instagram.com/emilyisabaker
 image_alt: A hand holds a cold drink in a plastic cup up to the window of an aeroplane, it resembles William Eggleston's famous image, 'Glass in Airplane'.
 image_caption:

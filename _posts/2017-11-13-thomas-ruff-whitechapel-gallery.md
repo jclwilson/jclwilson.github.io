@@ -2,7 +2,7 @@
 title: 'Thomas Ruff Is Not A Photographer'
 layout: post
 redirect_from:
-image: thomas-ruff-press
+cdn-image: thomas-ruff-press
 image_link:
 image_alt: 'A photo of a plane flying upwards through the clouds, the print is overlaid with text and scribbles'
 image_caption: 'Thomas Ruff, press++ 21.11, 2016'

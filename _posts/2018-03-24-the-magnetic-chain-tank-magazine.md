@@ -2,7 +2,7 @@
 title: 'The Magnetic Chain'
 format: online
 redirect_from:
-image: magnetic-chain
+cdn-image: magnetic-chain
 image_link: https://tankmagazine.com/tank/2018/03/the-magnetic-chain/
 image_alt: A grainy black and white photograph of two people holding hands
 image_caption:

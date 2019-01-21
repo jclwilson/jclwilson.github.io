@@ -2,7 +2,7 @@
 title: 'Varvara Stepanova, the pioneer who brought constructivist design to proletarian life'
 format: online
 redirect_from:
-image: varvara-stepanova-clothes
+cdn-image: varvara-stepanova-clothes
 image_link:
 image_alt: "A digital reproduction of two of Stepanova's clothing designs"
 image_caption:

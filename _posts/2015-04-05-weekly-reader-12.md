@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly Reader 12
-image: lee-chang-ming
+cdn-image: lee-chang-ming
 image_link: https://instagram.com/eelchangming
 image_caption: 'Photo by Lee Chang Ming'
 image_alt: A blurry photo of fireworks in the night sky

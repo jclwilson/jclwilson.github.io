@@ -2,7 +2,7 @@
 title: "✓✓ Read Receipts: Into the water"
 layout: post
 redirect_from:
-image: dungeness-power-station
+cdn-image: dungeness-power-station
 image_link:
 image_caption:
 image_alt: A photograph of Dungeness Power Station

@@ -1,7 +1,7 @@
 ---
 title: Saul Leiter at The Photographers' Gallery, London
 layout: post
-image: saul-leiter-photographers-gallery
+cdn-image: saul-leiter-photographers-gallery
 ---
 
 > We like to pretend that what is public is what the real world is all about.

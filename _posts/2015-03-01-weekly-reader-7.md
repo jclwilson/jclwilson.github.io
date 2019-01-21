@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly Reader 7
-image: sophie-rose-williams
+cdn-image: sophie-rose-williams
 image_link: http://instagram.com//sophie___rose
 image_caption: "Photo by Sophie Rose Williams"
 image_alt: A group of houseplants, photographed from above.

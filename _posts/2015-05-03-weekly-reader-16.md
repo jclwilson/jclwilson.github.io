@@ -2,7 +2,7 @@
 layout: post
 title: Weekly Reader 16
 redirect_from: post/118016720881/weekly-reader-16
-image: devin-allen
+cdn-image: devin-allen
 image_caption: Photo by Devin Allen
 image_link: 'http://instagram.com/bydvnlln'
 image_alt: A young black protestor runs from a line of charging riot police. This was a particularly famous image at the time.

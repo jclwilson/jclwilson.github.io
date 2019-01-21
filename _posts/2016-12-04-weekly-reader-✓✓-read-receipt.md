@@ -2,7 +2,7 @@
 title: Weekly Reader → ✓✓ Read Receipts
 date: 2016-12-04 00:00:00 Z
 layout: post
-image: interpersonal-behaviour
+cdn-image: interpersonal-behaviour
 image_link: 
 image_caption: 
 ---

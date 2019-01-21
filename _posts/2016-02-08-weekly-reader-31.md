@@ -2,7 +2,7 @@
 layout: post
 title: Weekly Reader 31
 redirect_from: post/138925425429/weekly-reader-31
-image: alexander-krack
+cdn-image: alexander-krack
 iamge_link: 'http://www.alexanderkrack.com/'
 image_caption: Photo by Alexander Krack
 image_alt: A row of people sit in plastic garden chairs facing the wall of a cave.

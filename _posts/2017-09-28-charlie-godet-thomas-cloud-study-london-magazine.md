@@ -2,7 +2,7 @@
 title: 'Charlie Godet Thomas'
 format: online
 redirect_from:
-image: charlie-godet-thomas-cloud-study
+cdn-image: charlie-godet-thomas-cloud-study
 image_link: https://www.thelondonmagazine.org/interview-charlie-godet-thomas/
 image_alt: 'The proposal for Cloud Study, hand drawn on a scrap of paper'
 image_caption:

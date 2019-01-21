@@ -2,7 +2,7 @@
 title: 'Gardens and Gatekeepers: Marcel Broodthaers’s inclusive installations'
 format: online
 redirect_from:
-image: marcel-broodthaers-jardin-d-hiver
+cdn-image: marcel-broodthaers-jardin-d-hiver
 image_link: https://tankmagazine.com/tank/2017/10/marcel-broodthaers/
 image_alt: "A photograph of Broodthaers' installation. A woman walks through the gallery space between potted palms towards a television and camera."
 image_caption: "Marcel Broodthaers, Un Jardin d'Hiver, 1974. (2017)"

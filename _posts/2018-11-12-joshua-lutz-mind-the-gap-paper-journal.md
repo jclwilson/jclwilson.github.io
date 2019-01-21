@@ -2,7 +2,7 @@
 title: 'Joshua Lutz: Mind the Gap'
 layout: post
 redirect_from:
-image: joshua-lutz-concious-found
+cdn-image: joshua-lutz-concious-found
 image_link: https://paper-journal.com/joshua-lutz-mind-the-gap/
 image_alt: A photograph of an LED road sign stating 'concious found'
 image_caption:

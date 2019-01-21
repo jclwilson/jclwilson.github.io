@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly Reader 22
-image: sophie-rose
+cdn-image: sophie-rose
 image_link: https://instagram.com/sophie___rose
 image_alt: A photograph of a blank wall with peeling wallpaper.
 image_caption: Photo by Sophie Rose

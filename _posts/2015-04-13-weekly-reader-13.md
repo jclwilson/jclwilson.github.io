@@ -2,7 +2,7 @@
 layout: post
 title: Weekly Reader 13
 redirect_from: post/116285059694/weekly-reader-13
-image: fuchsia-macaree
+cdn-image: fuchsia-macaree
 image_caption: Photo by Fuchsia Macaree
 image_link: 'http://instagram.com/fuchsiamacaree'
 image_alt: A photograph from the driver's seat of a car, a man is chasing sheep off the road ahead.

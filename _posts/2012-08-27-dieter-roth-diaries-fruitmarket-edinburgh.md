@@ -2,7 +2,7 @@
 title: Dieter Roth at The Fruitmarket Gallery, Edinburgh
 layout: post
 redirect_from:
-image: dieter-roth-diaries
+cdn-image: dieter-roth-diaries
 image_link:
 image_caption:
 image_alt: Dieter Roth sits at a table

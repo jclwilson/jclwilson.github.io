@@ -2,7 +2,7 @@
 title: 'Aeration, transplantation, propagation: The Plant Issue 12'
 format:
 redirect_from:
-image: the-plant-issue-12
+cdn-image: the-plant-issue-12
 image_link:
 image_alt: The cover of issue 12 of The Plant Magazine
 image_caption:

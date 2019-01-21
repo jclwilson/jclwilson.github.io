@@ -2,7 +2,7 @@
 layout: post
 title: Weekly Reader 8
 redirect_from: post/113089854299/weekly-reader-8
-image: louise-eaton
+cdn-image: louise-eaton
 image_link: https://instagram.com/louise_eaton
 image_caption: Photo by Louise Eaton
 image_alt: A photograph of a man walking around a shallow pool, part of an artwork by Cao Guo-Qiang.

@@ -2,7 +2,7 @@
 title: 'Invisible Art Fairs'
 layout: post
 redirect_from:
-image: frieze1
+cdn-image: frieze1
 image_link:
 image_alt: 'Two people stand in front of three paintings'
 image_caption: ''

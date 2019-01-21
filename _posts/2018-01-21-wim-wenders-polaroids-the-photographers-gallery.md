@@ -2,7 +2,7 @@
 title: "Ten thousand Polaroids, three thousand found, two hundred exhibited: Wim Wenders at The Photographers' Gallery"
 layout: post # online / print
 redirect_from:
-image: wim-wenders-sydney
+cdn-image: wim-wenders-sydney
 image_link:
 image_alt: A Polaroid print of a pair of blue glasses being held in front of a cityscape, Sydney.
 image_caption:

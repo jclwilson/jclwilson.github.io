@@ -2,7 +2,7 @@
 title: "✓✓ Read Receipts: Refugee, Migrant, Asylum Seeker"
 layout: post
 redirect_from:
-image: daniel-castro-garcia-michael
+cdn-image: daniel-castro-garcia-michael
 image_link:
 image_caption: Daniel Castro Garcia, Michael, 2015.
 image_alt: A photo of a young man sat on a chair in the corner of a square room, he sits, relaxed, yet confident, and looks directly out towards the viewer.

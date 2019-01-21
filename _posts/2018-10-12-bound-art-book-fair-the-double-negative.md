@@ -2,7 +2,7 @@
 title: It was a stab in the dark - Bound Art Book Fair
 layout: post
 redirect_from:
-image: bound-art-book-fair
+cdn-image: bound-art-book-fair
 image_link: http://www.thedoublenegative.co.uk/2018/10/it-was-a-stab-in-the-dark-introducing-bound-art-book-fair/
 image_alt:
 image_caption:

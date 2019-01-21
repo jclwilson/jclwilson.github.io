@@ -2,7 +2,7 @@
 title: Tom Edwards, The Procession to Caute at Beach London
 layout: post
 redirect_from: post/40807205026/tom-edwards-the-procession-to-caute
-image: tom-edwards-caute-2
+cdn-image: tom-edwards-caute-2
 image_link:
 image_caption:
 image_alt:

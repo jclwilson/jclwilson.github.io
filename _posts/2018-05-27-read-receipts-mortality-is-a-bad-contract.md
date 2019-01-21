@@ -2,7 +2,7 @@
 title: "✓✓ Read Receipts: Mortality is a Bad Contract"
 layout: post
 redirect_from:
-image: philip-roth
+cdn-image: philip-roth
 image_link:
 image_caption:
 image_alt: A photograph of Philip Roth working at a table.

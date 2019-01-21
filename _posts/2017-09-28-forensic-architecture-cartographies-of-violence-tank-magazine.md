@@ -2,7 +2,7 @@
 title: 'Forensic Architecture'
 format: online
 redirect_from:
-image: forensic-architecture
+cdn-image: forensic-architecture
 image_link: https://tankmagazine.com/tank/2017/09/forensic-architecture/
 image_alt: 'A digital map covered in intersecting lines and dots linking events'
 image_caption:

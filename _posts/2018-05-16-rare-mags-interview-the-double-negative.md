@@ -2,7 +2,7 @@
 title: 'Introducing: Rare Mags, Stockport'
 format: post
 redirect_from:
-image: rare-mags-stockport
+cdn-image: rare-mags-stockport
 image_link: http://www.thedoublenegative.co.uk/2018/05/its-a-luxury-and-a-privilege-introducing-rare-mags-stockport/
 image_alt: A photograph of the blue-painted front of the Rare Mags shop
 image_caption:

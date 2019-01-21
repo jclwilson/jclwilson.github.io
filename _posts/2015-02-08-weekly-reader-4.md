@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly Reader 4
-image: emily-maye
+cdn-image: emily-maye
 image_link: 'http://instagram.com/emilymaye'
 image_caption: 'Photo, Emily Maye'
 image_alt: A row of people sit in chairs around a fountain, it looks like it could be in Paris.

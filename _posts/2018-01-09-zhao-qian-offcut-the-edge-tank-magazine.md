@@ -2,7 +2,7 @@
 title: 'Offcut, the Edge'
 format: online
 redirect_from:
-image: zhao-qian-offcut
+cdn-image: zhao-qian-offcut
 image_link: https://tankmagazine.com/tank/2018/01/offcut/
 image_alt: "A photograph of a model shark suspended from a ceiling"
 image_caption:

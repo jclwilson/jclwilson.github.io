@@ -2,7 +2,7 @@
 title: 'Sun, Sea, Algae'
 format: print
 redirect_from:
-image: anna-atkins-seaweed
+cdn-image: anna-atkins-seaweed
 image_link:
 image_alt: A white silhouette of a frond of seaweed, laid against a deep blue background. The paper is a little old.
 image_caption: 'Anna Atkins, Cystoseira fibrosa, 1843.'

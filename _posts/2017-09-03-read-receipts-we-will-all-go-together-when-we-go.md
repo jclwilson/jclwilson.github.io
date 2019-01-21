@@ -2,7 +2,7 @@
 title: "✓✓ Read Receipts: We Will All Go Together When We Go"
 layout: post
 redirect_from:
-image: atom-bomb-viewers
+cdn-image: atom-bomb-viewers
 image_link:
 image_caption:
 image_alt: A row of men wearing welders' masks sit in deck chairs, looking very relaxed.

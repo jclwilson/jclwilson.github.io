@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly Reader 33
-image: bfgf
+cdn-image: bfgf
 image_link: https://www.instagram.com/bfgf/
 image_caption: 'Photo by BFGF'
 redirect_from: post/142186699659/weekly-reader-33

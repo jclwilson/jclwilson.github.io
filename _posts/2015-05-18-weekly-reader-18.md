@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly Reader 18
-image: maisie-cousins
+cdn-image: maisie-cousins
 image_link: http://instagram.com/maisiecousins
 image_alt: A photograph of a woman's face covered in snails.
 image_caption: By Maisie Cousins

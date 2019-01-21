@@ -2,10 +2,10 @@
 layout: post
 title: Weekly Reader 9
 redirect_from: post/113686259259/weekly-reader-9
-image: null
+cdn-image:
 image_link: 'http://instagram.com/kinfolk'
 image_caption: Photo by Kinfolk
-image_alt: null
+image_alt:
 ---
 The past week has been all about speeding up and slowing down. I've now completed 50% of my MA, with only the dissertation left to do, so I'm having a bit of a relax at the moment, before the work kicks in again. I think I'll be writing on a few technology & labour focussed artists for the dissertation, and this week's links reflect that.
 

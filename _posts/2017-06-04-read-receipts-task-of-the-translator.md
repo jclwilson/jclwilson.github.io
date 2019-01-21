@@ -2,7 +2,7 @@
 title: "✓✓ Read Receipts: The Task of the Translator"
 layout: post
 redirect_from:
-image: typewriter-art
+cdn-image: typewriter-art
 image_link:
 image_caption:
 image_alt: A photograph of a book entitled, Typewriter Art.

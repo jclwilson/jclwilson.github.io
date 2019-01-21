@@ -2,7 +2,7 @@
 title: "✓✓ Read Receipts: Pork fat, triple cream, distended livers"
 layout: post
 redirect_from:
-image: andrew-lowkes-meat
+cdn-image: andrew-lowkes-meat
 image_link: https://www.instagram.com/p/BkH09I4AGxh/
 image_caption: Photo by Andrew Lowkes
 image_alt: A photograph of two aged pieces of meat.

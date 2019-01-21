@@ -1,7 +1,7 @@
 ---
 title: 'Mould Map 6: TERRAFORMERS at Bonington Gallery'
 format: online
-image: jonny-negron-mould-map
+cdn-image: jonny-negron-mould-map
 image_link: http://www.thedoublenegative.co.uk/2016/11/visualising-our-horrors-of-dystopia-introducing-mould-map-magazine/
 image_caption: Poster, Jonny Negron
 article_category:

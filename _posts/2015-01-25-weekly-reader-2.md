@@ -2,7 +2,7 @@
 layout: post
 title: Weekly Reader 2
 redirect_from: post/109097725364/weekly-reader-2
-image: jamie-luke
+cdn-image: jamie-luke
 image_link: 'http://jamiejohnluke.tumblr.com/'
 image_caption: By Jamie Luke
 image_alt: Two cats sit on a comfy looking sofa.

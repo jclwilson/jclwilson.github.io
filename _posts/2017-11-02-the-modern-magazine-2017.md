@@ -2,7 +2,7 @@
 title: 'The Modern Magazine 2017'
 format: online
 redirect_from:
-image: modern-magazine-2017
+cdn-image: modern-magazine-2017
 image_link: https://magculture.com/category/the-modern-magazine/
 image_alt: "A lectern on a stage"
 image_caption:

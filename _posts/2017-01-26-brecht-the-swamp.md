@@ -2,7 +2,7 @@
 title: 'And a drowning was not over in a single morning: Brecht, The Swamp'
 layout: post
 redirect_from:
-image: tollund-man
+cdn-image: tollund-man
 image_link:
 image_caption:
 article_category:

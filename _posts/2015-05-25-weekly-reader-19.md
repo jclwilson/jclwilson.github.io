@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly Reader 19
-image:
+cdn-image:
 image_link: https://instagram.com/deathbycustardcream/
 image_alt: A picture of an Elvis cookbook titled, 'Are you Hungry Tonight'
 image_caption: Photo by Rebecca Travis

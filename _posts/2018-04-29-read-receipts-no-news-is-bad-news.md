@@ -2,7 +2,7 @@
 title: "✓✓ Read Receipts: No News is Bad news"
 layout: post
 redirect_from:
-image: lee-to-sang
+cdn-image: lee-to-sang
 image_link:
 image_caption: Lee To Sang, Fotostudio, 1995
 image_alt:

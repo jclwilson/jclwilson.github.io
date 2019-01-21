@@ -2,7 +2,7 @@
 title: 'Kvadrat: A Design Family'
 format: online
 redirect_from:
-image: kvadrat-copenhagen
+cdn-image: kvadrat-copenhagen
 image_link:
 image_alt: The interior of the new Kvadrat showroom in Pakhus 48. A large minimalist space filled with draped fabric samples.
 image_caption:

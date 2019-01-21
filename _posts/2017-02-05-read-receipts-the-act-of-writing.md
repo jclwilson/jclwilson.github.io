@@ -2,7 +2,7 @@
 title: "✓✓ Read Receipts: The Act of Writing"
 layout: post
 redirect_from:
-image: whatweworeuk-kate-hillier
+cdn-image: whatweworeuk-kate-hillier
 image_link: https://www.instagram.com/p/BQDxpmigQXV/
 image_caption: Photo by What We Wore, via Kate Hillier.
 article_category:

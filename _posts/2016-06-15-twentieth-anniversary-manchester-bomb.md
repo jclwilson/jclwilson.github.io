@@ -3,7 +3,7 @@ title: 'Ian Simpson: or How I Learned to Stop Worrying and Love the Bomb'
 date: 2016-06-15 00:00:00 Z
 layout: post
 redirect_from: post/145979271444/twentieth-anniversary-manchester-bomb
-image: manchester-bomb
+cdn-image: manchester-bomb
 image_link: 
 image_caption: 
 article_category: 

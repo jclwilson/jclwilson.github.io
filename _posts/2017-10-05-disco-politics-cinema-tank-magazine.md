@@ -2,7 +2,7 @@
 title: 'Good Times: How disco films captured a society in flux'
 format: online
 redirect_from:
-image: thank-god-its-friday-1978
+cdn-image: thank-god-its-friday-1978
 image_link: https://tankmagazine.com/tank/2017/10/disco
 image_alt: 'A black DJ in a bright orange shirt calls down to the dancefloor from his booth'
 image_caption:

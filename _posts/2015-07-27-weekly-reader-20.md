@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly Reader 20
-image: rebekah-rose-harris
+cdn-image: rebekah-rose-harris
 image_link: http://instagram.com/rebekahroseharris
 image_alt: A photograph of a girl stood in a ruined abbey.
 image_caption: Photo by Rebekah Rose Harris

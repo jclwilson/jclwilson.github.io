@@ -2,7 +2,7 @@
 layout: post
 title: Weekly Reader 24
 redirect_from: post/131099982209/weekly-reader-24
-image: emzlolz
+cdn-image: emzlolz
 image_link: 'http://instagram.com/mariahdisnaecarey'
 image_alt: A photo of an old mill chimney in Manchester.
 image_caption: Photo by mariahdisnaecarey

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly Reader 32
-image: adam-birkan
+cdn-image: adam-birkan
 image_link: 'http://instagram.com/adambirkan'
 image_caption: 'Photo, Adam Birkan'
 image_alt: A photograph of a room full of partially complete mannequins.

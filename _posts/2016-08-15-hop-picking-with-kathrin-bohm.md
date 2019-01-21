@@ -3,7 +3,7 @@ title: Hop Picking in Kent with Kathrin Böhm
 date: 2016-08-15 00:00:00 Z
 layout: post
 redirect_from:
-image: kathrin-bohm-hop-picking
+cdn-image: kathrin-bohm-hop-picking
 image_link:
 image_caption:
 article_category:

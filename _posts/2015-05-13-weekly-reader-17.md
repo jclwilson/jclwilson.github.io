@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly Reader 17
-image: andrea-sonnenberg
+cdn-image: andrea-sonnenberg
 image_link: https://instagram.com/teenwitchsf/
 image_alt: A photograph of a person standing on a pile of discarded VHS tapes.
 image_caption: Photo by Andrea Sonnenberg

@@ -2,7 +2,7 @@
 title: 'An interview with Kodoji Press'
 format: online
 redirect_from:
-image: 40-jahre-kernspaltung
+cdn-image: 40-jahre-kernspaltung
 image_link: http://paper-journal.com/publishers-series-an-interview-with-kodoji-press/
 image_alt: A old fashioned looking red textbook, one page details a graph, the other shows a photo of a cloud-like pile of worm shit.
 image_caption: Peter Tillessen, 40 Jahre Kernspaltung, 2012.

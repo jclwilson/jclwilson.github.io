@@ -1,9 +1,9 @@
-{% if page.image %}
+{% if page.cdn-image: %}
 	<figure class="post__lead">
 		{% if page.image_link %}<a href="{{ page.image_link }}">{% endif %}
 			<picture class="figure__filter">
-			   <source type="image/webp" srcset="{{ site.cdn_url }}webp/{{ page.image }}.webp" />
-			   <img src="{{ site.cdn_url }}jpg/{{ page.image }}.jpg" class="post__image" alt="{{ page.image_alt }}" />
+			   <source type="image/webp" srcset="{{ site.cdn_url }}webp/{{ page.cdn-image: }}.webp" />
+			   <img src="{{ site.cdn_url }}jpg/{{ page.cdn-image: }}.jpg" class="post__image" alt="{{ page.image_alt }}" />
 			</picture>
 		{% if page.image_link %}</a>{% endif %}
 	    {% if page.image_caption %}

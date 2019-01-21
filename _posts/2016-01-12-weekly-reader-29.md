@@ -2,7 +2,7 @@
 layout: post
 title: Weekly Reader 29
 redirect_from: post/137153671169/weekly-reader-29
-image: spitzenprodukte
+cdn-image: spitzenprodukte
 image_link: https://www.instagram.com/spitzenprodukte/
 image_alt: A dark grey cat sat on a dark grey floor.
 image_caption: Photo by Huw Lemmey

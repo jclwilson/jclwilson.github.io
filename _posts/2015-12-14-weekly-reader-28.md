@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly Reader 28
-image: lisa-sorgini
+cdn-image: lisa-sorgini
 image_link: http://instagram.com/lisa.sorgini
 image_alt: A photograph of an empty lawn with a sign reading 'no confetti please'.
 image_caption: Photo by Lisa Sorgini

@@ -2,7 +2,7 @@
 title: 'I Hope You Consider What I Arrange, But Be Sceptical of It: John Berger'
 layout: post
 redirect_from:
-image: john-berger-ways-of-seeing
+cdn-image: john-berger-ways-of-seeing
 image_link:
 image_caption:
 article_category:

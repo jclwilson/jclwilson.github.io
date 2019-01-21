@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly Reader 25
-image: laurence-rundell
+cdn-image: laurence-rundell
 image_link: http://instagram.com/instalarry53
 image_alt: A macro photograph of the cracked surface of a painting.
 image_caption: Photo by Laurence Rundell

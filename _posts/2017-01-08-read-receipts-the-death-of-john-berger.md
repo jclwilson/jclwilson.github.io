@@ -2,7 +2,7 @@
 title: "✓✓ Read Receipts: The Death of John Berger"
 layout: post
 redirect_from:
-image: john-berger-portrait
+cdn-image: john-berger-portrait
 image_link:
 image_caption: John Berger
 article_category:

@@ -2,7 +2,7 @@
 title: "✓✓ Read Receipts: Endless War Art"
 layout: post
 redirect_from:
-image: otto-dix-wounded-man
+cdn-image: otto-dix-wounded-man
 image_link:
 image_caption: Otto Dix, Wounded Man, 1916.
 image_alt: An etching of a wounded German soldier. The man stares at the viewer and screams in horror. His flesh seems to melt off his body and into the mud.

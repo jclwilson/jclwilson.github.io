@@ -2,7 +2,7 @@
 title: "Scrapbook: Robyn Daly, Mona Lisa on my Desk, 2018"
 layout: post
 redirect_from:
-image: robyn-daly-mona-lisa-on-my-desk-2018
+cdn-image: robyn-daly-mona-lisa-on-my-desk-2018
 image_link: https://www.instagram.com/p/Bh_NFUxnr1g/
 image_caption: Robyn Daly, Mona Lisa on my Desk, 2018
 image_alt: A photograph of a table laid with a rose in a glass, a lighter, a lemon, and a dishcloth printed with the image of the Mona Lisa.

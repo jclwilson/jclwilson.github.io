@@ -2,7 +2,7 @@
 title: "✓✓ Read Receipts: Animals and the City"
 layout: post
 redirect_from:
-image: small-frog
+cdn-image: small-frog
 image_link: http://www.metmuseum.org/art/collection/search/547486
 image_caption: Frog, c.3100–2650 BCE.
 article_category:

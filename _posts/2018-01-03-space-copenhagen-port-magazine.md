@@ -2,7 +2,7 @@
 title: 'Space For Living: SPACE Copenhagen'
 format: online
 redirect_from:
-image: space-copenhagen
+cdn-image: space-copenhagen
 image_link:
 image_alt: A photograph of the interior of the Blu Radisson Hotel, Copenhagen.
 image_caption:

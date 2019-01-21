@@ -2,7 +2,7 @@
 title: 'The Constructivist'
 layout: post
 redirect_from:
-image: varvara-stepanova-desk
+cdn-image: varvara-stepanova-desk
 image_link:
 image_alt: 'A young woman sat at a desk covered in pens, rulers, and paper.'
 image_caption:

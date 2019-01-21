@@ -2,7 +2,7 @@
 title: 'Condoms, Wet Wipes, Nappies, Tampons: Fatberg!'
 format: online
 redirect_from:
-image: fatberg-mol
+cdn-image: fatberg-mol
 image_link:
 image_alt: A photograph of a fragment of the Whitechapel fatberg.
 image_caption:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly Reader 26
-image: rebecca-ramsdale
+cdn-image: rebecca-ramsdale
 image_link: https://instagram.com/rebeccaramsdale/
 image_alt: A photograph of a person reading a book on a comfy sofa.
 image_caption: Rebecca Ramsdale

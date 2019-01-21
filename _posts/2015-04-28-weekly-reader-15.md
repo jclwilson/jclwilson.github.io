@@ -2,7 +2,7 @@
 layout: post
 title: Weekly Reader 15
 redirect_from: post/117594243459/weekly-reader-15
-image: ian-kenneth-bird
+cdn-image: ian-kenneth-bird
 image_caption: Photo by Ian Kenneth Bird
 image_link: 'http://instagram.com/ikbird'
 image_alt: A girl walks away from the camera, the bright red wall contrasts with the purple floor and her yellow jacket.

@@ -1,7 +1,7 @@
 ---
 title: Dinh Q. Lê at 133 Rye Lane, London
 format: online
-image: dinh-q-le-the-colony
+cdn-image: dinh-q-le-the-colony
 image_link: http://www.thedoublenegative.co.uk/2016/09/disorientating-films-desperate-inhumanity-dinh-q-les-the-colony-reviewed/
 image_caption: Dinh Q. Lê, The Colony, 2016.
 publisher: The Double Negative

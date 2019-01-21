@@ -2,7 +2,7 @@
 title: 'Belonging in the World of Bunny Rogers'
 format: post
 redirect_from:
-image: bunny-rogers-pones
+cdn-image: bunny-rogers-pones
 image_link: https://elephant.art/belonging-in-the-world-of-bunny-rogers/
 image_alt: A girl poses on all fours in the middle of a rural wasteland.
 image_caption:
