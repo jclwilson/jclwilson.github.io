@@ -2,7 +2,7 @@
 title: "✓✓ Read Receipts: Sea, marsh, edgelands"
 layout: post
 redirect_from:
-image: joe-pettet-smith-sound
+cdn-image: joe-pettet-smith-sound
 image_link:
 image_caption: Joe Pettet-Smith
 image_alt: A photograph of a large concrete sound reflector on the southern coast.
