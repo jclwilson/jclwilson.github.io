@@ -1,5 +1,5 @@
 ---
-title: Bastard Countryside
+title: "Bastard Countryside: Dystopian shots of Britain's rural edgelands"
 layout: post
 redirect_from:
 cdn-image: robin-friend-whale
