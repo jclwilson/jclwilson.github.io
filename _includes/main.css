@@ -57,8 +57,7 @@ blockquote p:after, q:after {
 img {
 	display: block;
 	width: 100%;
-	-webkit-filter: grayscale(1);
-	        filter: grayscale(1);
+	filter: grayscale(1);
 }
 
 figcaption {
@@ -128,29 +127,11 @@ hr {
 	outline:none;
 }
 
-a cite:hover, cite a:hover, a cite:focus, cite a:focus, cite::-moz-selection {
-	text-shadow: none;
-}
-
 a cite:hover, cite a:hover, a cite:focus, cite a:focus, cite::selection {
 	text-shadow: none;
 }
 
-::-moz-selection {
-	background: var(--jcw-primary-colour);
-	color: var(--jcw-secondary-colour);
-	text-shadow: none;
-	outline:none;
-}
-
 ::selection {
-	background: var(--jcw-primary-colour);
-	color: var(--jcw-secondary-colour);
-	text-shadow: none;
-	outline:none;
-}
-
-::-moz-selection {
 	background: var(--jcw-primary-colour);
 	color: var(--jcw-secondary-colour);
 	text-shadow: none;
@@ -170,8 +151,7 @@ a cite:hover, cite a:hover, a cite:focus, cite a:focus, cite::selection {
 	.underline, a, cite {
 		text-decoration: underline;
 		text-shadow: none;
-		-webkit-box-shadow: none;
-		        box-shadow: none;
+		box-shadow: none;
     }
 	.no-print {
 		display: none;
