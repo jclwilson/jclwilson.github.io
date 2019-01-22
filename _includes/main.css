@@ -14,10 +14,7 @@ body {
     line-height: 1.4;
     padding: 1em;
     word-break: break-word;
-    -webkit-transition: font-size 0.3s ease;
-    transition: font-size 0.3s ease;
-	-webkit-font-feature-settings:"onum" 0, "pnum" 1, "kern" 1, "ss01" 0;
-	        font-feature-settings:"onum" 0, "pnum" 1, "kern" 1, "ss01" 0;
+	font-feature-settings:"onum" 0, "pnum" 1, "kern" 1, "ss01" 0;
 }
 
 @supports (text-shadow: 1em 1em var(--jcw-primary-colour)) {
