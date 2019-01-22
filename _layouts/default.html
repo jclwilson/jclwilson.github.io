@@ -43,23 +43,8 @@
 				</ul>
 			</nav>
 		</footer>
-		<!-- Reframe.js makes container elements responsive -->
 		{% include reframe.html %}
-		<script>
-		if ('serviceWorker' in navigator) {
-		  window.addEventListener('load', () => {
-		    navigator.serviceWorker.register('/sw.js');
-		  });
-		}
-		</script>
-			<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23909678-1"></script>
-	<script>
-  		window.dataLayer = window.dataLayer || [];
- 		function gtag(){dataLayer.push(arguments);}
-  		gtag('js', new Date());
-
-  		gtag('config', 'UA-23909678-1');
-	</script>
+		{% include sw.html %}
+		{% include gtag.html %}
 	</body>
 </html>
