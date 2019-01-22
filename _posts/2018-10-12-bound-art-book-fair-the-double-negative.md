@@ -26,6 +26,8 @@ rights: # Information about rights held in and over the resource.
 source: # A related resource from which the described resource is derived.
 subject: # The topic of the resource. e.g. tags
 ---
-You might be forgiven for thinking all publishing lies in London but recent years have seen the North of England establish its reputation for printed matter, with exhibitions, magazine shops and publication launches popping up across the region. Last year [Bound Art Book Fair](http://boundartbookfair.co.uk/) brought artists books, zines, photos and prints to Manchester, this year they’re doing the same again. I talked to organisers Robert Parkinson, Joe Torr, and Lillian Wilkie about the upcoming 2018 fair: what to expect, who to look out for, and the opportunities open to print artists in the North.
+You might be forgiven for thinking all publishing lies in London but recent years have seen the North of England establish its reputation for printed matter, with exhibitions, magazine shops and publication launches popping up across the region.
+
+Last year [Bound Art Book Fair](http://boundartbookfair.co.uk/) brought artists books, zines, photos and prints to Manchester, this year they’re doing the same again. I talked to organisers Robert Parkinson, Joe Torr, and Lillian Wilkie about the upcoming 2018 fair: what to expect, who to look out for, and the opportunities open to print artists in the North.
 
 > Not everyone needs to go down to London. You can be in the North of England and you can make connections and be successful. I think people are realising that a lot quicker than they used to; a lot of people are moving up or they’re staying, because it’s not financially worthwhile being down there
