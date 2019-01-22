@@ -1,5 +1,5 @@
 ---
-title: "✓✓ Read Receipts: Pork fat, triple cream, distended livers"
+title: '✓✓ Read Receipts: Pork fat, triple cream, distended livers'
 layout: post
 redirect_from:
 cdn-image: andrew-lowkes-meat

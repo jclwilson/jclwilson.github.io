@@ -1,5 +1,5 @@
 ---
-title: It was a stab in the dark - Bound Art Book Fair
+title: 'It was a stab in the dark - Bound Art Book Fair'
 layout: post
 redirect_from:
 cdn-image: bound-art-book-fair

@@ -1,5 +1,5 @@
 ---
-title: The White Review: Issue 22
+title: 'The White Review: Issue 22'
 redirect_from:
 cdn-image: the-white-review-22
 image_link:

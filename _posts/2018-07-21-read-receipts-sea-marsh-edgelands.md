@@ -1,5 +1,5 @@
 ---
-title: "✓✓ Read Receipts: Sea, marsh, edgelands"
+title: '✓✓ Read Receipts: Sea, marsh, edgelands'
 layout: post
 redirect_from:
 cdn-image: joe-pettet-smith-sound

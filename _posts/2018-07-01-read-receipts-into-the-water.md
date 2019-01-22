@@ -1,5 +1,5 @@
 ---
-title: "✓✓ Read Receipts: Into the water"
+title: '✓✓ Read Receipts: Into the water'
 layout: post
 redirect_from:
 cdn-image: dungeness-power-station

@@ -1,5 +1,5 @@
 ---
-title: "✓✓ Read Receipts: No news is bad news"
+title: '✓✓ Read Receipts: No news is bad news'
 layout: post
 redirect_from:
 cdn-image: lee-to-sang
