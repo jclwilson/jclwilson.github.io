@@ -1,5 +1,5 @@
 ---
-title: "✓✓ Read Receipts: We Will All Go Together When We Go"
+title: "✓✓ Read Receipts: We will all go together when we go"
 layout: post
 redirect_from:
 cdn-image: atom-bomb-viewers

@@ -1,5 +1,5 @@
 ---
-title: "✓✓ Read Receipts: The Indignity of Labour"
+title: "✓✓ Read Receipts: The indignity of labour"
 layout: post
 redirect_from:
 cdn-image: rodchenko-club

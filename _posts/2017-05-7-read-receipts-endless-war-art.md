@@ -1,5 +1,5 @@
 ---
-title: "✓✓ Read Receipts: Endless War Art"
+title: "✓✓ Read Receipts: Endless war art"
 layout: post
 redirect_from:
 cdn-image: otto-dix-wounded-man

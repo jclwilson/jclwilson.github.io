@@ -1,5 +1,5 @@
 ---
-title: "✓✓ Read Receipts: The Act of Writing"
+title: "✓✓ Read Receipts: The act of writing"
 layout: post
 redirect_from:
 cdn-image: whatweworeuk-kate-hillier

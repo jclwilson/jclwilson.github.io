@@ -1,5 +1,5 @@
 ---
-title: "✓✓ Read Receipts: Mortality is a Bad Contract"
+title: "✓✓ Read Receipts: Mortality is a bad contract"
 layout: post
 redirect_from:
 cdn-image: philip-roth

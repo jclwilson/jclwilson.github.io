@@ -1,5 +1,5 @@
 ---
-title: "✓✓ Read Receipts: Cold and Melancholia"
+title: "✓✓ Read Receipts: Cold and melancholia"
 layout: post
 redirect_from: "/read-receipts-melancholia-and-cold"
 cdn-image: vivian-fu-picnic

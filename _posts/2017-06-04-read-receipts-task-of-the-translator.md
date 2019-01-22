@@ -1,5 +1,5 @@
 ---
-title: "✓✓ Read Receipts: The Task of the Translator"
+title: "✓✓ Read Receipts: The task of the translator"
 layout: post
 redirect_from:
 cdn-image: typewriter-art

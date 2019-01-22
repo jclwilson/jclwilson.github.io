@@ -1,5 +1,5 @@
 ---
-title: "✓✓ Read Receipts: Simple Gluttony"
+title: "✓✓ Read Receipts: Simple gluttony"
 layout: post
 redirect_from:
 cdn-image: simple-gluttony

@@ -1,5 +1,5 @@
 ---
-title: "✓✓ Read Receipts: The Death of John Berger"
+title: "✓✓ Read Receipts: The death of John Berger"
 layout: post
 redirect_from:
 cdn-image: john-berger-portrait

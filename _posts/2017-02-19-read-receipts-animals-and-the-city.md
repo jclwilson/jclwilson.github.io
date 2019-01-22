@@ -1,5 +1,5 @@
 ---
-title: "✓✓ Read Receipts: Animals and the City"
+title: "✓✓ Read Receipts: Animals and the city"
 layout: post
 redirect_from:
 cdn-image: small-frog
