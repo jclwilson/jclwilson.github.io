@@ -37,6 +37,7 @@ blockquote {
 	quotes: "\0022" "\0022" "\0027" "\0027";
 }
 
+/*
 q {
 	quotes: "\0027" "\0027" "\0022" "\0022";
 }
@@ -44,6 +45,7 @@ q {
 blockquote q {
 	quotes: "\0022" "\0022" "\0027" "\0027";
 }
+*/
 
 blockquote p:before, q:before {
     content: open-quote;
