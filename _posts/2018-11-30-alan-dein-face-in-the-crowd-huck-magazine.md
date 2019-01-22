@@ -24,8 +24,8 @@ source: # A related resource from which the described resource is derived.
 subject: # The topic of the resource. e.g. tags
 ---
 
-In my first online article for <cite>[Huck](http://huckmag.com/)</cite> I spoke to folk historian Alan Dein on his new photobook <cite>Face in the Crowd</cite>, published by <cite>[Four Corners Books](https://www.fourcornersbooks.co.uk/books/face-in-the-crowd/)</cite>. The book collects together examples of the almost-forgotten phenomenon of photographic 'face in the crowd' competitions played out on the pages of football programmes.
+In my first online article for <cite>[Huck](http://huckmag.com/)</cite> I spoke to folk historian Alan Dein on his new photobook <cite>Face in the Crowd</cite>, published by <cite>[Four Corners Books](https://www.fourcornersbooks.co.uk/books/face-in-the-crowd/)</cite>. The book collects together examples of the almost-forgotten phenomenon of 'face in the crowd' competitions played out on the pages of football programmes.
 
-I was intrigued by the terribly amateur photographs and by the actual act of selecting a particular face from the snapshot: why had the editor or photographer or assistant chosen that person; did they see someone they recognised, or was it something in their face—did they look funny—or was it simply random?
+I was intrigued by these terribly amateur photographs and by the actual act of selecting a particular face in each snapshot: why had the editor chosen that person; did they see someone they recognised, or was it something in their face—did they look funny—or was it simply random?
 
 > I see them as a snapshot of social history at the time – with the images of the crowd and what they’re wearing, they’re period pieces. But shown out of context, with the addition of the circled face, they become charged with all sorts of different meanings.
