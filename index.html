@@ -6,9 +6,9 @@ layout: default
     {% for post in site.posts %}
         {% assign currentdate = post.date | date: "%Y" %}
         {% if currentdate != date %}
-            {% unless forloop.first %}</ul>{% endunless %}
+            {% unless forloop.first %}</ul></li>{% endunless %}
             <li>
-                <h3 class="post__date" id="y{{ post.date | date: "%Y"}}">{{ currentdate }}</h3>
+                <h3 class="post__date">{{ currentdate }}</h3>
                 <ul class="index">
                     {% assign date = currentdate %}
         {% endif %}
@@ -18,13 +18,9 @@ layout: default
             {% if post.publisher %}
                 <span> for</span>
                 <cite class="post__publisher">
-                    {% if post.relation %}
-                        <a class="post__publisher-link" href="{{ post.relation }}">
-                    {% endif %}
+                    {% if post.relation %}<a class="post__publisher-link" href="{{ post.relation }}">{% endif %}
                     {{ post.publisher }}
-                    {% if post.relation %}
-                        </a>
-                    {% endif %}
+                    {% if post.relation %}</a>{% endif %}
                 </cite>
             {% endif %}
         </li>
