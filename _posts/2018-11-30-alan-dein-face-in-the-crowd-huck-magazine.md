@@ -3,7 +3,7 @@ title: 'Face In The Crowd: vintage shots of British football fans'
 layout: post
 redirect_from:
 cdn-image: alan-dein-face
-image_link:
+image_link: https://www.huckmag.com/art-and-culture/photography-2/face-in-the-crowd-vintage-shots-of-british-football-fans/
 image_alt: A black and white photograph of a crowd at a football match, a single face is circled.
 image_caption:
 article_category:
