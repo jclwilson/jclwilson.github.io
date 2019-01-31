@@ -1,5 +1,5 @@
 ---
-title: Luigi Ghirri: The Map and the Territory
+title: "Luigi Ghirri: The Map and the Territory"
 layout: post
 redirect_from:
 cdn-image: luigi-ghirri-diaframma
