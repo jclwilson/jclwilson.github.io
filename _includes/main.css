@@ -17,19 +17,15 @@ body {
 
 .underline, a, cite {text-decoration: underline; text-decoration-skip-ink: auto;}
 
-}
-
-blockquote {
-    margin-left: 2em;
-	quotes: "\0022" "\0022" "\0027" "\0027";
-}
-
-
 q {
 	quotes: "\0027" "\0027" "\0022" "\0022";
 }
 
-blockquote q {
+blockquote {
+    margin-left: 2em;
+}
+
+blockquote, blockquote q {
 	quotes: "\0022" "\0022" "\0027" "\0027";
 }
 
@@ -45,10 +41,6 @@ img {
 	display: block;
 	width: 100%;
 	filter: grayscale(1);
-}
-
-figcaption {
-    text-align: end;
 }
 
 hr {
@@ -68,7 +60,7 @@ hr {
 }
 
 .post__time {
-	display:block;
+	display: block;
 }
 
 .menu, .index {
@@ -94,10 +86,7 @@ hr {
     body {
         font-size: 2.5em;
     }
-    .menu {
-        display: inline;
-    }
-    .menu__link {
+    .menu, .menu__link {
         display: inline;
     }
     .post__lead {
