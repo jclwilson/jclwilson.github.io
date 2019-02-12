@@ -24,7 +24,7 @@ layout: default
     </section>
 </article>
 {% if page.latest_content %}
-<aside class="latest-posts">
+<aside class="latest-posts no-print">
 	<h1 class="latest-posts__title"><span class="underline">Latest posts</span></h1>
 	<ul class="index">
 		{% for page in site.posts limit: 10 %}
