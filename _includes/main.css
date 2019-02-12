@@ -127,6 +127,9 @@ button {
         margin-left: auto;
         margin-right: auto;
     }
+	.print-link:after {
+		content:" (" attr(href) ") ";
+	}
 	.no-print {
 		display: none;
 	}
