@@ -15,7 +15,7 @@ body {
     padding: 1em;
 }
 
-.underline, a, cite {text-decoration: underline; text-decoration-skip-ink: auto;}
+.underline, a, cite, em, i {text-decoration: underline; text-decoration-skip-ink: auto;}
 
 q {
 	quotes: "\0027" "\0027" "\0022" "\0022";
