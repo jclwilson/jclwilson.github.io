@@ -57,6 +57,7 @@ button {
     background-color: inherit;
     border: none;
     color: inherit;
+	padding:0;
 }
 
 .header, .main * {
