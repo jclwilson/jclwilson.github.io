@@ -51,6 +51,14 @@ hr {
 	width: 1em;
 }
 
+button {
+	font-size: inherit;
+	text-decoration: underline;
+    background-color: inherit;
+    border: none;
+    color: inherit;
+}
+
 .header, .main * {
     margin-bottom: 1em;
 }
@@ -63,11 +71,11 @@ hr {
 	display: block;
 }
 
-.menu, .index {
+.menu, .footer__menu, .index {
     list-style-type: none;
 }
 
-.menu__link:before {
+.menu__item:before, .footer__menu__item:before {
     content: " – "
 }
 
@@ -86,7 +94,7 @@ hr {
     body {
         font-size: 2.5em;
     }
-    .menu, .menu__link {
+    .menu, .menu__item {
         display: inline;
     }
     .post__lead {
@@ -96,10 +104,11 @@ hr {
     }
 }
 
-:focus, a:hover {
+:focus, a:hover, button:hover {
 	background: var(--jcw-primary-colour);
 	color: var(--jcw-secondary-colour);
 	outline:none;
+	cursor:pointer;
 }
 
 ::selection {
