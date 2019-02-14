@@ -13,6 +13,9 @@ body {
     font-size: 1.2em;
     line-height: 1.4;
     padding: 1em;
+	scroll-behavior: smooth;
+	
+	
 }
 
 .underline, a, cite, em, i {text-decoration: underline; text-decoration-skip-ink: auto;}
@@ -137,6 +140,12 @@ button {
 }
 
 /* Accessibility */
+
+@media (prefers-reduced-motion: reduce) {
+  .body {
+    scroll-behavior: auto;
+  }
+}
 
 .no-show {
     display:none;
