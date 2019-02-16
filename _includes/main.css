@@ -57,7 +57,7 @@ button {
     background-color: inherit;
 }
 
-.header, .index, .index__item, .post__date, .post, .post__header, .post__lead, .post__image, .post__content p {
+.header, .index, .index__item, .post__date, .post, .post__header, .post__lead, .post__image, p {
     margin-bottom: 1em;
 }
 
