@@ -7,7 +7,7 @@ layout: default
         {% assign currentdate = post.date | date: "%Y" %}
         {% if currentdate != date %}
             {% unless forloop.first %}</ul></li>{% endunless %}
-            <li>
+            <li class="index__item">
                 <h3 class="post__date">{{ currentdate }}</h3>
                 <ul class="index">
                     {% assign date = currentdate %}
