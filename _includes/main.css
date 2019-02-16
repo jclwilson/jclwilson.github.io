@@ -104,19 +104,6 @@ button {
     }
 }
 
-:focus, a:hover, button:hover {
-	background: var(--jcw-primary-colour);
-	color: var(--jcw-secondary-colour);
-	outline:none;
-	cursor:pointer;
-}
-
-::selection {
-	background: var(--jcw-primary-colour);
-	color: var(--jcw-secondary-colour);
-	outline:none;
-}
-
 @media print {
     body {
         background: white;
@@ -145,4 +132,17 @@ button {
 
 .no-show {
     display:none;
+}
+
+:focus, a:hover, button:hover {
+	background: var(--jcw-primary-colour);
+	color: var(--jcw-secondary-colour);
+	outline:none;
+	cursor:pointer;
+}
+
+::selection {
+	background: var(--jcw-primary-colour);
+	color: var(--jcw-secondary-colour);
+	outline:none;
 }
