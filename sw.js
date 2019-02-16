@@ -1,6 +1,6 @@
 ---
 ---
-var CACHE_VERSION = 'jclwilson-{{ "now" | date_to_xmlschema }}';
+var CACHE_VERSION = 'jacobcharleswilson.com-{{ "now" | date_to_xmlschema }}';
 var CACHE_FILES = [
     '/',
     '/404',
@@ -25,11 +25,6 @@ self.addEventListener('install', function(event) {
             ]);
             return cache.addAll(CACHE_FILES);
         }).then(function() {
-          // `skipWaiting()` forces the waiting ServiceWorker to become the
-          // active ServiceWorker, triggering the `onactivate` event.
-          // Together with `Clients.claim()` this allows a worker to take effect
-          // immediately in the client(s).
-          console.log('[ServiceWorker] Skip waiting on install');
           return self.skipWaiting();
         })
     );
@@ -68,7 +63,6 @@ self.addEventListener('activate', function(event) {
                 })
             );
         }).then(function() {
-            // `claim()` sets this worker as the active worker for all clients that match the workers scope and triggers an `oncontrollerchange` event for the clients.
             return self.clients.claim()
         })
     );
