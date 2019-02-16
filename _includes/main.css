@@ -55,12 +55,8 @@ hr {
 }
 
 button {
-	font-size: inherit;
 	text-decoration: underline;
     background-color: inherit;
-    border: none;
-    color: inherit;
-	padding:0;
 }
 
 .header, .index, .index__item, .post__date, .post, .post__header, .post__lead, .post__image, .post__content p {
