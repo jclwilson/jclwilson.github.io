@@ -16,6 +16,9 @@ lang: en_GB
 permalink: "/:title"
 markdown: kramdown
 
+feed:
+    title: Jacob Charles Wilson - Atom Feed
+
 kramdown:
   smart_quotes: ["apos", "apos", "quot", "quot"]
 
