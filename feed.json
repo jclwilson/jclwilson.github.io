@@ -20,7 +20,9 @@
       "url": "{{ site.url }}{{ post.url }}",
       "title": {{ post.title | jsonify }},
       "content_html": {{ post.content | jsonify  }},
-      "date_published": "{{ post.date | date_to_xmlschema }}"
+      "date_published": "{{ post.date | date_to_xmlschema }}"{% if post.relation %},
+      "external_url": "{{ post.relation }}"{% endif %}{% if post.cdn-image %},
+      "image": "{{ site.cdn_url }}jpg/{{ post.cdn-image }}.jpg"{% endif %}
       }{% unless forloop.last %},{% endunless %}
     {% endfor %}
   ]
