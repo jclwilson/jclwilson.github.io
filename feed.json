@@ -16,8 +16,8 @@
 
     {% for post in site.posts %}
     {
-      "id": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
-      "url": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
+      "id": "{{ site.url }}{{ post.url }}",
+      "url": "{{ site.url }}{{ post.url }}",
       "title": {{ post.title | jsonify }},
       "content_html": {{ post.content | jsonify  }},
       "date_published": "{{ post.date | date_to_xmlschema }}"

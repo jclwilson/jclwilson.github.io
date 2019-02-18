@@ -19,7 +19,7 @@
 				{% endif %}
 				<description>{{ post.content | xml_escape }}</description>
 				<updated>{{ post.date | date_to_rfc822 }}</updated>
-				<link>{{ site.url }}{{ post.url }}</link>
+				<link>{{ site.url }}{{ post.url }}?utm_source=atomFeed&amp;utm_medium=atomFeed&amp;utm_campaign={{ post.title | replace: ',','' | replace: ' ', '' | xml_escape }}</link>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
 			</item>
 		{% endfor %}
