@@ -1,27 +1,26 @@
 ---
 ---
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
-	<channel>
-		<title>{{ site.name }}</title>
-		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
-		<sy:updatePeriod>{{ site.feed_update_period | default: "daily" | xml_escape }}</sy:updatePeriod>
-		<sy:updateFrequency>{{ site.feed_update_frequency | default: 1 | xml_escape }}</sy:updateFrequency>
-		<link>{{ site.url }}</link>
-		<atom:link href="{{ site.url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
-		<updated>{% for post in site.posts limit:1 %}{{ post.date | date_to_rfc822 }}{% endfor %}</updated>
-		{% assign feed_items = site.feed_items %}
-		{% for post in site.posts limit:feed_items %}
-			<item>
-				<title>{{ post.title | xml_escape }}</title>
-				{% if post.author.name %}
-					<dc:creator>{{ post.author.name | xml_escape }}</dc:creator>
-				{% endif %}
-				<description>{{ post.content | xml_escape }}</description>
-				<updated>{{ post.date | date_to_rfc822 }}</updated>
-				<link>{{ site.url }}{{ post.url }}?utm_source=atomFeed&amp;utm_medium=atomFeed&amp;utm_campaign={{ post.title | replace: ',','' | replace: ' ', '' | xml_escape }}</link>
-				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-			</item>
-		{% endfor %}
-	</channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>{{ site.url }}</id>
+	<title>{{ site.title }}</title>
+	<link href="{{ site.url }}"/>
+	<link href="{{ site.url }}/{{ page.path }}" rel="self"/>
+	<updated>{% for post in site.posts limit : 1 %}{{ post.date | date_to_xmlschema }}{% endfor %}</updated>
+	<author>
+		<name>{{ site.author.name }}</name>
+		<email>{{ site.author.email }}</email>
+		<uri>{{ site.url }}</uri>
+	</author>
+	<icon>/assets/img/favicon-96.png</icon>
+	{% assign feed_items = site.feed_items %}
+	{% for post in site.posts limit: 10 %}
+		<entry>
+			<id>{{ site.url }}{{ post.url }}</id>
+			<title>{{ post.title | xml_escape }}</title>
+			<updated>{{ post.date | date_to_xmlschema }}</updated>
+			<content type="html">{{ post.content | xml_escape }}</content>
+			{% if post.relation %}<link href="{{ post.relation }}" rel="related" title="Written for {{ post.publisher | xml_escape }}"/>{% endif %}
+			<link href="{{ site.url }}{{ post.url }}?utm_source=atomFeed&amp;utm_medium=atomFeed&amp;utm_campaign={{ post.title | replace: ',','' | replace: ' ', '' | xml_escape }}" rel="alternative" title="{{ post.title | xml_escape }}"/>
+		</entry>
+	{% endfor %}
+</feed>
