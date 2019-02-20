@@ -26,7 +26,7 @@
 			<h2 class="no-show">Contact</h2>
 			<ul class="menu">
 				{% if site.email %}
-					<li class="menu__item"><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+					<li class="menu__item"><a href="mailto:{{ site.author.email }}">{{ site.email }}</a></li>
 				{% endif %}
 				{% if site.author.twitter %}
 					<li class="menu__item"><a href="http://twitter.com/{{ site.author.twitter }}">{{ site.author.twitter | prepend: '@' }}</a></li>
