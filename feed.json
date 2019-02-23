@@ -2,7 +2,7 @@
 ---
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "{{ site.title }}",
+    "title": "{{ site.title }} - JSON Feed",
     {% if site.description %}
     "description": "{{ site.description }}",
     {% endif %}
