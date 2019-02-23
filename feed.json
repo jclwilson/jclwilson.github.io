@@ -1,29 +1,31 @@
 ---
 ---
 {
-  "version": "https://jsonfeed.org/version/1",
-  "title": {{ site.title | jsonify }},
-  "description": {% if site.description %}{{ site.description | jsonify }}{% endif %},
-  "home_page_url": "{{ site.url }}",
-  "feed_url": "{{ site.url }}/feed.json",
-  "favicon": "{{ site.url}}/assets/img/favicon-96.png",
-  {% if site.author %}
-  "author": {
-    "name": {{ site.author.name | jsonify }}
-  },
-  {% endif %}
-  "items": [
-
+    "version": "https://jsonfeed.org/version/1",
+    "title": "{{ site.title }}",
+    {% if site.description %}
+    "description": "{{ site.description }}",
+    {% endif %}
+    "home_page_url": "{{ site.url }}",
+    "feed_url": "{{ site.url }}/feed.json",
+    "favicon": "{{ site.url}}/assets/img/favicon-96.png",
+    {% if site.author %}
+    "author": {
+        "name": "{{ site.author.name }}",
+        "url": "{{ site.url }}",
+    },
+    {% endif %}
+    "items": [
     {% for post in site.posts %}
-    {
-      "id": "{{ site.url }}{{ post.url }}",
-      "url": "{{ site.url }}{{ post.url }}",
-      "title": {{ post.title | jsonify }},
-      "content_html": {{ post.content | jsonify  }},
-      "date_published": "{{ post.date | date_to_xmlschema }}"{% if post.relation %},
-      "external_url": "{{ post.relation }}"{% endif %}{% if post.cdn-image %},
-      "image": "{{ site.cdn_url }}jpg/{{ post.cdn-image }}.jpg"{% endif %}
-      }{% unless forloop.last %},{% endunless %}
+        {
+            "id": "{{ site.url }}{{ post.url }}",
+            "url": "{{ site.url }}{{ post.url }}",
+            {% if post.relation %}"external_url": "{{ post.relation }}",{% endif %}
+            "title": "{{ post.title }}",
+            "content_html": {{ post.content | jsonify }},
+            {% if post.cdn-image %}"image": "{{ site.cdn_url }}jpg/{{ post.cdn-image }}.jpg",{% endif %}
+            "date_modified": "{{ post.date | date_to_xmlschema }}"
+        }{% unless forloop.last %},{% endunless %}
     {% endfor %}
-  ]
+    ]
 }
