@@ -12,7 +12,7 @@ Last Tuesday I moved back to Manchester, I got into the swing of things and on T
 
 - Moving back, I _finally_ picked up my [12 Dozen Egg Cups](http://www.12dozeneggcups.com/), I'm waiting for a sunny day to photograph them, and I may even ask if there's any unsold.
 - I bought a few zines with the remaining deposit money, <cite>#gilmoreboyz</cite>, <cite>No Visitors</cite>, <cite>Werewolf Jones &amp; Sons</cite>, and <cite>Hypnotic Midday Movie</cite> by [Simon Hanselmann and htmlflowers](http://gilmoreboys2015.bigcartel.com/). I've been following their work for years and it always improves, it's a real pleasure when I see a manila envelope on the floor.
-- [Mould Map 4](http://mouldmap.com/info) was also waiting for me, <cite>Eurozone spezial</cite> responds to the recent and coming crises within Europe, of the EU, Schengen, and TTIP.
+- [Mould Map 4](http://mouldmap.com) was also waiting for me, <cite>Eurozone spezial</cite> responds to the recent and coming crises within Europe, of the EU, Schengen, and TTIP.
 - It was [<cite>Good Press’</cite> 4th Birthday](http://www.theskinny.co.uk/art/news/edinburgh-glasgow-dundee-6-12-oct-2015)! I bumped into them at the ICA a few weeks back, and since then I've been paid
 - I'm currently filling my calendar up with [literary events in Manchester, courtesy of Kate Feld](http://www.manchizzle.com/2015/10/manchester-live-literature-autumn-2015.html).
 - Amongst the many reasons for being sad about temporarily leaving London, I'm missing out on a load of oysters, surprisingly, [Autumn - not summer - is the season for them](http://www.anothermag.com/design-living/7896/the-best-oysters-in-london)!
