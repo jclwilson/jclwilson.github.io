@@ -65,10 +65,6 @@ button {
     display: inline;
 }
 
-.post__time {
-	display: block;
-}
-
 .menu, .footer__menu, .index {
     list-style-type: none;
 }
