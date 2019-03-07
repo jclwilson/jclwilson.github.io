@@ -3,8 +3,11 @@ title: Weekly Reader → ✓✓ Read Receipts
 date: 2016-12-04 00:00:00 Z
 layout: post
 cdn-image: interpersonal-behaviour
-image_link: 
-image_caption: 
+image_link:
+image_caption:
+article_category:
+  - Weekly Reader
+  - Read Receipts
 ---
 
 I had to rethink the <cite>Weekly Reader</cite>—this was at the forefront of my mind while I was considering [how this blog frames culture](/reframe-rehang-reassess)—I never really liked the name but I ended up using it because it's simple and vaguely descriptive. But, it came to a point where my reticence to post was partly down to an irritation with <cite>'Weekly Reader'</cite>—what was the point of putting effort into a post only to hide it behind a dull title?
