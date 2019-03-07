@@ -13,7 +13,6 @@ layout: default
                     {% assign date = currentdate %}
         {% endif %}
         <li class="index__item">
-            {% if post.article_category %}{{ post.article_category | append: ': ' }}{% endif %}
             <a class="post__link" href="{{ post.url }}">{{ post.title }}</a>
             {% if post.publisher %}
                 <span> for</span>
