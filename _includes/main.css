@@ -7,23 +7,26 @@
 /* BEM CSS below */
 
 body {
-    background-color: var(--jcw-secondary-colour);
-    color: var(--jcw-primary-colour);
+	background-color: var(--jcw-secondary-colour);
+	color: var(--jcw-primary-colour);
 	font-family: 'Helvetica', 'Arial', sans-serif;
-    font-size: 1.2em;
-    line-height: 1.4;
-    padding: 1em;
+	font-size: 1.2em;
+	line-height: 1.4;
+	padding: 1em;
 	scroll-behavior: smooth;
 }
 
-a, cite, em, i {text-decoration: underline; text-decoration-skip-ink: auto;}
+a, cite, em, i {
+	text-decoration:
+	underline;
+	text-decoration-skip-ink: auto;}
 
 q {
 	quotes: "\0027" "\0027" "\0022" "\0022";
 }
 
 blockquote {
-    margin-left: 2em;
+	margin-left: 2em;
 }
 
 blockquote, blockquote q {
@@ -31,11 +34,11 @@ blockquote, blockquote q {
 }
 
 blockquote p:before, q:before {
-    content: open-quote;
+	content: open-quote;
 }
 
 blockquote p:after, q:after {
-    content: close-quote;
+	content: close-quote;
 }
 
 img {
@@ -54,60 +57,60 @@ hr {
 
 button {
 	text-decoration: underline;
-    background-color: inherit;
+   	background-color: inherit;
 }
 
 .header, .index, .index__item, .post__date, .post, .post__header, .post__lead, .post__image, p {
-    margin-bottom: 1em;
+	margin-bottom: 1em;
 }
 
 .header__title, .post__title, .footer__title, .footer__nav {
-    display: inline;
+	display: inline;
 }
 
 .menu, .footer__menu, .index {
-    list-style-type: none;
+	list-style-type: none;
 }
 
 .menu__item:before, .footer__menu__item:before {
-    content: " – "
+	content: " – "
 }
 
 .post__content ul, ol {
-    margin-left: 1em;
-    padding-left: 1em;
+	margin-left: 1em;
+	padding-left: 1em;
 }
 
 @media screen and (min-width: 30em) {
-    body {
-        font-size: 2em;
-    }
+	body {
+		font-size: 2em;
+	}
 }
 
 @media screen and (min-width: 60em) {
-    body {
-        font-size: 2.5em;
-    }
-    .menu, .menu__item {
-        display: inline;
-    }
-    .post__lead {
-        width: 33%;
-        margin-left: auto;
-        margin-right: auto;
-    }
+	body {
+		font-size: 2.5em;
+	}
+	.menu, .menu__item {
+        	display: inline;
+    	}
+    	.post__lead {
+        	width: 33%;
+        	margin-left: auto;
+        	margin-right: auto;
+    	}
 }
 
 @media print {
-    body {
-        background: white;
-        color: black;
-    }
-    img {
-        width: 33%;
-        margin-left: auto;
-        margin-right: auto;
-    }
+	body {
+		background: white;
+		color: black;
+	}
+	img {
+        	width: 33%;
+        	margin-left: auto;
+        	margin-right: auto;
+    	}
 	.print-link:after {
 		content:" (" attr(href) ") ";
 	}
@@ -119,13 +122,13 @@ button {
 /* Accessibility */
 
 @media (prefers-reduced-motion: reduce) {
-  .body {
-    scroll-behavior: auto;
-  }
+	.body {
+		scroll-behavior: auto;
+	}
 }
 
 .no-show {
-    display:none;
+	display:none;
 }
 
 :focus, a:hover, button:hover {
