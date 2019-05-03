@@ -1,7 +1,7 @@
 ---
 title: '"There is a thirst for something new, something authentic" — North: Identity, Photography, Fashion'
 format: online
-redirect_from:
+redirect_from: north-open-eye-gallery
 cdn-image: alice-hawkins-liver-birds
 image_link: http://www.thedoublenegative.co.uk/2017/01/there-is-a-thirst-for-something-new-something-authentic-north-identity-photography-fashion/
 image_caption: Alice Hawkins, The Liver Birds, 2015.
