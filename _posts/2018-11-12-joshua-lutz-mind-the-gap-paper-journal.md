@@ -4,7 +4,7 @@ layout: post
 redirect_from:
 cdn-image: joshua-lutz-concious-found
 image_link: https://paper-journal.com/joshua-lutz-mind-the-gap/
-image_alt: A photograph of an LED road sign stating 'concious found'
+image_alt: A photograph of an LED road sign stating 'conscious found'
 image_caption:
 article_category:
 article_format: photobook review
