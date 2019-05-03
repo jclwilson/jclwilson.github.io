@@ -6,8 +6,10 @@ image_link: http://www.thedoublenegative.co.uk/2016/03/bandits-banality-lies-ben
 image_caption:
 format: online
 publisher: The Double Negative
-redirect_from: post/141301553194/ben-rivers-at-the-whitworth-art-gallery
-article_category:
+redirect_from:
+  - post/141301553194/ben-rivers-at-the-whitworth-art-gallery
+  - ben-rivers-at-the-whitworth-art-gallery
+article_category: Review
 article_format: review
 contributor:
 coverage: Manchester
