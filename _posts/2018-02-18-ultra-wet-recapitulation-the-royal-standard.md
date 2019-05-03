@@ -1,5 +1,5 @@
 ---
-title: 'Ultra Wet - Recapitulation at The Royal Standard'
+title: 'Pyramid schemes at The Royal Standard'
 layout: post
 redirect_from:
 cdn-image: ultra-wet-recapitulation
