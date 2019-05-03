@@ -3,6 +3,7 @@ title: '"Tillmans demonstrates that photography is still free to shape the world
   Wolfgang Tillmans — Reviewed'
 format: online
 redirect_from: 2017-03-10-wolfgang-tillmans-tate-modern
+redirect_from: wolfgang-tillmans-tate-modern
 cdn-image: wolfgang-tillmans-tate
 image_link: http://www.thedoublenegative.co.uk/2017/03/tillmans-demonstrates-that-photography-is-still-free-to-shape-the-world-wolfgang-tillmans-reviewed/
 image_alt: A photo of Wolfgang Tillmans' show installed at Tate Modern
