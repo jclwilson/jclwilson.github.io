@@ -1,7 +1,7 @@
 ---
 title: 'John Akomfrah'
 format: online
-redirect_from:
+redirect_from: john-akomfrah-purple-barbican
 cdn-image: john-akomfrah-purple
 image_link: https://tankmagazine.com/tank/2017/10/john-akomfrah/
 image_alt: "A row of cinema screens show different scenes from John Akomfrah's work 'Purple'"
