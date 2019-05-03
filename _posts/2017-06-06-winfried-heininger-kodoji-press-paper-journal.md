@@ -1,7 +1,7 @@
 ---
 title: 'An interview with Kodoji Press'
 format: online
-redirect_from:
+redirect_from: winfried-heininger-kodoji-press
 cdn-image: 40-jahre-kernspaltung
 image_link: http://paper-journal.com/publishers-series-an-interview-with-kodoji-press/
 image_alt: A old fashioned looking red textbook, one page details a graph, the other shows a photo of a cloud-like pile of worm shit.
