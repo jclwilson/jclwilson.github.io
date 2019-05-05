@@ -25,7 +25,7 @@ rights: # Information about rights held in and over the resource.
 source: # A related resource from which the described resource is derived.
 subject: # The topic of the resource. e.g. tags
 ---
-When I received an email asking me to contribute to a wine magazine I thought it was a mistake, I know nothing about wine, when I'm buying a bottle I tend to go by the price. But editor-in-chief Aimee Hartley assured me that I was precisely the kind of writer [<cite>Above Sea Level</cite>](/pico-madeira-above-sea-level) looks for, someone who can write about wine from an outside perspective.
+I know nothing about wine, when I'm buying a bottle I tend to go by the price. But when editor-in-chief Aimee Hartley asked me to contribute to the Portugal issue of wine magazine [<cite>Above Sea Level</cite>](/pico-madeira-above-sea-level) she assured me that I was precisely the kind of writer they look for, someone who can bring an outside perspective to an often insular discussion.
 
 While researching for my articles on the islands of Pico and Madeira I ended up reading about Portuguese colonialism, phylloxera plagues, and the collapse of the whaling industry in the North Atlantic - there's more to a bottle of wine than the _terroir_.
 
