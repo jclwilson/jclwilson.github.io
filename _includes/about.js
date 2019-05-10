@@ -1,9 +1,10 @@
 <script>
-    var jsget = new XMLHttpRequest();
-    jsget.onreadystatechange = function() {
-        if (this.readyState == 4 && this.status == 200) {
-            console.log(jsget.responseText);
-        }
-    };
-    jsget.open("GET", "README.md", true);
+    var xmlHttp = new XMLHttpRequest();
+    xmlHttp.onreadystatechange = function() {         
+        if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
+            clear();
+            console.log(xmlHttp.responseText);
+    }
+    xmlHttp.open("GET", "README.md", true); // true for asynchronous 
+    xmlHttp.send(null);
 </script>
