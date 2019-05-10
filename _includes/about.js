@@ -2,7 +2,6 @@
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.onreadystatechange = function() {         
         if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
-            console.clear();
             console.log(xmlHttp.responseText);
     }
     xmlHttp.open("GET", "README.md", false); // true for asynchronous 
