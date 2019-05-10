@@ -4,6 +4,6 @@
         if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
             console.log(xmlHttp.responseText);
     }
-    xmlHttp.open("GET", "README.md", false); // true for asynchronous 
+    xmlHttp.open("GET", "README.md", true); // true for asynchronous 
     xmlHttp.send(null);
 </script>
