@@ -13,11 +13,11 @@ layout: default
                     {% assign date = currentdate %}
         {% endif %}
         <li class="index__item">
-            <a class="post__link" href="{{ post.url }}">{{ post.title }}</a>
+            <a class="post__link" title=">{{ post.title }}" href="{{ post.url }}">{{ post.title }}</a>
             {% if post.publisher %}
                 <span> for</span>
                 <cite class="post__publisher">
-                    {% if post.relation %}<a class="post__publisher-link" href="{{ post.relation }}">{% endif %}
+                    {% if post.relation %}<a class="post__publisher-link" rel="external" title="{{ post.publisher }}" href="{{ post.relation }}">{% endif %}
                     {{ post.publisher }}
                     {% if post.relation %}</a>{% endif %}
                 </cite>
