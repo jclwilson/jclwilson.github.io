@@ -12,7 +12,6 @@
 			{% include main.css %}
 		</style>
 		<link type="application/atom+xml" rel="alternate" href="https://jacobcharleswilson.com/feed.xml" title="Jacob Charles Wilson - Atom Feed">
-		<link type="application/atom+json" rel="alternate" href="https://jacobcharleswilson.com/feed.json" title="Jacob Charles Wilson - JSON Feed">
 		<meta name="google-site-verification" content="4ITkWbuq-qEuF4KhwbrCo7jhQfUhwZwzbCwCe8C9R3Y" />
 		<link rel="icon" type="image/png" href="assets/img/favicon-16.png" sizes="16x16">
 		<link rel="icon" type="image/png" href="assets/img/favicon-32.png" sizes="32x32">
@@ -26,10 +25,10 @@
 			<h2 class="no-show">Contact</h2>
 			<ul class="menu">
 				{% if site.author.email %}
-					<li class="menu__item"><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+					<li class="menu__item"><a rel="author" title="{{ site.author.email }}" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
 				{% endif %}
 				{% if site.author.twitter %}
-					<li class="menu__item"><a href="http://twitter.com/{{ site.author.twitter }}">{{ site.author.twitter | prepend: '@' }}</a></li>
+					<li class="menu__item"><a rel="external" title="{{ site.author.twitter }}" href="http://twitter.com/{{ site.author.twitter }}">{{ site.author.twitter | prepend: '@' }}</a></li>
 				{% endif %}
 					<li class="menu__item no-print"><a href="/about">About</a></li>
 			</ul>
@@ -44,7 +43,7 @@
 						<button onclick="window.print();">Print page</button>
 					</li>
 					<li class="menu__item">
-						<a href="#top">Back to top</a>
+						<a title="Back to top" href="#top">Back to top</a>
 					</li>
 				</ul>
 			</nav>

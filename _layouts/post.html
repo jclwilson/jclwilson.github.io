@@ -5,10 +5,10 @@ layout: default
     <header class="post__header">
 		{% if page.article_category %}{{ page.article_category | append: ': ' }}{% endif %}
 			<h1 class="post__title">
-				<a class="post__link" href="{{ page.url }}">{{ page.title }}</a>
+				<a rel="bookmark" class="post__link" title="{{ page.title }}" href="{{ page.url }}">{{ page.title }}</a>
 			</h1>{% if page.publisher %} for
 			<cite class="post__publisher">
-				{% if page.relation %}<a class="post__publisher-link" href="{{ page.relation }}">{% endif %}
+				{% if page.relation %}<a rel="external" class="post__publisher-link" href="{{ page.relation }}">{% endif %}
 					{{ page.publisher }}
 				{% if page.relation %}</a>{% endif %}
 			</cite>
@@ -16,7 +16,7 @@ layout: default
     </header>
     <section class="post__content">
         {% include page_image.html %}
-        {{ page.content }}
+        {{ content }}
         {% include format.html %}
     </section>
 </article>
@@ -27,10 +27,10 @@ layout: default
 		{% for page in site.posts limit: 10 %}
 			<li class="index__item">
 				{% if page.article_category %}{{ page.article_category | append: ': ' }}{% endif %}
-					<a class="post__link" href="{{ page.url }}">{{ page.title }}</a>
+					<a title="{{ page.title }}" class="post__link" href="{{ page.url }}">{{ page.title }}</a>
 				{% if page.publisher %} for
 					<cite class="post__publisher">
-						{% if page.relation %}<a class="post__publisher-link" href="{{ page.relation }}">{% endif %}
+						{% if page.relation %}<a class="post__publisher-link" rel="external" title="Article on {{ page.publisher }}" href="{{ page.relation }}">{% endif %}
 							{{ page.publisher }}
 						{% if page.relation %}</a>{% endif %}
 					</cite>
