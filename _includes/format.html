@@ -1,5 +1,0 @@
-{% if page.format == 'print' %}
-    <p>{% if page.relation %}<a href="{{ page.relation }}">{% endif %}<cite>{{ page.title }}</cite>{% if page.relation %}</a>{% endif %}, is available in {% if page.publisher_issue %}{{ page.publisher_issue }} of {% endif %}{% if page.relation %}<a href="{{ page.relation }}">{% endif %}<cite>{{ page.publisher }}</cite>{% if page.relation %}</a>{% endif %}.</p>
-{% elsif page.format == 'online' %}
-    <p>{% if page.relation %}<a href="{{ page.relation }}">{% endif %}<cite>{{ page.title }}</cite>{% if page.relation %}</a>{% endif %}, is up on {% if page.relation %}<a class="print-link" href="{{ page.relation }}">{% endif %}<cite>{{ page.publisher }}</cite>{% if page.relation %}</a>{% endif %}.</p>
-{% endif %}

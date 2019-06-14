@@ -15,9 +15,29 @@ layout: default
 		{% endif %}
     </header>
     <section class="post__content">
-        {% include page_image.html %}
+	{% if page.cdn-image %}
+		<figure class="post__lead">
+			{% if page.image_link %}<a href="{{ page.image_link }}">{% endif %}
+				<picture class="figure__filter">
+				   <source type="image/webp" srcset="{{ site.cdn_url }}webp/{{ page.cdn-image }}.webp" />
+				   <img src="{{ site.cdn_url }}jpg/{{ page.cdn-image }}.jpg" class="post__image" alt="{{ page.image_alt }}" />
+				</picture>
+			{% if page.image_link %}</a>{% endif %}
+			{% if page.image_caption %}
+				<figcaption class="post__image-caption">
+					{% if page.image_link %}<a href="{{ page.image_link }}">{% endif %}
+						{{ page.image_caption }}
+					{% if page.image_link %}</a>{% endif %}
+				</figcaption>
+		    {% endif %}
+		</figure>
+	{% endif %}
         {{ content }}
-        {% include format.html %}
+	{% if page.format == 'print' %}
+		<p>{% if page.relation %}<a href="{{ page.relation }}">{% endif %}<cite>{{ page.title }}</cite>{% if page.relation %}</a>{% endif %}, is available in {% if page.publisher_issue %}{{ page.publisher_issue }} of {% endif %}{% if page.relation %}<a href="{{ page.relation }}">{% endif %}<cite>{{ page.publisher }}</cite>{% if page.relation %}</a>{% endif %}.</p>
+	{% elsif page.format == 'online' %}
+		<p>{% if page.relation %}<a href="{{ page.relation }}">{% endif %}<cite>{{ page.title }}</cite>{% if page.relation %}</a>{% endif %}, is up on {% if page.relation %}<a class="print-link" href="{{ page.relation }}">{% endif %}<cite>{{ page.publisher }}</cite>{% if page.relation %}</a>{% endif %}.</p>
+	{% endif %}
     </section>
 </article>
 {% if page.latest_content %}
