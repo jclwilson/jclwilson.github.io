@@ -35,7 +35,6 @@ defaults:
     values:
       layout: post
       latest_content: false
-      # Dublin Core Metadata
       creator: Jacob Charles Wilson # An entity primarily responsible for making the resource.
       language: English # A language of the resource.
       rights: # Information about rights held in and over the resource.
