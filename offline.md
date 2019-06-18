@@ -1,7 +1,6 @@
 ---
 title: Offline
 latest_content: true
-layout: post
 ---
 Oh dear, it looks like you're offline.
 

@@ -1,6 +1,5 @@
 ---
 title: About
-layout: post
 ---
 I'm a freelance arts writer focusing on photography, publishing, and print design. I studied Art History at [The Courtauld Institute of Art](https://courtauld.ac.uk) and I've worked at [<cite>Tank Magazine</cite>](https://tankmagazine.com), the [<cite>ICA</cite>](https://www.ica.art), and the [<cite>Delfina Foundation</cite>](http://www.delfinafoundation.com/). I'm currently the Editorial Assistant at [<cite>Paper Journal</cite>](https://paper-journal.com/).
 
