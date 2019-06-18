@@ -16,9 +16,8 @@ body {
 	scroll-behavior: smooth;
 }
 
-a, cite, em, i {
-	text-decoration:
-	underline;
+a, cite, em, i, .underline {
+	text-decoration: underline;
 	text-decoration-skip-ink: auto;}
 
 q {
@@ -60,7 +59,7 @@ button {
    	background-color: inherit;
 }
 
-.header, .index, .index__item, .post__date, .post, .post__header, .post__lead, .post__image, p {
+.header, .index, .index__item, .post__date, .post, .post__header, .post__lead, .post__image, .latest-posts__title, p {
 	margin-bottom: 1em;
 }
 
