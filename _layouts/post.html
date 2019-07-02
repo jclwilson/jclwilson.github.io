@@ -3,16 +3,15 @@ layout: default
 ---
 <article class="post">
     <header class="post__header">
-		{% if page.article_category %}{{ page.article_category | append: ': ' }}{% endif %}
-			<h1 class="post__title">
-				<a rel="bookmark" class="post__link" title="{{ page.title }}" href="{{ page.url }}">{{ page.title }}</a>
-			</h1>{% if page.publisher %} for
-			<cite class="post__publisher">
-				{% if page.relation %}<a rel="external" class="post__publisher-link" href="{{ page.relation }}">{% endif %}
-					{{ page.publisher }}
-				{% if page.relation %}</a>{% endif %}
-			</cite>
-		{% endif %}
+	<h1 class="post__title">
+		<a rel="bookmark" class="post__link" title="{{ page.title }}" href="{{ page.url }}">{{ page.title }}</a>
+	</h1>{% if page.publisher %} for
+	<cite class="post__publisher">
+		{% if page.relation %}<a rel="external" class="post__publisher-link" href="{{ page.relation }}">{% endif %}
+			{{ page.publisher }}
+		{% if page.relation %}</a>{% endif %}
+	</cite>
+	{% endif %}
     </header>
     <section class="post__content">
 	{% if page.cdn-image %}
