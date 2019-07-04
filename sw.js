@@ -1,11 +1,12 @@
 ---
+layout: null
 ---
 var CACHE_VERSION = 'jacobcharleswilson.com-{{ "now" | date_to_xmlschema }}';
 var CACHE_FILES = [
     '/',
     '/404',
     '/offline',
-	'/about',
+    '/about',
     '/assets/img/favicon-16.png',
     '/assets/img/favicon-32.png',
     '/assets/img/favicon-96.png'
@@ -24,7 +25,7 @@ self.addEventListener('install', function(event) {
                 {% endfor %}
             ]);
             return cache.addAll(CACHE_FILES);
-        }).then(function() {
+	 }).then(function() {
           return self.skipWaiting();
         })
     );
