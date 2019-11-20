@@ -1,6 +1,7 @@
 ---
 title: Offline
 latest_content: true
+sitemap: false
 ---
 Oh dear, it looks like you're offline.
 
