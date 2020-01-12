@@ -9,7 +9,8 @@ var CACHE_FILES = [
     '/about',
     '/assets/img/favicon-16.png',
     '/assets/img/favicon-32.png',
-    '/assets/img/favicon-96.png'
+    '/assets/img/favicon-96.png',
+    'favicon.ico'
 ];
 
 self.addEventListener('install', function(event) {
