@@ -4,13 +4,11 @@ url: https://jacobcharleswilson.com
 enforce_ssl: jacobcharleswilson.com
 author:
     name: Jacob Charles Wilson
-    twitter: jclwilson
     email: hello@jacobcharleswilson.com
     picture: assets/img/default.jpg
 social:
   name: Jacob Charles Wilson
   links:
-    - https://twitter.com/jclwilson
     - https://instagram.com/jclwilson
     - https://github.com/jclwilson
 lang: en_GB
