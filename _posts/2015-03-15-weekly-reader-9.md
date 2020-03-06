@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Weekly Reader 9
 redirect_from: post/113686259259/weekly-reader-9
 cdn-image:
