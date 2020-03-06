@@ -1,6 +1,6 @@
 ---
 title: "A Photographic Study of Dubai and Its People"
-image-cdn: ben-soedira-wrestlers
+cdn-image: ben-soedira-wrestlers
 image_alt: "Two bodies intertwined, arms grappling at calves and thighs."
 image_link: https://www.anothermanmag.com/life-culture/11029/ben-soedira-foreign-sands-dubai-photography-wrestlers-2019
 relation: https://www.anothermanmag.com/life-culture/11029/ben-soedira-foreign-sands-dubai-photography-wrestlers-2019

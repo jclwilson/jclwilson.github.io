@@ -1,7 +1,7 @@
 ---
 title: "Lisa Barnard - The Canary and the Hammer"
 relation: https://paper-journal.com/lisa-barnard-the-canary-and-the-hammer/
-image-cdn: lisa-barnard-fool
+cdn-image: lisa-barnard-fool
 image_link: https://paper-journal.com/lisa-barnard-the-canary-and-the-hammer/
 image_alt: "Don't be deceived, it's only a lump of Fool's Gold."
 publisher: Paper Journal

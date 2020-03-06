@@ -2,7 +2,7 @@
 title: "Interview – Sean Alexander Geraghty"
 publisher: Paper Journal
 relation: https://paper-journal.com/interview-sean-alexander-geraghty-barrio-chino/
-image-cdn: geraghty-barrio-chino
+cdn-image: geraghty-barrio-chino
 image_alt: "A young man wearing the silk costume of a wushu martial artist crouches in front of a mural of a chinese temple."
 image_link: https://paper-journal.com/interview-sean-alexander-geraghty-barrio-chino/
 ---

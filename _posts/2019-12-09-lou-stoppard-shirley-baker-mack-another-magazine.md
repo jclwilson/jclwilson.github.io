@@ -1,6 +1,6 @@
 ---
 title: "Inside the Archive of Often Overlooked Street Photographer Shirley Baker"
-image-cdn: shirley-baker-punks
+cdn-image: shirley-baker-punks
 image_alt: "Two young girls with hairsprayed neon hair are caught in the street, watching something off-camera."
 relation: https://www.anothermag.com/art-photography/12139/shirley-baker-mack-books-lou-stoppard-street-photography-manchester-1960s
 publisher: AnOther Magazine

@@ -1,6 +1,6 @@
 ---
 title: "The Distracted City"
-image-cdn: phoebe-kiely-gauze
+cdn-image: phoebe-kiely-gauze
 image_alt: "The facade of a building stands draped in scaffolding and a protective gauze, torn and folded by the wind."
 publisher: Sweet Debris
 ---

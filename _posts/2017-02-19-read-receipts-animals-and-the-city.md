@@ -1,6 +1,6 @@
 ﻿---
 title: "Read Receipts: Animals and the City"
-image-cdn: met-small-frog
+cdn-image: met-small-frog
 image_alt: "A stylised stone sculpture of a small frog."
 ---
 Since I've started working evenings I've become properly aware of London's nocturnal life. Everyone who's lived here has heard foxes and I'd be surprised if there was anyone who hadn't seen one, but I never realised quite how many there are - even more now, as the young cubs have emerged from their dens and started taking tentative runs about. They're a little curious, and one or two have allowed me to get very close before running off. The other week I went to some friends' new flat that overlooks a vast green expanse of gardens, you can sit at their table and watch three stories below all the animals running about. Birds, cats, squirrels all had their own routes that went up trees, over and between fences, and into holes. It felt like a rare sight in such a grey and level city.

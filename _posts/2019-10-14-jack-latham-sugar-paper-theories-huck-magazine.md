@@ -1,6 +1,6 @@
 ---
 title: "Unravelling one of Iceland’s biggest murder mysteries: Sugar paper theories"
-image-cdn: jack-latham-kristjai
+cdn-image: jack-latham-kristjai
 image_alt: "A dead body lies slumped, surrounded by evidence markers, in the tyre-marked snow"
 image_link: https://www.huckmag.com/art-and-culture/photography-2/unravelling-one-of-icelands-biggest-murder-mysteries/
 relation: https://www.huckmag.com/art-and-culture/photography-2/unravelling-one-of-icelands-biggest-murder-mysteries/

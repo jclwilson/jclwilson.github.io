@@ -1,6 +1,6 @@
 ---
 title: "The story behind London's most radical design studio: Inside the Paddington Printshop"
-image-cdn: another-empty-home
+cdn-image: another-empty-home
 image_alt: "A poster of a doorway splashed with a big red X and the text, 'Another Empty Home'"
 image_link: https://www.huckmag.com/art-and-culture/art-2/the-story-behind-londons-most-radical-design-studio/
 relation: https://www.huckmag.com/art-and-culture/art-2/the-story-behind-londons-most-radical-design-studio/

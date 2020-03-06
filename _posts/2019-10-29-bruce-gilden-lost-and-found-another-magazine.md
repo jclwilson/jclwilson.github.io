@@ -1,7 +1,7 @@
 ---
 title: "Photographs Documenting a Different Side of 1970s New York City"
 relation: https://www.anothermag.com/art-photography/12050/bruce-gilden-lost-and-found-unseen-photos-of-new-york-1980s
-image-cdn: bruce-gilden-scream
+cdn-image: bruce-gilden-scream
 image_alt: "A woman stands in a public telephone box, appearing to scream."
 image_link: https://www.anothermag.com/art-photography/12050/bruce-gilden-lost-and-found-unseen-photos-of-new-york-1980s
 publisher: AnOther Magazine

@@ -1,7 +1,7 @@
 ---
 title: "The collective that changed Preston's cultural scene: Northern paradise"
 relation: https://www.huckmag.com/art-and-culture/photography-2/the-collective-that-changed-prestons-cultural-scene/
-image-cdn: preston-paris-norse
+cdn-image: preston-paris-norse
 image_alt: "A crowd of young people carry banners and march" 
 image_link: https://www.huckmag.com/art-and-culture/photography-2/the-collective-that-changed-prestons-cultural-scene/
 publisher: Huck Magazine

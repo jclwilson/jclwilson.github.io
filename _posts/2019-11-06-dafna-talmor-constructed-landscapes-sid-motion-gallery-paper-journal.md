@@ -1,6 +1,6 @@
 ---
 title: "Interview - Dafna Talmor"
-image-cdn: dafna-talmor-landscape
+cdn-image: dafna-talmor-landscape
 image_link: https://paper-journal.com/interview-dafna-talmor-constructed-landscapes/
 image_alt: "A rock face appears cut across by hand-torn white and black lines."
 relation: https://paper-journal.com/interview-dafna-talmor-constructed-landscapes/

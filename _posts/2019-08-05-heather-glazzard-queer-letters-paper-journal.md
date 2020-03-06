@@ -1,6 +1,6 @@
 ---
 title: "Heather Glazzard - Queer Letters"
-image-cdn: heather-glazzard-letters
+cdn-image: heather-glazzard-letters
 image_alt: "A scanned letter, written by one of the contributors to Queer Letters."
 image_link: https://paper-journal.com/interview-heather-glazzard-queer-letters/
 relation: https://paper-journal.com/interview-heather-glazzard-queer-letters/

@@ -1,7 +1,7 @@
 ---
 title: "A Tender Portrait of Masculinity Among Britain’s Chinese Students"
 publisher: Another Man
-image-cdn: yan-preston-ziheng
+cdn-image: yan-preston-ziheng
 image_link: https://www.anothermanmag.com/life-culture/10984/yan-wang-preston-he-look-liverpool-photo-bienniel-interview-china/
 image_alt: On a stony beach a long-haired young man in a retro sports jacket lies back against a toppled wooden pile.
 relation: https://www.anothermanmag.com/life-culture/10984/yan-wang-preston-he-look-liverpool-photo-bienniel-interview-china/
