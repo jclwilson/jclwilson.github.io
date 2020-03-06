@@ -29,7 +29,7 @@ blockquote {
 }
 
 blockquote, blockquote q {
-	quotes: "\0022" "\0022" "\0027" "\0027";
+	quotes: "\0027" "\0027" "\0022" "\0022";
 }
 
 blockquote p:before, q:before {
