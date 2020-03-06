@@ -1,6 +1,6 @@
 ---
 title: "Coming of age on the British coast: Sun, sex and scraps"
-image: iain-mckell-fishnets
+cdn-image: iain-mckell-fishnets
 image_alt: "A girl's leg wrapped in fishnet tights draped over the shimmering pleather seat of a car."
 publisher: Huck Magazine
 relation: https://www.huckmag.com/art-and-culture/photography-2/iain-mckell-private-reality-british-seaside-photography/
