@@ -32,7 +32,7 @@ layout: null
 				{% if post.relation %}<p><a href="{{ post.relation }}" rel="related" title="Published by {{ post.publisher | xml_escape }}">Published by {{ post.publisher | xml_escape }}</a></p>{% endif %}
 			</content>
 			{% if post.relation %}<link href="{{ post.relation }}" rel="related" title="Published by {{ post.publisher | xml_escape }}"/>{% endif %}
-			<link href="{{ site.url }}{{ post.url }}?utm_source=atomFeed&amp;utm_medium=atomFeed&amp;utm_campaign={{ post.title | replace: ',','' | replace: ' ', '' | xml_escape }}" rel="alternative" title="{{ post.title | xml_escape }}"/>
+			<link href="{{ site.url }}{{ post.url }}" rel="alternative" title="{{ post.title | xml_escape }}"/>
 		</entry>
 	{% endfor %}
 </feed>
