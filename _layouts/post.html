@@ -32,11 +32,7 @@ layout: default
 		</figure>
 	{% endif %}
         {{ content }}
-	{% if page.format == 'print' %}
-		<aside>{% if page.relation %}<a href="{{ page.relation }}">{% endif %}<cite>{{ page.title }}</cite>{% if page.relation %}</a>{% endif %}, is available in {% if page.publisher_issue %}{{ page.publisher_issue }} of {% endif %}{% if page.relation %}<a href="{{ page.relation }}">{% endif %}<cite>{{ page.publisher }}</cite>{% if page.relation %}</a>{% endif %}.</aside>
-	{% elsif page.format == 'online' %}
-		<aside>{% if page.relation %}<a href="{{ page.relation }}">{% endif %}<cite>{{ page.title }}</cite>{% if page.relation %}</a>{% endif %}, is up on {% if page.relation %}<a class="print-link" href="{{ page.relation }}">{% endif %}<cite>{{ page.publisher }}</cite>{% if page.relation %}</a>{% endif %}.</aside>
-	{% endif %}
+		{% if page.publisher %}<aside>{% if page.relation %}<a href="{{ page.relation }}">{% endif %}<cite>{{ page.title }}</cite>{% if page.relation %}</a>{% endif %} is published {% if page.publisher_issue %} in {{ page.publisher_issue }} of {% else %} by {% endif %}{% if page.relation %}<a href="{{ page.relation }}">{% endif %}<cite>{{ page.publisher }}</cite>{% if page.relation %}</a>{% endif %}.</aside>{% endif %}
     </section>
 </article>
 {% if page.latest_content %}
