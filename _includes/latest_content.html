@@ -3,11 +3,10 @@
         <ul class="index">
                 {% for page in site.posts limit: 10 %}
                         <li class="index__item">
-                                {% if page.article_category %}{{ page.article_category | append: ': ' }}{% endif %}
-                                        <a title="{{ page.title }}" class="post__link" href="{{ page.url }}">{{ page.title }}</a>
+                            <a title="{{ page.title | xml_escape }}" class="post__link" href="{{ page.url | xml_escape }}">{{ page.title }}</a>
                                 {% if page.publisher %} for
                                         <cite class="post__publisher">
-                                                {% if page.relation %}<a class="post__publisher-link" rel="external" title="Article on {{ page.publisher }}" href="{{ page.relation }}">{% endif %}
+                                                {% if page.relation %}<a class="post__publisher-link" rel="external" title="Article on {{ page.publisher | xml_escape }}" href="{{ page.relation | xml_escape }}">{% endif %}
                                                         {{ page.publisher }}
                                                 {% if page.relation %}</a>{% endif %}
                                         </cite>

@@ -23,12 +23,12 @@
 			<h2 class="no-show">Contact</h2>
 			<ul class="menu">
 				{% if site.author.email %}
-					<li class="menu__item"><a rel="author" title="{{ site.author.email }}" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+					<li class="menu__item"><a rel="author" title="{{ site.author.email | xml_escape }}" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
 				{% endif %}
 				{% if site.author.twitter %}
-					<li class="menu__item"><a rel="external" title="{{ site.author.twitter }}" href="http://twitter.com/{{ site.author.twitter }}">{{ site.author.twitter | prepend: '@' }}</a></li>
+					<li class="menu__item"><a rel="external" title="{{ site.author.twitter | xml_escape }}" href="http://twitter.com/{{ site.author.twitter }}">{{ site.author.twitter | prepend: '@' }}</a></li>
 				{% endif %}
-					<li class="menu__item no-print"><a href="/about">About</a></li>
+					<li class="menu__item no-print"><a href="/about" title="About">About</a></li>
 			</ul>
 		</header>
 		<main class="main">

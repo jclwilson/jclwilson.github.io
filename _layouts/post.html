@@ -4,10 +4,10 @@ layout: default
 <article class="post">
     <header class="post__header">
 	<h1 class="post__title">
-		<a rel="bookmark" class="post__link" title="{{ page.title }}" href="{{ page.url }}">{{ page.title }}</a>
+		<a rel="bookmark" class="post__link" title="{{ page.title | xml_escape }}" href="{{ page.url }}">{{ page.title }}</a>
 	</h1>{% if page.publisher %} for
 	<cite class="post__publisher">
-		{% if page.relation %}<a rel="external" class="post__publisher-link" href="{{ page.relation }}">{% endif %}
+		{% if page.relation %}<a rel="external" class="post__publisher-link" href="{{ page.relation | xml_escape }}">{% endif %}
 			{{ page.publisher }}
 		{% if page.relation %}</a>{% endif %}
 	</cite>
@@ -16,15 +16,15 @@ layout: default
     <section class="post__content">
 	{% if page.cdn-image %}
 		<figure class="post__lead">
-			{% if page.image_link %}<a href="{{ page.image_link }}">{% endif %}
+			{% if page.image_link %}<a href="{{ page.image_link | xml_escape }}">{% endif %}
 				<picture class="figure__filter">
-				   <source type="image/webp" srcset="{{ site.cdn_url }}webp/{{ page.cdn-image }}.webp" />
-				   <img src="{{ site.cdn_url }}jpg/{{ page.cdn-image }}.jpg" class="post__image" alt="{{ page.image_alt }}" />
+				   <source type="image/webp" srcset="{{ site.cdn_url | xml_escape }}webp/{{ page.cdn-image }}.webp" />
+				   <img src="{{ site.cdn_url | xml_escape }}jpg/{{ page.cdn-image }}.jpg" class="post__image" alt="{{ page.image_alt | xml_escape }}" />
 				</picture>
 			{% if page.image_link %}</a>{% endif %}
 			{% if page.image_caption %}
 				<figcaption class="post__image-caption">
-					{% if page.image_link %}<a href="{{ page.image_link }}">{% endif %}
+					{% if page.image_link %}<a href="{{ page.image_link | xml_escape }}">{% endif %}
 						{{ page.image_caption }}
 					{% if page.image_link %}</a>{% endif %}
 				</figcaption>
@@ -32,7 +32,7 @@ layout: default
 		</figure>
 	{% endif %}
         {{ content }}
-		{% if page.publisher %}<aside>{% if page.relation %}<a href="{{ page.relation }}">{% endif %}<cite>{{ page.title }}</cite>{% if page.relation %}</a>{% endif %} is published {% if page.publisher_issue %} in {{ page.publisher_issue }} of {% else %} by {% endif %}{% if page.relation %}<a href="{{ page.relation }}">{% endif %}<cite>{{ page.publisher }}</cite>{% if page.relation %}</a>{% endif %}.</aside>{% endif %}
+		{% if page.publisher %}<aside>{% if page.relation %}<a rel="external" href="{{ page.relation }}" title="{{ page.title | xml_escape }}">{% endif %}<cite>{{ page.title }}</cite>{% if page.relation %}</a>{% endif %} is published {% if page.publisher_issue %} in {{ page.publisher_issue }} of {% else %} by {% endif %}{% if page.relation %}<a rel="external" href="{{ page.relation }}" title="{{ page.title | xml_escape }}">{% endif %}<cite>{{ page.publisher }}</cite>{% if page.relation %}</a>{% endif %}.</aside>{% endif %}
     </section>
 </article>
 {% if page.latest_content %}
