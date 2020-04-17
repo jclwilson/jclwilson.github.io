@@ -59,6 +59,10 @@ button {
     background-color: inherit;
 }
 
+button:hover {
+    cursor: pointer;
+}
+
 .header, .index__item, .post, .post__header, .post__lead, .post__image, .latest-posts__title, p {
     margin-bottom: 1em;
 }
