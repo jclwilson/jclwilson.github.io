@@ -23,7 +23,6 @@ cdn_url: https://s3.eu-west-2.amazonaws.com/jacobcharleswilson.com/
 
 plugins:
 - jekyll-seo-tag
-- jekyll-redirect-from
 - jekyll-sitemap
 
 # Default Post Front Matter
