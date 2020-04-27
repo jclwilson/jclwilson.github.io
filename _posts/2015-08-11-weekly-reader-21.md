@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Weekly Reader 21
 cdn-image: lula-hyers
 image_link: http://instagram.com/lulahyers
 image_alt: A woman lying on a bed, a venetian blind casts a striped shadow over her face.
 image_caption: Photo by Lula Hyers
-redirect_from: post/126416587789/weekly-reader-21
 ---
 The past two weekends I’ve dedicated to cultivating life skills, and having fun doing so. I hosted a barbeque for 25 people the Saturday before last, and another smaller, more spontaneous, one the week after. If I say so myself, both went pretty well, no-one was poisoned, and the food was good enough that people asked for the recipes I had followed. Motivated by this I’m now the proud owner of a proper mixing bowl, a wire rack, and a few more cooking books.
 

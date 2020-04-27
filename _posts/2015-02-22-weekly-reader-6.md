@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Weekly Reader 6
 cdn-image: jen-collins
 image_link: 'http://instagram.com/jen.collins'
 image_caption: Photo by Jen Collins
 image_alt: A photograph of a person drawing a group of potted plants.
-redirect_from: post/111806206754/weekly-reader-6
 ---
 This past week I've been enthused by the late winter sunshine, as James Butler commented, the time to live in a city, "when pre-spring sunlight suddenly pulls a riot of colour out of streets that have been a uniform grey for months". In this mood I bought a few new clothes for summer, and partly inspired by the photo above, a new marker pen to practice handwriting and lettering. Unfortunately the weather turned again and it's back to grey skies and thick wool coats. I really can't wait for summer now.
 

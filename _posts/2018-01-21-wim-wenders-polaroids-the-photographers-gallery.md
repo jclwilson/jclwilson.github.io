@@ -1,29 +1,8 @@
 ---
 title: "Ten thousand Polaroids, three thousand found, two hundred exhibited: Wim Wenders at The Photographers' Gallery"
-layout: post # online / print
-redirect_from:
 cdn-image: wim-wenders-sydney
-image_link:
 image_alt: A Polaroid print of a pair of blue glasses being held in front of a cityscape, Sydney.
-image_caption:
-article_category:
-article_format: exhibition review
-publisher: # An entity responsible for making the resource available.
-publisher_issue:
-contributor: # An entity responsible for making contributions to the resource.
-coverage: review  # The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant.
-creator: Jacob Charles Wilson # An entity primarily responsible for making the resource.
-# date: # A point or period of time associated with an event in the lifecycle of the resource.
-description: "An exhibition review of Wim Wenders, at The Photographers' Gallery, London" # An account of the resource.
-format: # The file format, physical medium, or dimensions of the resource.
-identifier: # An unambiguous reference to the resource within a given context. In the context of posts on jacobcharleswilson.com this would be the permalink.
-language: English # A language of the resource.
-relation: # A related resource.
-rights: # Information about rights held in and over the resource.
-source: # A related resource from which the described resource is derived.
-subject: # The topic of the resource. e.g. tags
 ---
-
 How many images does it take to know a person? There's a sense that through just a single image we can see what a photographer was thinking and feeling in the moment of its creation. Between the 1960s and 1980s German filmmaker Wim Wenders produced, by his own estimate, over ten thousand Polaroids while scouting for locations across the US, Germany, and Australia. He talks of having simply forgotten about this collection, a part of which was only recently rediscovered when three thousand were found in several storage boxes. Two hundred of these are now being exhibited in <cite>[Instant Stories. Wim Wenders' Polaroids](https://thephotographersgallery.org.uk/whats-on/exhibitions/wim-wenders-instant-stories)</cite> at The Photographers Gallery, London. As with any show named after an artist there's a temptation to view the work on display as autobiographical, certainly that's the way [some people](http://thequietus.com/articles/23871-wim-wenders-instant-stories-photographers-gallery-review) see it. But despite being able to draw on an entire archive, can we ever know a person through an image?
 
 The Polaroid holds a particular significance for Wenders, in his writing it bears a unique relation to history, different from any other type of photograph. In a sense this is true: unlike photographic prints Polaroids are unique; they cannot be replicated from a negative; they develop instantaneously; the time between action and image is reduced to as little as possible; they emerge in the moment. The Polaroid was popularised through its association with intimacy, the barely concealed temptation of being able to take and develop _private_ photographs in your own home, without the intercession of lab technicians or other lovers. Photographs that in their uniqueness could be kept private, locked in drawers. Wenders often refers to the prints as _image-objects,_ emphasising the sense of touch and possession. He describes warming the developing images with his own body heat, keeping them pressed in his armpit. He conceives of photographs as holding a direct and personal relationship to their subjects. You can read in his words a sense of the Polaroid as exhibiting qualities of an ideal photography,

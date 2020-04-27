@@ -1,26 +1,10 @@
 ---
 title: "✓✓ Read Receipts: Ugliness and Judgement"
-layout: post
-redirect_from:
 cdn-image: uglydesign-pillow
 image_link: https://www.instagram.com/uglydesign/
 image_caption: Photo by @uglydesign
 image_alt: A photo of a 'girlfriend' pillow; a fabric square with a single arm and two breasts.
-article_category:
-publisher:
-
-contributor:
-coverage:
-creator:
-description:
-identifier:
-language:
-relation:
-rights:
-source:
-subject:
 ---
-
 The supermarket I occasionally shop at has started selling *wonky* products, their euphemism for the misshapen unwashed fruit and veg. I prefer these wonky products as they're cheaper, and I really don’t mind if my potatoes are a little muddy. The hatred of the word curation. Supermarkets are one of the most viciously curated modern spaces. They employ invigilators and guards, and entire production lines exist to collect, judge, and sort the work they show. Their arbitration over beauty and taste follows interpretations of national and EU laws that loosely define the bendiness of bananas and the quantity of rat poison in Marmite. When the UK leaves the EU all of this legislation will have to be redefined, we’ll have new British standards of ugliness, of wonkiness, and tastelessness. Of course, the definition of ugliness is linked to degeneracy and inefficiency, the standards by which fascists judge people.
 
 - [@uglydesign](https://www.instagram.com/uglydesign/) on <cite>Instagram</cite>. Even at the time I never understood the aesthetics of the late-90s to 2000s. Typified by the kind of *Chindogu* objects that you found in <cite>The Gadget Shop</cite>; everything seemed to be a gimmick and had to be designed with curves and cheap thick plastic. The prospect of the new millennium meant that everything was spray-painted in silver-effect—my first mobile phone was a silver effect Nokia 3410. It’s upsetting to think that we ought to consider these our Weimar years.

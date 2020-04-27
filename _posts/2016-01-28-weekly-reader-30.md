@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Weekly Reader 30
 cdn-image: emily-baker
 image_link: http://instagram.com/emilyisabaker
 image_alt: A hand holds a cold drink in a plastic cup up to the window of an aeroplane, it resembles William Eggleston's famous image, 'Glass in Airplane'.
 image_caption:
-redirect_from: post/138220647729/weekly-reader-30
 ---
 It was unfortunate that I didn't publish anything last weekend. I tried to, and made numerous drafts, but in the end I realised that, honestly, there was very little of interest that I had read – I was instead too busy with job applications and work – though I did get out to see one of the last screenings of Carol at the <cite>New Cornerhouse</cite>. The past week has been different, I’ve been planning the next few months ahead, and thinking about the travelling and cultural stuff I’d like to get up to. I have a few European city breaks in my head, and clear direction of what I’d like to get done this year.
 

@@ -1,10 +1,8 @@
 ---
-layout: post
 title: Weekly Reader 33
 cdn-image: bfgf
 image_link: https://www.instagram.com/bfgf/
 image_caption: 'Photo by BFGF'
-redirect_from: post/142186699659/weekly-reader-33
 ---
 When I started this new blog at the beginning of 2015 I never really gave myself a strict set of rules, it just kind of happened that the most interesting articles I was reading at the time were _largely_ concerned visual arts stuff. For this list I'm looking back over a lot of web development articles that I've been reading recently. These cover topics and issues that perhaps many cultural practitioners don't get a look in, but which I think might be interesting or useful in some way.
 

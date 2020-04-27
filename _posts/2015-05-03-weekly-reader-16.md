@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Weekly Reader 16
-redirect_from: post/118016720881/weekly-reader-16
 cdn-image: devin-allen
 image_caption: Photo by Devin Allen
 image_link: 'http://instagram.com/bydvnlln'

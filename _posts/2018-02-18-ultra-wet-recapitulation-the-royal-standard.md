@@ -1,29 +1,7 @@
 ---
 title: 'Pyramid schemes at The Royal Standard'
-layout: post
-redirect_from:
 cdn-image: ultra-wet-recapitulation
-image_link:
-image_alt:
-image_caption:
-article_category:
-article_format: review
-publisher: # An entity responsible for making the resource available.
-publisher_issue:
-contributor: # An entity responsible for making contributions to the resource.
-coverage: review  # The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant.
-creator: Jacob Charles Wilson # An entity primarily responsible for making the resource.
-# date: # A point or period of time associated with an event in the lifecycle of the resource.
-description: # An account of the resource.
-format: # The file format, physical medium, or dimensions of the resource.
-identifier: # An unambiguous reference to the resource within a given context. In the context of posts on jacobcharleswilson.com this would be the permalink.
-language: English # A language of the resource.
-relation: # A related resource.
-rights: # Information about rights held in and over the resource.
-source: # A related resource from which the described resource is derived.
-subject: # The topic of the resource. e.g. tags
 ---
-
 Who built the pyramids, and why? For the Ancient Alien theorists pyramids are unique, singular, they are the relics of lost utopias that hide truths and treasures at their cores, accessible only to those who can unravel their mysteries. For others, these questions have already been partially answered. Pyramids have multiple origins and take numerous forms, at Giza they were built by workers as funerary monuments of the pharaohs, at Teotihuacán the pyramids were built as temple platforms with each new structure built successively over an older one. Take a look at a map of Cairo or San Juan Teotihuacán and you'll see the pyramids are not lost to the jungles or sands of time, rather they are a part of the city, they are structures managed by conservative politicians, small-minded officials, and inhuman bureaucracies.
 
 A mirrored pyramid sits at the heart of <cite>[Ultra Wet—Recapitulation](http://the-royal-standard.com/programme/ultra-wet-recapitulation/)</cite> by Tabita Rezaire, <q>a video artist, health-tech-politix practitioner, and Kemetic™ / Kundalini Yoga teacher</q>, currently showing at The Royal Standard, Liverpool. Emanating images of mystery and hidden knowledge, its foiled faces reflect a projected video essay onto the similarly mirrored walls of the small dark gallery space, which according to the artist promises to <q>dig into African and indigenous knowledge and current cybersexual praxis, searching for ways of existing as an autonomous being</q>. It's an exhibition with an enormous scope, that claims to resist and undo a number of binaries, however unfortunately it's also a disjointed, contradictory show that remains riven by binary divisions, unexamined contradictions, and uncritically-accepted concepts.

@@ -1,24 +1,11 @@
 ---
 title: '"They seem to fight to stop each other breathing": Evangelia Kolyra’s 10,000 Litres — Reviewed'
-format: online
-redirect_from: evangelia-kolyra-10000-litres
 cdn-image: evangelia-kolyra-10000-litres
 image_link: http://www.thedoublenegative.co.uk/2017/06/they-seem-to-fight-to-stop-each-other-breathing-10000-litres-reviewed/
 image_alt: A performer stares into the middle distance, behind her, another holds a microphone and puts their hand to her neck.
 image_caption: Evangelia Kolyra, 10,000 Litres, 2017.
-article_category:
-article_format: review
 publisher: The Double Negative
-contributor:
-coverage:
-creator:
-description:
-identifier:
-language:
 relation: http://www.thedoublenegative.co.uk/2017/06/they-seem-to-fight-to-stop-each-other-breathing-10000-litres-reviewed/
-rights:
-source:
-subject:
 ---
 A slightly different review this time - I recently saw choreographer Evangelia Kolyra premiere her new performance, <cite>10,000 Litres</cite> at Rich Mix, London. As I say in the article, despite often writing on photography, it's actually the *processual* quality of artworks that I find most interesting.
 

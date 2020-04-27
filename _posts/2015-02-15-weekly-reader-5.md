@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Weekly Reader 5
 cdn-image: annie-gregoire
 image_link: 'http://instagram.com/annielsg'
 image_caption: Photo by Annie Gregoire
 image_alt: An abstract photo of series of circles on a cloudy red background.
-redirect_from: post/111091077244/weekly-reader-5
 ---
 It may be a bit late to be talking about Valentine's Day but since when was it ever fair to dedicate one day a year to the people who matter? Thankfully I've had no pressing deadlines this weekend, so I took the time to see people, relax, and actually enjoy things. As someone chronically single on the 14th I can confirm that it's the second worst day of the year to be feeling lonely (New Year's Eve takes the top spot), but it ought not to be that way, so against the heteronormativity of V day is this week's reader.
 

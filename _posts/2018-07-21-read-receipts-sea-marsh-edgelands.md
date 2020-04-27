@@ -1,28 +1,9 @@
 ---
 title: '✓✓ Read Receipts: Sea, marsh, edgelands'
-layout: post
-redirect_from:
 cdn-image: joe-pettet-smith-sound
-image_link:
 image_caption: Joe Pettet-Smith
 image_alt: A photograph of a large concrete sound reflector on the southern coast.
-article_category:
-# Dublin Core Metadata
-publisher: # An entity responsible for making the resource available.
-contributor: # An entity responsible for making contributions to the resource.
-coverage: #The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant.
-creator: Jacob Charles Wilson #An entity primarily responsible for making the resource.
-# date: # A point or period of time associated with an event in the lifecycle of the resource.
-description: An listicle of articles and writing about the edgelands of Britain. # An account of the resource.
-format: # The file format, physical medium, or dimensions of the resource.
-identifier: # An unambiguous reference to the resource within a given context.
-language: English # A language of the resource.
-relation: # A related resource.
-rights: # Information about rights held in and over the resource.
-source: # A related resource from which the described resource is derived.
-subject: # The topic of the resource. e.g. tags
 ---
-
 Earlier this week I was talking with my uncle about travelling beyond cities. He lives in London and used to work as a travel writer but made the move further into the suburbs after starting a family. Now the furthest travelling he makes is to the seaside. I was telling him a number of people my age are considering escaping London for the coast—Hastings, Margate, Southend, Whitstable, Falmouth. I don't blame them, I probably would if I could. Perhaps the sense of escape is because the boundless sea is the closest we have in Britain to the horizon of the desert. But, just like entering the desert, moving to the seaside would never truly offer an escape. It would only do so if the rural and coastal areas lacked culture and politics, which the past few years have shown they evidently do not. What different ways can we understand the relation of the coast to the interior?
 
 - <q>No part of England looks so un-English as the fens of Norfolk, Cambridgeshire and Lincolnshire. Dead flat, often below sea level, drained by unerringly straight canals that rise above the black earth, they present epic landscapes, skyscrapers and waterscapes which are closer to the sublime than the picturesque. What does this environment do to the people who live and work there in what seems like a rectilinear factory without a roof?</q> <cite>[Double Dutch](https://vimeo.com/140111754)</cite> by Jonathan Meades. This is my favourite of all Meades' programmes, it presents perfectly the vivisection of surreal landscapes that he carries out across all his films.

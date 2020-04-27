@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Weekly Reader 1
-redirect_from: post/108456817284/weekly-reader-1
 cdn-image: heather-sten
 image_link: 'http://heathersten.tumblr.com/'
 image_caption: By Heather Sten

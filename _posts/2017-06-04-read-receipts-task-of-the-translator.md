@@ -1,25 +1,7 @@
 ---
 title: "✓✓ Read Receipts: The task of the translator"
-layout: post
-redirect_from:
 cdn-image: typewriter-art
-image_link:
-image_caption:
 image_alt: A photograph of a book entitled, Typewriter Art.
-article_category:
-publisher:
-
-contributor:
-coverage:
-creator: Jacob Charles Wilson
-description:
-
-identifier:
-language: English
-relation:
-rights:
-source:
-subject:
 ---
 I recently did an interview with Winfried Heininger for <cite>[Paper Journal](http://paper-journal.com/publishers-series-an-interview-with-kodoji-press/)</cite>, a native German speaker. Throughout our chat he kept apologising for his English, and I had to remind him that it ought to be me apologising–his English is better than my German. It took me years to understand that unless an interview is live on TV or Radio, people are rarely as articulate as they appear in words. The process of transcription, aided by glasses of lager, smooths out the errs and pauses. Fragments become whole, repetition becomes singular. But the result isn't the reduction of language, instead the single piece of writing becomes the hands of many people, the interviewee and interviewer, the sub-editor, the editor. The entire process is one of translation, not simply from German to English, but from spoken to written, and draft to finished piece.
 

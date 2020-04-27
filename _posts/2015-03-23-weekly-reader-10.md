@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Weekly Reader 10
-redirect_from: post/114397696149/weekly-reader-10
 cdn-image: bethany-baker
 image_caption: Photo by Bethany Baker
 image_link: 'https://instagram.com/bakerie/'

@@ -1,25 +1,8 @@
 ---
 title: "✓✓ Read Receipts: Refugee, Migrant, Asylum Seeker"
-layout: post
-redirect_from:
 cdn-image: daniel-castro-garcia-michael
-image_link:
 image_caption: Daniel Castro Garcia, Michael, 2015.
 image_alt: A photo of a young man sat on a chair in the corner of a square room, he sits, relaxed, yet confident, and looks directly out towards the viewer.
-article_category:
-publisher:
-
-contributor:
-coverage:
-creator: Jacob Charles Wilson
-description:
-
-identifier:
-language:
-relation:
-rights:
-source:
-subject:
 ---
 Earlier this week I had an article [published in Frieze](https://frieze.com/article/profile-daniel-castro-garcia) on the photography of [Daniel Castro Garcia](http://www.danielcastrogarcia.com/). When writing the article I was stuck with the terminology to use, the subtle variations in whether someone is a refugee, a migrant, an asylum seeker, or an expat—who gets called what is a judgement determined by social value, wealth, and race. I read that the contemporary legal framework for refugees was designed during the Cold War to enable people we'd now describe as 'dissidents' to move to the West. Refugee status was for skilled workers, businessmen, and politically useful people, it never really designed for those whose homes are deliberately destroyed by Western states, through war or economic 'reform'.
 

@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Weekly Reader 14
-redirect_from: post/116805201209/weekly-reader-14
 cdn-image: bryonie-carolan
 image_caption: Photo by Bryonie Carolan
 image_alt: A bright red parrot stretches its wings.

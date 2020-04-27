@@ -2,7 +2,6 @@
 title: Reframe, Rehang, Reassess
 cdn-image: self-portrait-gregor-samsa
 ---
-
 It's been a long time since I last wrote for this blog. Over the past few months I've been focussed on my paid work, on web design projects, and on learning again to navigate London, which every six months or so becomes a little more challenging. I've moved house a few times this year and each new room gives a chance to reassess how I want to present myself in response to the space, the colours, the landlord-mandated furniture—you can't choose everything. I unpack my drawings and paintings and rehang.
 
 At the same time, I've been thinking about how my work and the wider experience of culture online has changed over the past ten years, those which we could now identify as formative of our current circumstances. In 2007, cultural criticism meant forums, MySpace, even IRC—the iPhone had only just launched. The concept of linked identities was still largely unknown, instead, a multiplicity of handles were used. There was a relative freedom to how work was produced and read, it was rarely bound in a coherent body.

@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Weekly Reader 11
-redirect_from: post/115113057349/weekly-reader-11
 cdn-image: hayley-flynn
 image_caption: Photo by Hayley Flynn
 image_link: 'http://instagram.com/skylinermcr/'

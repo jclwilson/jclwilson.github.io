@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Weekly Reader 25
 cdn-image: laurence-rundell
 image_link: http://instagram.com/instalarry53
 image_alt: A macro photograph of the cracked surface of a painting.
 image_caption: Photo by Laurence Rundell
-redirect_from: post/132466251214/weekly-reader-25
 ---
 I’ve moved back and I’m properly working in Manchester now. I’ve been scoping out cafes to work in and testing coffees and pastries. I’m generally hanging out at <a href="https://twitter.com/northteapower">North Tea Power</a>, so if you fancy coming and grabbing a coffee or working with me, then just drop by.</p>
 - Last month [Novara Media raised 10K in 30 days](https://www.opendemocracy.net/uk/james-butler-adam-ramsay/radical-media-novara10k-and-free-communism-interview-with-james-butler) to support their activities and pay their contributors. I signed up as a subscriber for £3 a month, well worth it.

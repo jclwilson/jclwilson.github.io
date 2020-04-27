@@ -1,26 +1,9 @@
 ---
 title: "✓✓ Read Receipts: Endless war art"
-layout: post
-redirect_from:
 cdn-image: otto-dix-wounded-man
-image_link:
 image_caption: Otto Dix, Wounded Man, 1916.
 image_alt: An etching of a wounded German soldier. The man stares at the viewer and screams in horror. His flesh seems to melt off his body and into the mud.
-article_category:
-article_format:
-publisher:
-contributor:
-coverage:
-creator:
-description:
-identifier:
-language:
-relation:
-rights:
-source:
-subject:
 ---
-
 When does it become apparent that you're in the midst of an endless war? How do you define the start and end, particularly when the fighting is diffuse and irregular. Nobody at the beginning of the <cite>Eighty Years' War</cite> could have understood the immensity of the myriad conflicts that started and stalled for nearly three generations. The collective name we've come to know this series of conflicts by shows that it's only in the aftermath, through the malleable processes of interpretation and creation of texts and art, that war has happened—or not.
 
 - <q>Scranton and his peers occupy the twisting strands of literature and war that we can trace as far back as we’ve bothered to record history. In fact, if we go back far enough, any distinction between the disciplines nearly ceases to exist.</q> <cite>[The Never Ending Book of War](https://lareviewofbooks.org/article/never-ending-book-war/)</cite> in the <cite>LA Review of Books</cite>. When I was first reading on postmodernism I couldn't understand Baudrillard's comment that, <q>the Gulf War did not take place</q>, today I see it as an immensely insightful and desperately necessary interpretation.

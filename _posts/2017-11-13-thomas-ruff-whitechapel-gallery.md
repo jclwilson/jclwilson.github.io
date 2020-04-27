@@ -1,25 +1,8 @@
 ---
 title: 'Thomas Ruff Is Not A Photographer'
-layout: post
-redirect_from:
 cdn-image: thomas-ruff-press
-image_link:
 image_alt: 'A photo of a plane flying upwards through the clouds, the print is overlaid with text and scribbles'
 image_caption: 'Thomas Ruff, press++ 21.11, 2016'
-article_category:
-article_format:
-publisher:
-contributor:
-coverage:
-creator: Jacob Charles Wilson
-description:
-format:
-identifier:
-language: English
-relation:
-rights:
-source:
-subject:
 ---
 Thomas Ruff is everything but a photographer. He hasn't taken a photograph since 2003, instead over the past 15 years he's worked exclusively with found imagery and computer programmes. Yet at the same time, he evidently is a photographer; currently exhibiting some of his work in <cite>Thomas Ruff: Photographs 1979 ‒ 2017</cite> at the Whitechapel Gallery, and he was taught at the Kunstakademie Düsseldorf by the renowned 'New Topographic' photographers Bernd and Hilla Becher. But there’s a discrepancy between Ruff’s conception of photography and that of his teachers; for the Bechers, photography was the act of standing in front of an object and clicking a shutter open. Against this, Ruff’s self-reflexive work tests and pushes the discursive boundaries of practices often described together as photography.
 

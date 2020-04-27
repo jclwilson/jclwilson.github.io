@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Weekly Reader 17
 cdn-image: andrea-sonnenberg
 image_link: https://instagram.com/teenwitchsf/
 image_alt: A photograph of a person standing on a pile of discarded VHS tapes.
 image_caption: Photo by Andrea Sonnenberg
-redirect_from: post/118854827269/weekly-reader-17
 ---
  Last week was pretty miserable, I guess it’s practice for the next 5 years. This week’s links are important contact details for anyone thinking of protesting, marching, or organising, especially given the new laws to be made [expanding the definition of extremism](http://www.theguardian.com/uk-news/2015/may/13/counter-terrorism-bill-extremism-disruption-orders-david-cameron) to <q>causing public disorder, a risk of harassment, alarm or distress</q>. The mass arrests during previous protests and demonstrations show that *everyone* is potentially at risk.
 

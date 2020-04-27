@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Weekly Reader 20
 cdn-image: rebekah-rose-harris
 image_link: http://instagram.com/rebekahroseharris
 image_alt: A photograph of a girl stood in a ruined abbey.
 image_caption: Photo by Rebekah Rose Harris
-redirect_from: post/125167898494/weekly-reader-20
 ---
 Sometimes degraded ruins can be more beautiful than standing structures. It’s been weeks and weeks and weeks since the last post! I was overwhelmed with the dissertation and hand-in, then by a week off in Manchester, then an impromptu trip to a shack in the middle of nowhere in Sicily, then my graduation ceremony and general party times. All the effort was worth it, I got distinctions in all of my work, and graduated from the MA History of Art with Distinction.</p><p>To make up is an extra long list.
 - [#HowIQuitSpin](http://www.slate.com/blogs/browbeat/2015/07/21/_howiquitspin_is_university_of_california_davis_professor_joshua_clover.html), 200 tweet epic detailing Joshua Clover’s decision to quit <cite>Spin</cite> magazine in 2001.

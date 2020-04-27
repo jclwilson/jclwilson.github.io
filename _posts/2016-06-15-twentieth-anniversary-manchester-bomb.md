@@ -1,16 +1,7 @@
 ---
 title: 'Ian Simpson: or How I Learned to Stop Worrying and Love the Bomb'
-date: 2016-06-15 00:00:00 Z
-layout: post
-redirect_from: post/145979271444/twentieth-anniversary-manchester-bomb
 cdn-image: manchester-bomb
-image_link: 
-image_caption: 
-article_category: 
-publisher: 
-
 ---
-
 Today marks twenty years since a one-and-a-half tonne ammonium nitrate and Semtex bomb, the largest such bomb in Great Britain since World War II and the preferred recipe of the Provisional IRA, detonated in Manchester city centre. The bomb was the seventh and final in a series of attacks on the British mainland which started in February 1996 following the breakdown of the 1994 ceasefire.
 
 Early on Saturday the 15th of June 1996, a Ford Cargo lorry was abandoned on Corporation Street between Marks and Spencer and the Arndale centre. An hour before the blast the customary coded phone call was made to Granada Studios. Despite the efforts made to defuse the bomb it detonated at 11:17. The shockwave destroyed close to a third of the city centre, the mushroom cloud soared over the Arndale Centre's 25 story tower, and the blast could be heard up to twelve kilometres away. Of the 80,000 people in the city centre, two hundred and twelve people received injuries, some serious, but mostly walking wounded from glass and debris. Thankfully, there were no deaths.

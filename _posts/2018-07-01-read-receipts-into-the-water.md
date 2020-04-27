@@ -1,26 +1,8 @@
 ---
 title: '✓✓ Read Receipts: Into the water'
-layout: post
-redirect_from:
 cdn-image: dungeness-power-station
-image_link:
-image_caption:
 image_alt: A photograph of Dungeness Power Station
 article_category:
-# Dublin Core Metadata
-publisher: # An entity responsible for making the resource available.
-contributor: # An entity responsible for making contributions to the resource.
-coverage: #The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant.
-creator: Jacob Charles Wilson #An entity primarily responsible for making the resource.
-# date: # A point or period of time associated with an event in the lifecycle of the resource.
-description: A set of links about things in water, swimming, canals, rubbish, and so on. # An account of the resource.
-format: # The file format, physical medium, or dimensions of the resource.
-identifier: # An unambiguous reference to the resource within a given context.
-language: English # A language of the resource.
-relation: # A related resource.
-rights: # Information about rights held in and over the resource.
-source: # A related resource from which the described resource is derived.
-subject: # The topic of the resource. e.g. tags
 ---
 The past few days I've spent a fair bit of time in the water. On Friday I swam twenty lengths in the perfectly ascetic municipal moderne Brockwell Lido, where the concrete floor can scorch your feet after only a few hours of sunlight. Then on Saturday I visited Southend-on-Sea for the launch of the [Radical Essex](https://www.radicalessex.uk/) book, where I had a very muddy splash at the point the Thames estuary meets the sea. Appropriately, I've also been reading and watching things about water.
 

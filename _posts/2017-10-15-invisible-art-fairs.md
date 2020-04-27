@@ -1,27 +1,8 @@
 ---
 title: 'Invisible Art Fairs'
-layout: post
-redirect_from:
 cdn-image: frieze1
-image_link:
 image_alt: 'Two people stand in front of three paintings'
-image_caption: ''
-article_category:
-article_format: story
-publisher:
-contributor:
-coverage:
-creator: Jacob Charles Wilson
-description:
-format:
-identifier:
-language: English
-relation:
-rights:
-source:
-subject:
 ---
-
 When Marco Polo arrived at the court of Kublai Khan, having travelled the art fairs of the boundless empire, he was called to report to the emperor on the magnificence of the work he had seen. But the famed Venetian had no riches, so he could not bring any treasures to the Great Khan, he had only what his tote bag and camera roll could carry. Returning to these blurry pictures and scribbled notes he had to improvise the descriptions of the works he had seen from the cards he hadn't thrown away, scraps of press releases, and some of the other art and culture blogs he followed.
 
 —

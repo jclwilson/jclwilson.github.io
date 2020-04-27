@@ -1,16 +1,8 @@
 ---
 title: Dieter Roth at The Fruitmarket Gallery, Edinburgh
-layout: post
-redirect_from:
 cdn-image: dieter-roth-diaries
-image_link:
-image_caption:
 image_alt: Dieter Roth sits at a table
-article_category:
-publisher:
-
 ---
-
 The Fruitmarket Gallery in Edinburgh is currently a sanctuary away from the intensity of the various summer festivals. Last time I was there I saw Martin Creed's playful exhibition. This year I saw the work of Dieter Roth (1930–1998), a man who saw little separation between art and life, and whose works drew on his own existence. This exhibition, <cite>Dieter Roth: Diaries</cite>, looks at Roth's obsessive cataloguing and recording of his daily activities in books, drawings, paintings, sculptures, assemblages and audio-visual installation pieces. This show is the first time Roth's work has been seen in Scotland since Richard Demarco's exhibition <cite>Strategy Get Art</cite> at the 1970 International Festival.
 
 The entire ground level of the Fruitmarket is filled with 128 Cathode ray TV screens forming Roth's <cite>Solo Scenes</cite> (1997-8). The gentle curve of the installation allowed me to sit and observe every screen at once. In 1997, with knowledge of his impending death, Roth started to videotape nearly every aspect of his life. Each of the 128 screens shows a different video, in which Roth is the sole protagonist. However this isn’t simply a display of narcissism—instead it feels much more voyeuristic. The camera is utterly still, and the videos are almost entirely silent apart from occasional mutterings. Roth is being judged by the viewer as he is seen pottering around, drawing, naked after a shower, and sitting on the toilet.

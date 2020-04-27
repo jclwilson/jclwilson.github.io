@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Weekly Reader 19
 cdn-image:
 image_link: https://instagram.com/deathbycustardcream/
 image_alt: A picture of an Elvis cookbook titled, 'Are you Hungry Tonight'
 image_caption: Photo by Rebecca Travis
-redirect_from: post/119846481749/weekly-reader-19
 ---
 Two weeks left of the MA, I’m writing the last draft of my dissertation at the moment and procrastinating heavily. This weekend I got to <a href="http://offprintlondon.com/">Offprint at Tate Modern</a> and <a href="http://photolondon.org/">Photo London at Somerset House</a>.</p>
 

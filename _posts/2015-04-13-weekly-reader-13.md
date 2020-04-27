@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Weekly Reader 13
-redirect_from: post/116285059694/weekly-reader-13
 cdn-image: fuchsia-macaree
 image_caption: Photo by Fuchsia Macaree
 image_link: 'http://instagram.com/fuchsiamacaree'

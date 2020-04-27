@@ -1,25 +1,7 @@
 ---
 title: "✓✓ Read Receipts: The death of John Berger"
-layout: post
-redirect_from:
 cdn-image: john-berger-portrait
-image_link:
-image_caption: John Berger
-article_category:
-publisher:
-
-contributor:
-coverage:
-creator:
-description:
-identifier:
-language:
-relation:
-rights:
-source:
-subject:
 ---
-
 On the 31st of December one extra second was added to Coordinated Universal Time. This resulted in a number of vital systems breaking as 2016 lingered on ever so slightly longer than they expected. It seemed the year wouldn’t relent.
 
 On the 2nd of January I was reminded of the unwavering passage of time by the death of John Berger, who as an art historian, a writer, and a communist felt particularly close to me—more so than many of the losses of 2016. I wrote my [own short piece](/john-berger) on him, and predictably, this week’s <cite>Read Receipts</cite> include a collection of eulogies to Berger, along with some of his writing.

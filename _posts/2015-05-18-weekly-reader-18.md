@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Weekly Reader 18
 cdn-image: maisie-cousins
 image_link: http://instagram.com/maisiecousins
 image_alt: A photograph of a woman's face covered in snails.
 image_caption: By Maisie Cousins
-redirect_from: post/119268844884/weekly-reader-18
 ---
 Made the most of the sunny Sunday and visited the William Morris Gallery in Walthamstow and made summer plans with friends. Today I’m back in the library working on the dissertation, and hoping that the rain stops soon
  - [<q>I spent the last few months working on a film score, then I got fired. No hard feelings</q>](http://pitchfork.com/news/59538-blood-oranges-dev-hynes-shares-46-minutes-of-unreleased-music/)

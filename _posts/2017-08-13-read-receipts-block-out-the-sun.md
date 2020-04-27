@@ -1,6 +1,5 @@
 ---
 title: "✓✓ Read Receipts: Block out the Sun"
-layout: post
 cdn-image: sky-omens
 image_alt: An early-modern illustration of a sky filled with dragons.
 ---

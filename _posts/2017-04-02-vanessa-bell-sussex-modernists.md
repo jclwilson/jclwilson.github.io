@@ -1,26 +1,9 @@
 ---
 title: 'They lived in squares, painted in circles and loved in triangles: Vanessa Bell & Sussex Modernism'
-layout: post
-redirect_from: vanessa-bell-sussex-modernists
 cdn-image: bell-pond
-image_link:
 image_caption: Vanessa Bell, View of the Pond at Charleston (c.1919)
 image_alt: A colourful painting of a vase, shaped like a feminine torso, on a windowsill overlooking a pond that reflects the trees and the sky.
-article_category:
-publisher:
-
-contributor:
-coverage:
-creator:
-description:
-identifier:
-language:
-relation:
-rights:
-source:
-subject:
 ---
-
 The Bloomsbury Group bridge the unstable gap of the past and the present; between them they represent the radical end of the Victorians and the liberal progenitors of the twentieth century. Their contemporary, the American poet Dorothy Parker, described the amorphous set of friends, partners, and colleagues as having, <q>lived in squares, painted in circles and loved in triangles</q>. It's clear that the group can't be slotted neatly into history but rather they have to be split apart and viewed from multiple angles. Two current exhibitions offer unique perspectives on the Bloomsbury Group and the moment they lived in: <cite>Vanessa Bell</cite> at the [Dulwich Picture Gallery](http://www.dulwichpicturegallery.org.uk/whats-on/exhibitions/2017/february/vanessa-bell-1879-1961/) and <cite>Sussex Modernism: Retreat and Rebellion</cite> at [Two Temple Place](http://twotempleplace.org/exhibitions/2017-2/).
 
 Dulwich places Bell at the centre of the group—it's widely regarded that Bell's <cite>Friday Club</cite> soirées beginning in 1905, along with her brother Thoby Stephen's <cite>Thursday Evenings</cite>, originally brought the group together. The works on display date roughly from 1913 to 1953; Bell is entirely separated from the Victorian era, working in the wake of Roger Fry's Post-Impressionist exhibitions as well as continuing beyond the deaths of her son Julian, her sister Virginia, and end of the group proper. Bell's work is presented thematically, highlighting the variety and extent of her work, while suggesting a progression from abstraction to realism. Prominence is given to the socially tolerant demeanour of Bell and the group—their open relationships, homosexuality, and pacifism—with letters and Bell's own snapshots of gatherings supporting the view of a close-knit bohemian idyll.

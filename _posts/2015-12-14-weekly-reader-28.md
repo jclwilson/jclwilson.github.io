@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Weekly Reader 28
 cdn-image: lisa-sorgini
 image_link: http://instagram.com/lisa.sorgini
 image_alt: A photograph of an empty lawn with a sign reading 'no confetti please'.
 image_caption: Photo by Lisa Sorgini
-redirect_from: post/135180357024/weekly-reader-28
 ---
 A longer update as I haven’t posted in a while. I had a second interview down in London, but it wasn't meant to be. Instead, I got myself a tracksuit and I’ve started running every other morning - starting my new year’s resolutions early. I’m down in London next weekend for pre-xmas socialising, and perhaps a few exhibitions.</p>
 

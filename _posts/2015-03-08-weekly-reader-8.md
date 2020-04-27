@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Weekly Reader 8
-redirect_from: post/113089854299/weekly-reader-8
 cdn-image: louise-eaton
 image_link: https://instagram.com/louise_eaton
 image_caption: Photo by Louise Eaton

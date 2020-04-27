@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Weekly Reader 26
 cdn-image: rebecca-ramsdale
 image_link: https://instagram.com/rebeccaramsdale/
 image_alt: A photograph of a person reading a book on a comfy sofa.
 image_caption: Rebecca Ramsdale
-redirect_from: post/133061929129/weekly-reader-26
 ---
 I went to the <a href="http://cupnorth.co.uk/">Cup North</a> coffee festival over the weekend and picked up a <a href="http://www.workshopcoffee.com/products/gitesi">Workshop Gitesi</a> and a <a href="http://www.horshamcoffeeroaster.co.uk/products/ethiopia-yirgacheffe-gutiti">Horsham Ethiopia Yirgacheffe Gutiti</a>. These powered me through today as I tidied up my bedroom for the first time in 15 years.
 - <q><q>That art stuff of his? It’s not stuff; it’s shit.</q> <q>But it’s art shit. I think it might be worth something. It’s the art world. They have no rules. They can turn a piece of air into a million dollars if they want to.</q> <q>[So, maybe it’s not shit after all](http://www.e-flux.com/journal/stuffed-how-hoarding-and-collecting-is-the-stuff-of-life-and-death/).</q></q>

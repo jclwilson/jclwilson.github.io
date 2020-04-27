@@ -1,27 +1,9 @@
 ---
 title: '✓✓ Read Receipts: Pork fat, triple cream, distended livers'
-layout: post
-redirect_from:
 cdn-image: andrew-lowkes-meat
 image_link: https://www.instagram.com/p/BkH09I4AGxh/
 image_caption: Photo by Andrew Lowkes
 image_alt: A photograph of two aged pieces of meat.
-article_category:
-# Dublin Core Metadata
-publisher: # An entity responsible for making the resource available.
-
-contributor: # An entity responsible for making contributions to the resource.
-coverage: #The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant.
-creator: Jacob Charles Wilson #An entity primarily responsible for making the resource.
-# date: # A point or period of time associated with an event in the lifecycle of the resource.
-description: # An account of the resource.
-format: # The file format, physical medium, or dimensions of the resource.
-identifier: # An unambiguous reference to the resource within a given context.
-language: English # A language of the resource.
-relation: # A related resource.
-rights: # Information about rights held in and over the resource.
-source: # A related resource from which the described resource is derived.
-subject: # The topic of the resource. e.g. tags
 ---
 Anthony Bourdain's death brought with it a series of memories. I realised that I had read his writing, seen his quotes, occasionally seen clips of his TV programmes, but I knew nothing about him. I sat down with these articles, and more, and binged morning to night on a few series of his shows before writing this—the world is a worse place without him.
 

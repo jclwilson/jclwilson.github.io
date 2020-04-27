@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Weekly Reader 22
 cdn-image: sophie-rose
 image_link: https://instagram.com/sophie___rose
 image_alt: A photograph of a blank wall with peeling wallpaper.
 image_caption: Photo by Sophie Rose
-redirect_from: post/128550605239/weekly-reader-22
 ---
 Three weeks ago I was in Edinburgh for a long weekend. I’ve been up every year for the past 12 years or so, so I wasn’t really there for the street performers or naff comedy. I was up there by myself so I took the time to do the things I’d never found time for previously. This next weekend I went to the New Forest for a short break at a friend’s house. Swam in the nearby river and relaxed in the hot tub. The past weekend, I helped my friend move house, and made the most of the last sunny Sunday of the year by barbequeing some sea bass.</p>
 

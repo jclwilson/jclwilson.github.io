@@ -1,25 +1,7 @@
 ---
 title: "✓✓ Read Receipts: We will all go together when we go"
-layout: post
-redirect_from:
 cdn-image: atom-bomb-viewers
-image_link:
-image_caption:
 image_alt: A row of men wearing welders' masks sit in deck chairs, looking very relaxed.
-article_category:
-publisher:
-
-contributor:
-coverage:
-creator: Jacob Charles Wilson
-description:
-
-identifier:
-language:
-relation:
-rights:
-source:
-subject:
 ---
 <q>Well, when I was your age we had to worry about nuclear war!</q>the setup to a dark joke about the fears and anxiety facing millenials, and I'm certain my own parents once said the same. I spent much of the past week reading the 7th of August 1945 issue of the <cite>New York Times</cite>, the edition published just hours after the bombing of Hiroshima. Most of the stories are dedicated to the bomb, with a requisite degree of scientific abstraction, confusion over what actually happened, and military propaganda.
 

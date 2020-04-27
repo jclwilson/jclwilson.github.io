@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Weekly Reader 23
 cdn-image: law-magazine
 image_link: http://instagram.com/Law_Magazine
 image_alt: A blurry photograph of parakeets in flight
 image_caption: Photo by Law Magazine
-redirect_from: post/130139049484/weekly-reader-23
 ---
 Officially Autumn, though the weather is holding out - it’s sunny and brisk today, and I spent Saturday in the park. On Sunday I accepted the cold and baked a few cakes - a carrot and honey cake from Hugh Fearnley-Whittingstall’s recipe, and a banana loaf from Nigella.
 - It was my birthday earlier this month, everyone was so thoughtful and selfless. A few of my friends gave me an original artwork by [illustrator Faye Moorhouse](http://www.fayemoorhouse.co.uk/), whose sloppy animals and ugly people are perfect.

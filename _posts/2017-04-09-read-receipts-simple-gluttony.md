@@ -1,26 +1,10 @@
 ---
 title: "✓✓ Read Receipts: Simple gluttony"
-layout: post
-redirect_from:
 cdn-image: simple-gluttony
 image_link: https://www.instagram.com/p/BSZC9ZYFuT_/
 image_caption: Photo by Bon Appetit
 image_alt: A photograph of a soft fried egg, slightly crisped at the edges.
-article_category:
-publisher:
-
-contributor:
-coverage:
-creator:
-description:
-identifier:
-language:
-relation:
-rights:
-source:
-subject:
 ---
-
 The past month has been good for cooking. This is despite using the most inefficient gas oven ever—it only appears to have two settings, off and warm. A while back I made roast pork loin for the coming week. The pork remained soft and juicy while the crackling was firm and crisp, speckled with the perfect amount of fennel, salt, and black pepper—nothing else. Later on, I got round to making my first ever loaf of bread. The proofing and the baking took twice as long due to my cold house and cold oven, but it was worth it. My flatmates and I ate most of it with salt and butter and oil and jam and Marmite. I saved a few slices to turn into pork sandwiches.
 
 - <q>Pig—let me speak his praise—is no less provocative of the appetite, than he is satisfactory to the criticalness of the censorious palate. The strong man may batten on him, and the weakling refuseth not his mild juices.</q> <cite>[A Dissertation upon Roast Pig](http://www.gutenberg.org/files/43566/43566-h/43566-h.htm)</cite> by Charles Lamb. Recently, I’ve been reading more essays on food than on art. This classic one by Charles Lamb describes the Chinese origin story of cooking, which begins with roast pork. The humble origins, in a peasant’s burning house, creates the food enjoyed most by all.

@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Weekly Reader 15
-redirect_from: post/117594243459/weekly-reader-15
 cdn-image: ian-kenneth-bird
 image_caption: Photo by Ian Kenneth Bird
 image_link: 'http://instagram.com/ikbird'

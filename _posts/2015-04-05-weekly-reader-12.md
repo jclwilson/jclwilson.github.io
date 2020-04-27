@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Weekly Reader 12
 cdn-image: lee-chang-ming
 image_link: https://instagram.com/eelchangming
 image_caption: 'Photo by Lee Chang Ming'
 image_alt: A blurry photo of fireworks in the night sky
-redirect_from: post/115591263909/weekly-reader-12
 ---
 I've taken a week out in Manchester. Currently making the most of the unseasonal sun and walking in the hills around Saltersford. This week I've kept the list short and on topic for April Fools Day and the life and death of Easter.
 

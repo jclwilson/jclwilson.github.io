@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Weekly Reader 4
 cdn-image: emily-maye
 image_link: 'http://instagram.com/emilymaye'
 image_caption: 'Photo, Emily Maye'
 image_alt: A row of people sit in chairs around a fountain, it looks like it could be in Paris.
-redirect_from: post/110435555144/weekly-reader-4
 ---
 I've had a crappy week. The illness continues. I went to the doctor's and unexpectedly ended up spending the rest of the day in hospital having blood tests and chest x-rays. I'm still writing the essay. I have an extension on the grounds I've spent most of the week lying in bed wheezing. While playing about with my laptop I managed to wipe all the data from my browser. No more bookmarks, no apps, no history. About the only good thing that happened this week is that in the course of research I read a Daoist proverb on butchering oxen and dealing with difficulties.
 - ["Whenever I come to a complicated place, I size up the difficulties, tell myself to watch out and be careful, keep my eyes on what I'm doing, work very slowly, and move the knife with the greatest subtlety."](http://www.bopsecrets.org/gateway/passages/chuang-tzu.htm)

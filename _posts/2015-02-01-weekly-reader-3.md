@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Weekly Reader 3
 cdn-image: syed-abbas
 image_link: 'http://instagram.com/dapper_kid'
 image_caption: 'Photo, Syed Abbas'
 image_alt: A photograph of a  hand stroking the head of a black cat.
-redirect_from: post/109807349124/weekly-reader-3
 ---
 Somehow I've managed to spend another week entirely consumed by illness and essay writing - thankfully I have a doctor's appointment, and the deadline is this Friday. Perhaps because of my health, the weather, or the fact all my current research is on blandness and banality, there's somewhat of a mundane theme in the links this week.
 

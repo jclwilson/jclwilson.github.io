@@ -1,26 +1,7 @@
 ---
 title: 'Aeration, transplantation, propagation: The Plant Issue 12'
-format:
-redirect_from:
 cdn-image: the-plant-issue-12
-image_link:
 image_alt: The cover of issue 12 of The Plant Magazine
-image_caption:
-article_category:
-article_format: review
-publisher:
-publisher_issue:
-contributor: # An entity responsible for making contributions to the resource.
-coverage: # The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant.
-creator: Jacob Charles Wilson # An entity primarily responsible for making the resource.
-# date: # A point or period of time associated with an event in the lifecycle of the resource. This is blanked out because otherwise it will override the default publication date.
-description: # An account of the resource.
-identifier: # An unambiguous reference to the resource within a given context.
-language: English # A language of the resource.
-relation: # A related resource. In the case of link posts, this is the URL of the canonical article.
-rights: # Information about rights held in and over the resource.
-source: # A related resource from which the described resource is derived.
-subject: # The topic of the resource. e.g. tags
 ---
 Last week I made the trip out east to the new [Claire de Rouen](http://clairederouenbooks.com/) shop in Bethnal Green for the launch of issue 12 of <cite>[The Plant](http://theplantmagazine.com/)</cite>—one of my favourite independent publications, and one which I've had the privilege of [contributing to](https://jacobcharleswilson.com/sun-sea-algae-anna-atkins-the-plant-online). In recent years I've seen a change in my magazine tastes, partly due to lack of money and lack of space. I've turned away from larger publications, resembling small books in physical size, and become more interested in smaller cheaper publications—<cite>PICPUS</cite>, the <cite>[LRB](https://www.lrb.co.uk)</cite>, <cite>[Real Review](https://real-review.org/)</cite>—the type you can roll up, stuff into a bag, rip pages out of and scribble on without feeling as though you're somehow destroying them. <cite>The Plant</cite> is an exception, it feels as though this publication deserves something a little more permanent, more firmly rooted.
 

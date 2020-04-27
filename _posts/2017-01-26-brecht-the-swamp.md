@@ -1,25 +1,7 @@
 ---
 title: 'And a drowning was not over in a single morning: Brecht, The Swamp'
-layout: post
-redirect_from:
 cdn-image: tollund-man
-image_link:
-image_caption:
-article_category:
-publisher:
-
-contributor:
-coverage:
-creator:
-description:
-identifier:
-language:
-relation:
-rights:
-source:
-subject:
 ---
-
 <p>I beheld many friends, and the friend I loved the most,<br/>
 helplessly sink into the swamp<br/>
 I pass by daily.</p>

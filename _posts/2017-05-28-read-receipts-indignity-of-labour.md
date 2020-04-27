@@ -1,24 +1,8 @@
 ---
 title: "✓✓ Read Receipts: The indignity of labour"
-layout: post
-redirect_from:
 cdn-image: rodchenko-club
-image_link:
 image_caption: Alexander Rodchenko's workers' club, at the V-A-C Foundation, Venice.
 image_alt: The interior of the workers' club designed by the Soviet constructivist Alexander Rodchenko.
-article_category:
-publisher:
-
-contributor:
-coverage:
-creator:
-description:
-identifier:
-language:
-relation:
-rights:
-source:
-subject:
 ---
 For William Morris, labour itself was the source of human dignity as much as the source of material wealth. The problem as Morris saw it was that people were forced into undignified work. In his utopian novel <cite>News from Nowhere</cite> people approach work more as play than production—the joy of goldsmithing is its own reward, the belt buckle is merely a happy accident. There's a certain way I hold myself to this; I want to enjoy the work I do while using work as the means to judge myself. I struggle to remind myself of the indignity of labour. The development of the precariat economy over recent years has used the language of dignity and play to dissolve the differences between work and leisure. We shouldn't be demanding more dignified work, but less work—more play.
 

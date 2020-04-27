@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Weekly Reader 27
 cdn-image: darragh-mccaus
 image_link: https://www.instagram.com/darraghmccaus/
 image_alt: A photograph of a tree at dusk
 image_caption:  Photo by Darragh McCaus
-redirect_from: post/133788996659/weekly-reader-27
 ---
 Last week I was in London for an interview, I passed the first round, and I’ll be back there on the 3rd of December for the last round.
 

@@ -1,32 +1,14 @@
 ---
 title: 'Sun, Sea, Algae'
-format: print
-redirect_from:
 cdn-image: anna-atkins-seaweed
-image_link:
 image_alt: A white silhouette of a frond of seaweed, laid against a deep blue background. The paper is a little old.
 image_caption: 'Anna Atkins, Cystoseira fibrosa, 1843.'
-article_category:
-article_format: article
 publisher: The Plant # An entity responsible for making the resource available.
 publisher_issue: issue 11
-contributor: # An entity responsible for making contributions to the resource.
-coverage: # The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant.
-creator: Jacob Charles Wilson # An entity primarily responsible for making the resource.
-# date: # A point or period of time associated with an event in the lifecycle of the resource. This is blanked out because otherwise it will override the default publication date.
-description: "A profile of the Victorian photographer and biologist Anna Atkins" # An account of the resource.
-identifier: # An unambiguous reference to the resource within a given context.
-language: English # A language of the resource.
 relation: http://theplantmagazine.com # A related resource. In the case of link posts, this is the URL of the canonical article.
-rights: # Information about rights held in and over the resource.
-source: # A related resource from which the described resource is derived.
-subject: # The topic of the resource. e.g. tags
 ---
-
 The photographer Anna Atkins was born 219 years ago on the 16th of March, 1799. It was around this time last year that I wrote on her seaweed cyanotype photographs for <cite>[The Plant](http://theplantmagazine.com)</cite>. To mark the occasion, and to celebrate the launch of the latest issue of the magazine, I've posted the full article below.
-
 ------
-
 The British coast is hardly the French Riviera. Where the rolling green-blue seas meet the stony shores the skies are damp, and more often than not dark, overcast and grey. Thankfully in these primordial conditions algae, of which seaweed is a type, thrives. Surrounding these shores are myriad varieties­—from the long and broad fronds of kelp, to the wisp-like slimy whip-weed and forked prongs of black carrageen—intricate plant-like organisms that nutrify the water and bring colour and vitality to the seas and rock pools. It was in conditions like these that early photography grew. It’s history is one entwined with seaweed, the wet processes of development, with practitioners caked in chemical salts, handling delicate membranes of glass and paper, their art plunged into the murk of the darkroom.
 
 Anna Atkins was a photographic pioneer, recognised today as the producer of the first photo book: her self-published <cite>Photographs of British Algae: Cyanotype Impressions</cite> (1843). Born in Tonbridge, Kent, in 1799, she was, unusually for a woman of the period, taught chemistry and biology by her father, and thrived in the lively scientific milieu that enveloped her. The daguerreotype, the first modern photographic process, was published in 1839, the same year William Henry Fox Talbot himself taught her his calotype process. In 1842, John Herschel, another close contact, invented the cyanotype, better known today as the blueprint.

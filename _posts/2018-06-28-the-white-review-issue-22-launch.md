@@ -3,7 +3,6 @@ title: "The White Review: Issue 22"
 cdn-image: the-white-review-22
 image_alt: The cover of The White Review issue 22.
 ---
-
 For the fourth year in a row the annual <cite>[White Review](http://www.thewhitereview.org)</cite> and <cite>[n+1](https://nplusonemag.com/)</cite> magazine launch party was held at Bold Tendencies. The round room, one level below the upper concrete deck, induces a very real sense of a literary salon—not simply a space to hear readings, but to watch who's coming and going, who sits where, and who wears what. This year following several weeks of heatwave the small, enclosed space was unbearably hot, so hot that the readings had to be shortened. While this may have been a kind gesture to those who were sweltering or wished to catch the end of the England vs. Belgium game, to my mind they were a little _too_ short. I would have happily sweated to hear more.
 
 On the night, <cite>n+1</cite> was represented by writers David Wingrave and Jill Crawford; <cite>The White Review</cite> by Sophie Robinson, whose poems featured in issue 19; Chloe Aridjis, who read an extract from her upcoming <cite>Sea Monsters</cite> (also extracted in the latest issue); Lucy Mercer, the winner of the publication's inaugural poetry prize in 2017; and Julia Bell, author of <cite>Really Techno</cite>, <q>the closest thing we've ever had to <q>going viral</q></q>. As the crowd filtered out to the bar I picked up a copy of the <cite>Review</cite>, to spend the next morning at the even hotter Brockwell Lido reading between swimming laps and scorching my back.

@@ -1,15 +1,7 @@
 ---
 title: Weekly Reader → ✓✓ Read Receipts
-date: 2016-12-04 00:00:00 Z
-layout: post
 cdn-image: interpersonal-behaviour
-image_link:
-image_caption:
-article_category:
-  - Weekly Reader
-  - Read Receipts
 ---
-
 I had to rethink the <cite>Weekly Reader</cite>—this was at the forefront of my mind while I was considering [how this blog frames culture](/reframe-rehang-reassess)—I never really liked the name but I ended up using it because it's simple and vaguely descriptive. But, it came to a point where my reticence to post was partly down to an irritation with <cite>'Weekly Reader'</cite>—what was the point of putting effort into a post only to hide it behind a dull title?
 
 My relationship to the blog came to feel like a friend I'd left on read receipts. I've done it with people. People do it with me. It's a state of existence that's perhaps unique in history; knowing that they know that you know… _et cetera_. I enjoy writing. I meant to update the blog. I was still reading every day, I drafted posts, I always meant to publish. But, for one reason or another, I didn't get around to it. Soon, the cycle of anxious failure to send surrounds you and merges with bills and emails and applications. So—it's now <cite>✓✓ Read Receipts</cite>. It's a little more interesting, and it reflects the fact that sometimes I get distracted, or forget, or can't think what to say.
