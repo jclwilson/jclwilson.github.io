@@ -13,7 +13,7 @@ layout: default
                     {% assign date = currentdate %}
         {% endif %}
         <li class="index__item">
-            <a class="post__link" title=">{{ post.title | xml_escape }}" href="{{ post.url }}">{{ post.title }}</a>
+            <a class="post__link" title="{{ post.title | xml_escape }}" href="{{ post.url }}">{{ post.title }}</a>
             {% if post.publisher %}
                 <span> for</span>
                 <cite class="post__publisher">
