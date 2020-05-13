@@ -2,5 +2,5 @@ _site
 .jekyll-metadata
 .jekyll-cache
 _drafts
-assets/cdn
+assets
 .sass-cache
