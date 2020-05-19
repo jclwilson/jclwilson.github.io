@@ -26,12 +26,13 @@ layout: null
 			<id>{{ site.url }}{{ post.url }}</id>
 			<title>{{ post.title | xml_escape }}</title>
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
+            <published>{{ post.date | date_to_xmlschema }}</published>
 			{% if post.category %}<category term="{{ post.category | xml_escape }}"/>{% endif %}
 			<content type="html">
 				{{ post.content | xml_escape }}
-				{% if post.relation %}<p><a href="{{ post.relation }}" rel="related" title="Published by {{ post.publisher | xml_escape }}">Published by {{ post.publisher | xml_escape }}</a></p>{% endif %}
+				{% if post.relation %}<p><a href="{{ post.relation }}" rel="related" title="{{ post.title | xm_escape }} was published by {{ post.publisher | xml_escape }}">{{ post.title | xml_escape }} was published by {{ post.publisher | xml_escape }}</a></p>{% endif %}
 			</content>
-			{% if post.relation %}<link href="{{ post.relation }}" rel="related" title="Published by {{ post.publisher | xml_escape }}"/>{% endif %}
+			{% if post.relation %}<link href="{{ post.relation }}" rel="related" title="{{ post.title | xml_escape }} was published by {{ post.publisher | xml_escape }}"/>{% endif %}
 			<link href="{{ site.url }}{{ post.url }}" rel="alternative" title="{{ post.title | xml_escape }}"/>
 		</entry>
 	{% endfor %}
