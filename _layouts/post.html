@@ -3,6 +3,8 @@ layout: default
 ---
 <article class="post">
     <header class="post__header">
+    <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}">
+		<a rel="bookmark" class="post__link" title="{{ page.title | xml_escape }}" href="{{ page.url }}">{{ page.date | date_to_long_string }}</a></time>
 	<h1 class="post__title">
 		<a rel="bookmark" class="post__link" title="{{ page.title | xml_escape }}" href="{{ page.url }}">{{ page.title }}</a>
 	</h1>{% if page.publisher %} for

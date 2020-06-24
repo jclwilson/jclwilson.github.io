@@ -20,6 +20,10 @@ a {
     color: #0000EE; 
 }
 
+time {
+    display:block;
+}
+
 blockquote, q {
     quotes: "\0027" "\0027" "\0022" "\0022";
 }
