@@ -3,8 +3,6 @@ layout: default
 ---
 <article class="post">
     <header class="post__header">
-    <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}">
-		<a rel="bookmark" class="post__link" title="{{ page.title | xml_escape }}" href="{{ page.url }}">{{ page.date | date_to_long_string }}</a></time>
 	<h1 class="post__title">
 		<a rel="bookmark" class="post__link" title="{{ page.title | xml_escape }}" href="{{ page.url }}">{{ page.title }}</a>
 	</h1>{% if page.publisher %} for
@@ -36,6 +34,11 @@ layout: default
         {{ content }}
 		{% if page.publisher %}<aside>{% if page.relation %}<a rel="external" href="{{ page.relation }}" title="{{ page.title | xml_escape }}">{% endif %}<cite>{{ page.title }}</cite>{% if page.relation %}</a>{% endif %} is published {% if page.publisher_issue %} in {{ page.publisher_issue }} of {% else %} by {% endif %}{% if page.relation %}<a rel="external" href="{{ page.relation }}" title="{{ page.title | xml_escape }}">{% endif %}<cite>{{ page.publisher }}</cite>{% if page.relation %}</a>{% endif %}.</aside>{% endif %}
     </section>
+    <footer>
+        <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}">
+	    	<a rel="bookmark" class="post__link" title="{{ page.title | xml_escape }}" href="{{ page.url }}">{{ page.date | date_to_long_string }}</a>
+        </time>
+    </footer>
 </article>
 {% if page.latest_content %}
 	{% include latest_content.html %}
