@@ -1,9 +1,27 @@
+:root {
+    --primary-colour: #EEEEEE;
+    --secondary-colour: #111111;
+    --tertiary-colour: #0000EE;
+}
+
+@media (prefers-color-scheme: dark) {
+    --primary-colour: #111111; 
+    --secondary-colour: #EEEEEE;
+}
+
 body {
     font-family: arial, sans-serif, monospace;
     font-size:1.1em;
     margin:0;
     padding:1em;
+    background-color: var(--primary-color);
+    color: var(--secondary-colour);
 }
+
+a {
+    color: var(--tertiary-colour);
+}
+
 
 h1, h2, h3, p {
     font-size:inherit;
@@ -14,10 +32,6 @@ h1, h2, h3, p {
 a, cite, em, i, .underline {
     font-style: normal;
     text-decoration: underline;
-}
-
-a {
-    color: #0000EE; 
 }
 
 time {
@@ -57,7 +71,7 @@ button {
     border:none;
     font-size:inherit;
     font-family:inherit;
-    color:#0000EE;
+    color: var(--tertiary-colour);
     padding:0;
     text-decoration: underline;
     background-color: inherit;
@@ -116,8 +130,8 @@ header ul, main ul, footer ul {
 }
 
 :focus, a:hover, button:hover, ::selection {
-    color:white;
-    background-color:#0000EE;
+    color: var(--primary-colour);
+    background-color: var(--tertiary-colour);
 }
 
 .no-show {
