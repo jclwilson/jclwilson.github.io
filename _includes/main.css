@@ -5,9 +5,11 @@
 }
 
 @media (prefers-color-scheme: dark) {
-    --primary-colour: #111111; 
-    --secondary-colour: #FFFFFF;
-    --tertiary-colour: #FFFFFF;
+    :root {
+        --primary-colour: #111111; 
+        --secondary-colour: #FFFFFF;
+        --tertiary-colour: #FFFFFF;
+    }
 }
 
 body {
