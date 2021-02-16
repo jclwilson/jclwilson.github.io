@@ -2,23 +2,23 @@
 layout: default
 ---
 <h2 class="no-show">Articles</h2>
-<ul class="index">
+<ul>
     {% for post in site.posts %}
         {% assign currentdate = post.date | date: "%Y" %}
         {% if currentdate != date %}
             {% unless forloop.first %}</ul></li>{% endunless %}
-            <li class="index__item">
-                <h3 class="post__date">{{ currentdate }}</h3>
-                <ul class="index">
+            <li>
+                <h3>{{ currentdate }}</h3>
+                <ul>
                     {% assign date = currentdate %}
         {% endif %}
-        <li class="index__item">
-            <a class="post__link" title="{{ post.title | xml_escape }}" href="{{ post.url }}">{{ post.title }}</a>
+        <li> 
+            <a title="{{ post.title | xml_escape }}" href="{{ post.url }}">{{ post.title }}</a>
             {% if post.publisher %}
                 <span> for</span>
-                <cite class="post__publisher">
+                <cite>
                 {% if post.relation %}
-                    <a class="post__publisher-link" rel="external" title="{{ post.publisher | xml_escape }}" href="{{ post.relation }}">
+                    <a rel="external" title="{{ post.publisher | xml_escape }}" href="{{ post.relation }}">
                     {% endif %}
                     {{ post.publisher }}
                 {% if post.relation %}</a>{% endif %}

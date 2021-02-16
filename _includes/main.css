@@ -67,19 +67,19 @@ button:hover {
     cursor: pointer;
 }
 
-.header, .index__item, .post, .post__header, .post__lead, .post__image, .latest-posts__title, p {
+header, article, main ul li, figure, p {
     margin-bottom: 1em;
 }
 
-.header__title, .menu {
+header h1 {
+    display:inline;
+}
+
+header h1, header ul {
     margin:0;
 }
 
-.post__title {
-    display: inline;
-}
-
-.menu, .footer__menu, .index {
+header ul, main ul, footer ul {
     list-style-type: none;
     margin-left: 0;
     padding-left: 0;
@@ -92,7 +92,7 @@ button:hover {
 }
 
 @media screen and (min-width: 60em) {
-    .post__lead {
+    figure {
         width: 33%;
         margin-left: auto;
         margin-right: auto;

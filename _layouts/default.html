@@ -5,43 +5,41 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+            {% include main.css %}
+		</style>
         {% seo %}
         <link rel="icon" href="/favicon-32x32.png">
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
         <link rel="manifest" href="/site.webmanifest">
         <link type="application/atom+xml" rel="alternate" href="https://jacobcharleswilson.com/feed.xml" title="Jacob Charles Wilson - Atom Feed">
-        <style>
-            {% include main.css %}
-		</style>
 	</head>
 	<body id="top">
-		<header class="header">
-			<h1 class="header__title"><a href="{{ site.url }}">Jacob Charles Wilson</a></h1>
+		<header>
+			<h1><a href="{{ site.url }}">Jacob Charles Wilson</a></h1>
 			<h2 class="no-show">Contact</h2>
-			<ul class="menu">
+			<ul>
 				{% if site.author.email %}
-					<li class="menu__item"><a rel="author" title="{{ site.author.email | xml_escape }}" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+					<li><a rel="author" title="{{ site.author.email | xml_escape }}" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
 				{% endif %}
 				{% if site.author.twitter %}
-					<li class="menu__item"><a rel="external" title="{{ site.author.twitter | xml_escape }}" href="http://twitter.com/{{ site.author.twitter }}">{{ site.author.twitter | prepend: '@' }}</a></li>
+					<li><a rel="external" title="{{ site.author.twitter | xml_escape }}" href="http://twitter.com/{{ site.author.twitter }}">{{ site.author.twitter | prepend: '@' }}</a></li>
 				{% endif %}
-					<li class="menu__item no-print"><a href="/about" title="About">About</a></li>
+				<li no-print"><a href="/about" title="About">About</a></li>
 			</ul>
 		</header>
-		<main class="main">
+		<main>
 			{{ content }}
 		</main>
-		<footer class="footer no-print">
-			<nav class="footer__nav">
-				<ul class="footer__menu">
-					<li class="footer__menu__item">
-						<button onclick="window.print();">Print page</button>
-					</li>
-					<li class="menu__item">
-						<a title="Back to top" href="#top">Back to top</a>
-					</li>
-				</ul>
-			</nav>
+		<footer class="no-print">
+			<ul>
+				<li>
+					<button onclick="window.print();">Print page</button>
+				</li>
+				<li>
+					<a title="Back to top" href="#top">Back to top</a>
+				</li>
+			</ul>
 		</footer>
 		{% include reframe.js %}
 		{% include sw.js %}
