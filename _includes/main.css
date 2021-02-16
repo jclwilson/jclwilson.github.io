@@ -117,16 +117,21 @@ blockquote p:after {
 }
 
 @media print {
+    body {
+        color:black;
+        background: none;
+    }
+
     img {
         width: 33%;
         margin-left: auto;
         margin-right: auto;
     }
-    
-    .print-link:after {
-        content:" (" attr(href) ") ";
-    }
 
+    article p a[href^=http]:after {
+        content:" <" attr(href) "> ";
+    }
+    
     .no-print {
         display: none;
     }
