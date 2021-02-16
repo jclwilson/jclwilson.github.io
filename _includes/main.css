@@ -39,18 +39,6 @@ time {
     display:block;
 }
 
-blockquote, q {
-    quotes: "\0027" "\0027" "\0022" "\0022";
-}
-
-blockquote p:before {
-    content: open-quote;
-}
-
-blockquote p:after {
-    content: close-quote;
-}
-
 figure {
     margin:0;
 }
@@ -98,6 +86,19 @@ header ul, main ul, footer ul {
     margin-left: 0;
     padding-left: 0;
 }
+
+blockquote, q {
+    quotes: "\0027" "\0027" "\0022" "\0022";
+}
+
+blockquote p:before {
+    content: open-quote;
+}
+
+blockquote p:after {
+    content: close-quote;
+}
+
 
 @media screen and (min-width: 30em) {
     body {
