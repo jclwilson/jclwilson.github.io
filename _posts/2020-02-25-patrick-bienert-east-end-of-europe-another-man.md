@@ -1,7 +1,7 @@
 ---
 title: "Photographer Patrick Bienert's Powerful Portrait of a Changing Georgia"
 publisher: Another Man
-cdn-image: patrick-biernert-georgia 
+cdn-image: patrick-bienert-georgia 
 image-alt: A young kid plays in the street with a toy sub-machinegun
 image_link: https://www.anothermanmag.com/life-culture/11132/patrick-bienert-east-end-of-europe-georgia-kahl-editions-interview 
 relation: https://www.anothermanmag.com/life-culture/11132/patrick-bienert-east-end-of-europe-georgia-kahl-editions-interview
