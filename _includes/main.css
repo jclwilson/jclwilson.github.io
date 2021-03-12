@@ -73,7 +73,7 @@ button:hover {
     cursor: pointer;
 }
 
-header, article, main ul li, figure, p {
+header, article, main ul li, figure, p, iframe {
     margin-bottom: 1em;
 }
 
