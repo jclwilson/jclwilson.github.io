@@ -4,6 +4,7 @@
     --tertiary-colour: #0000EE;
 }
 
+/*
 @media (prefers-color-scheme: dark) {
     :root {
         --primary-colour: #111111; 
@@ -11,6 +12,7 @@
         --tertiary-colour: #FFFFFF;
     }
 }
+*/
 
 body {
     font-family: arial, sans-serif, monospace;
