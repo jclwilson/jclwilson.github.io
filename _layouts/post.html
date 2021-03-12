@@ -32,11 +32,13 @@ layout: default
 	{% endif %}
         {{ content }}
 		{% if page.publisher %}<aside>{% if page.relation %}<a rel="external" href="{{ page.relation }}" title="{{ page.title | xml_escape }}">{% endif %}<cite>{{ page.title }}</cite>{% if page.relation %}</a>{% endif %} is published {% if page.publisher_issue %} in {{ page.publisher_issue }} of {% else %} by {% endif %}{% if page.relation %}<a rel="external" href="{{ page.relation }}" title="{{ page.title | xml_escape }}">{% endif %}<cite>{{ page.publisher }}</cite>{% if page.relation %}</a>{% endif %}.</aside>{% endif %}
-    <footer>
-        <time datetime="{{ page.date | date_to_xmlschema }}">
-            <a rel="bookmark" title="{{ page.title | xml_escape }}" href="{{ page.url }}">{{ page.date | date_to_long_string }}</a>
-        </time>
-    </footer>
+    {% if page.date %}
+        <footer>
+            <time datetime="{{ page.date | date_to_xmlschema }}">
+                <a rel="bookmark" title="{{ page.title | xml_escape }}" href="{{ page.url }}">{{ page.date | date_to_long_string }}</a>
+            </time>
+        </footer>
+    {% endif %}
 </article>
 {% if page.latest_content %}
 	{% include latest_content.html %}
