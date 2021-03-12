@@ -20,4 +20,4 @@ This aesthetic permeability went hand in hand with the economic and social perme
 
 About fifteen years after the start of this too literal Shock Doctrine Owen Hatherley judged Manchester as the model of, <q>regeneration in its purest, least botched form</q>. Around the same time I travelled back to Manchester and noticed on arrival that the city had actually installed a number of bins while simultaneously cutting the street cleaners, with the result that litter covered the streets and collected in puddles. Architecture is cheaper than people when you’re in the business of regenerating cities.
 
-<iframe id="youtube_iframe" src="https://www.youtube.com/embed/zkHOVJINRD8" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zkHOVJINRD8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
