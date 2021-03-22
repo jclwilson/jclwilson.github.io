@@ -17,13 +17,9 @@ layout: default
 				   <img src="{{ site.cdn_url | xml_escape }}jpg/{{ page.cdn-image }}.jpg" alt="{{ page.image_alt | xml_escape }}" />
 				</picture>
 			{% if page.image_link %}</a>{% endif %}
-			{% if page.image_caption %}
-				<figcaption>
-					{% if page.image_link %}<a href="{{ page.image_link | xml_escape }}">{% endif %}
-						{{ page.image_caption }}
-					{% if page.image_link %}</a>{% endif %}
-				</figcaption>
-		    	{% endif %}
+            {% if page.image_caption %}
+                <figcaption>{{ page.image_caption }}</figcaption>
+            {% endif %}
 		</figure>
 	{% endif %}
         {{ content }}
