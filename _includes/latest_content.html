@@ -1,18 +1,14 @@
 <aside class="no-print">
-        <h2 class="underline">Latest posts</h2>
-        <ul>
-                {% for page in site.posts limit: 10 %}
-                        <li>
-                            <a title="{{ page.title | xml_escape }}" href="{{ page.url | xml_escape }}">{{ page.title }}</a>
-                                {% if page.publisher %} for
-                                        <cite>
-                                                {% if page.relation %}<a rel="external" title="Article on {{ page.publisher | xml_escape }}" href="{{ page.relation | xml_escape }}">{% endif %}
-                                                        {{ page.publisher }}
-                                                {% if page.relation %}</a>{% endif %}
-                                        </cite>
-                                {% endif %}
-                        </li>
-                {% endfor %}
-        </ul>
+    <h2 class="underline">Latest posts</h2>
+    <ul>
+        {% for page in site.posts limit: 10 %}
+            <li>
+                <a title="{{ page.title | xml_escape }}" href="{{ page.url | xml_escape }}">{{ page.title }}</a>
+                   {% if page.publisher %} for
+                       <cite>{% if page.relation %}<a rel="external" title="Article on {{ page.publisher | xml_escape }}" href="{{ page.relation | xml_escape }}">{% endif %}{{ page.publisher }}{% if page.relation %}</a>{% endif %}</cite>
+                   {% endif %}
+            </li>
+        {% endfor %}
+    </ul>
 </aside>
 
