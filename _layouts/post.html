@@ -5,12 +5,8 @@ layout: default
     <header>
 	<h1> 
 		<a rel="bookmark" title="{{ page.title | xml_escape }}" href="{{ page.url }}">{{ page.title }}</a>
-	</h1>{% if page.publisher %} for
-	<cite>
-		{% if page.relation %}<a rel="external" href="{{ page.relation | xml_escape }}">{% endif %}
-			{{ page.publisher }}
-		{% if page.relation %}</a>{% endif %}
-	</cite>
+	</h1>{% if page.publisher %} for 
+	<cite>{% if page.relation %}<a rel="external" href="{{ page.relation | xml_escape }}">{% endif %}{{ page.publisher }}{% if page.relation %}</a>{% endif %}</cite>
 	{% endif %}
     </header>
 	{% if page.cdn-image %}
