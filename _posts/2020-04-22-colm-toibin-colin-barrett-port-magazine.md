@@ -3,6 +3,7 @@ title: "Handing it Down: Colm Tóibín and Colin Barrett"
 publisher: Port Magazine
 publisher_issue: 26
 cdn-image: ellius-colm-colin
+image_caption: "Photo by Ellius Grace"
 image_link: https://www.port-magazine.com/issue-26/port-issue-26/
 image_alt: Colm Tóibín and Colin Barrett stand side by side.
 relation: https://www.port-magazine.com/issue-26/port-issue-26/
