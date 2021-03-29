@@ -57,10 +57,12 @@ iframe {
 }
 
 hr {
-    margin: 0;
-    border:none;
-    height:0.09em;
-    background-color: var(--secondary-colour);
+    border: none;
+    color: inherit;
+}
+
+hr::before {
+    content: "* * *";
 }
 
 button {
