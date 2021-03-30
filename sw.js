@@ -7,6 +7,7 @@ var CACHE_FILES = [
     '/404',
     '/offline',
     '/about',
+    'favicon.ico',
     'favicon-32x32.png',
     'apple-touch-icon.png',
     '512.png',
