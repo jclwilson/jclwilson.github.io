@@ -30,7 +30,10 @@ layout: null
 			{% if post.category %}<category term="{{ post.category | xml_escape }}"/>{% endif %}
 			<content type="html">
 				{{ post.content | xml_escape }}
-				{% if post.relation %}<p><a href="{{ post.relation }}" rel="related" title="{{ post.title | xml_escape }} was published by {{ post.publisher | xml_escape }}">{{ post.title | xml_escape }} was published by {{ post.publisher | xml_escape }}</a></p>{% endif %}
+                {% capture var_credit %}
+                    {% include rss-credit.html %}
+                {% endcapture %}
+                {{ var_credit | xml_escape }}
 			</content>
 			{% if post.relation %}<link href="{{ post.relation }}" rel="related" title="{{ post.title | xml_escape }} was published by {{ post.publisher | xml_escape }}"/>{% endif %}
 			<link href="{{ site.url }}{{ post.url }}" rel="alternate" title="{{ post.title | xml_escape }}"/>
