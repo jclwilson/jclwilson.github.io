@@ -23,7 +23,7 @@ layout: default
 		</figure>
 	{% endif %}
         {{ content }}
-		{% if page.publisher %}<p>{% if page.relation %}<a rel="external" href="{{ page.relation }}" title="{{ page.title | xml_escape }}">{% endif %}<cite>{{ page.title }}</cite>{% if page.relation %}</a>{% endif %} is published {% if page.publisher_issue %} in {{ page.publisher_issue }} of {% else %} by {% endif %}{% if page.relation %}<a rel="external" href="{{ page.relation }}" title="{{ page.title | xml_escape }}">{% endif %}<cite>{{ page.publisher }}</cite>{% if page.relation %}</a>{% endif %}.</p>{% endif %}
+        {% if page.publisher %}<p>{% if page.relation %}<a rel="external" href="{{ page.relation }}" title="{{ page.title | xml_escape }}">{% endif %}<cite>{{ page.title }}</cite>{% if page.relation %}</a>{% endif %} is published {% if page.publisher_issue %} in {{ page.publisher_issue }} of {% else %} by {% endif %}{% if page.relation %}<a rel="external" href="{{ page.relation }}" title="{{ page.title | xml_escape }}">{% endif %}<cite>{{ page.publisher }}</cite>{% if page.relation %}</a>{% endif %}.</p>{% endif %}
     {% if page.date %}
         <footer>
             <time datetime="{{ page.date | date_to_xmlschema }}">
