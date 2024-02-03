@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<article> 
+    <header>
+        <h2> 
+            <a rel="bookmark" title="{{ page.title | xml_escape }}" href="{{ page.url }}">{{ page.title }}</a>
+            {% if page.publisher %} for <cite>{{ page.publisher }}</cite>{% endif %}
+        </h2>
+    </header>
+    {% if page.cdn-image %}
+        <figure>
+            {% if page.image_link %}<a href="{{ page.image_link | xml_escape }}">{% endif %}
+                <picture>
+                    <source type="image/webp" srcset="{{ site.cdn_url | xml_escape }}img/webp/{{ page.cdn-image }}.webp" />
+                    <img src="{{ site.cdn_url | xml_escape }}img/jpg/{{ page.cdn-image }}.jpg" alt="{{ page.image_alt | xml_escape }}" />
+                </picture>
+            {% if page.image_link %}</a>{% endif %}
+            {% if page.image_caption %}
+                <figcaption>{{ page.image_caption }}</figcaption>
+            {% endif %}
+		</figure>
+	{% endif %}
+    {{ content }}
+    {% if page.publisher %}<p>{% if page.relation %}<a rel="external" href="{{ page.relation }}" title="{{ page.title | xml_escape }}">{% endif %}{{ page.title }}{% if page.relation %}</a>{% endif %} is published {% if page.publisher_issue %} in {{ page.publisher_issue }} of {% else %} by {% endif %}<cite>{{ page.publisher }}</cite>.</p>{% endif %}
+    {% if page.date %}
+        <footer>
+            <time datetime="{{ page.date | date_to_xmlschema }}">
+                <a rel="bookmark" title="{{ page.title | xml_escape }}" href="{{ page.url }}">{{ page.date | date_to_long_string }}</a>
+            </time>
+        </footer>
+    {% endif %}
+</article>

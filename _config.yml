@@ -1,0 +1,33 @@
+title: Jacob Charles Wilson
+description: Cultural copywriter and critic of art, photography, graphic design, and magazines.
+url: https://jacobcharleswilson.com
+author:
+    name: Jacob Charles Wilson
+    email: hello@jacobcharleswilson.com
+    instagram: jcbchrlswlsn
+social:
+  name: Jacob Charles Wilson
+  links:
+    - https://www.instagram.com/jcbchrlswlsn
+lang: en_GB
+permalink: ":title:output_ext"
+markdown: kramdown
+
+kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+
+cdn_url: https://jacobcharleswilson.com/
+
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+
+# Default Post Front Matter
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: post
+      author: Jacob Charles Wilson # An entity primarily responsible for making the resource.
+      language: English # A language of the resource.

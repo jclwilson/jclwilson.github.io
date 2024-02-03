@@ -1,0 +1,123 @@
+:root {
+    --primary-colour: white;
+    --secondary-colour: black;
+    --tertiary-colour: blue;
+}
+
+/*
+@media (prefers-color-scheme: dark) {
+    :root {
+        --primary-colour: black;
+        --secondary-colour: white;
+        --tertiary-colour: white;
+    }
+}
+*/
+
+body {
+    font-family: "Times New Roman", serif;
+    font-size: 1.2em;
+    margin:0;
+    padding:1em;
+    background-color: var(--primary-colour);
+    color: var(--secondary-colour);
+}
+
+a {
+    color: var(--tertiary-colour);
+}
+
+h1, h2, h3, p, ul {
+    font-size:inherit;
+    font-weight:normal;
+    margin: 0;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+img, time, iframe {
+    display:block;
+}
+
+img {
+    width: 100%;
+    filter: grayscale(1);
+}
+
+iframe {
+    margin: 0 auto;
+    max-width:100%;
+}
+
+blockquote, q {
+    quotes: "\0027" "\0027" "\0022" "\0022";
+}
+
+blockquote p:before {
+    content: open-quote;
+}
+
+blockquote p:after {
+    content: close-quote;
+}
+
+hr {
+    border: none;
+    color: inherit;
+}
+
+hr::before {
+    content: "* * *";
+}
+
+header, article, main ul li, figure, p, iframe {
+    margin-bottom: 1em;
+}
+
+@media screen and (min-width:60em) {
+    body {
+        font-size: 1.5em;
+    }
+    header * {
+        display:inline;
+    }
+    header :not(:last-child):after {
+        content: " - ";
+    }
+}
+
+@media print {
+    body {
+        background: none;
+    }
+
+    img {
+        width: 33%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    article p a:after {
+        content:" [" attr(href) "] ";
+    }
+    
+    .no-print {
+        display: none;
+    }
+}
+
+:focus, a:hover, button:hover, ::selection {
+    color: var(--primary-colour);
+    background-color: var(--tertiary-colour);
+}
+
+.no-show {
+    display:none;
+}

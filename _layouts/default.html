@@ -1,0 +1,25 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en-gb">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        {% seo %}
+        <link rel="icon" sizes="any" href="/favicon.ico">
+        <link type="application/atom+xml" rel="alternate" href="https://jacobcharleswilson.com/feed.xml" title="Jacob Charles Wilson - Atom Feed">
+        <style>{% include main.css %}</style>
+	</head>
+	<body>
+		<header>
+			<h1><a href="{{ site.url }}">Jacob Charles Wilson</a></h1>
+			<ul>
+				<li><a rel="author" title="{{ site.author.email | xml_escape }}" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+				<li><a rel="external" title="{{ site.author.instagram | xml_escape }}" href="https://www.instagram.com/{{ site.author.instagram }}">{{ site.author.instagram | prepend: '@' }}</a></li>
+			</ul>
+		</header>
+		<main>
+			{{ content }}
+		</main>
+	</body>
+</html>

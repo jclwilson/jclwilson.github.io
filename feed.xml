@@ -1,0 +1,39 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>{{ site.url }}/</id>
+	<title>{{ site.title }} - Atom Feed</title>
+	<subtitle>{{ site.description }}</subtitle>
+	<link href="{{ site.url }}"/>
+	<link href="{{ site.url }}/{{ page.path }}" rel="self"/>
+	<updated>{{ site.time | date_to_xmlschema }}</updated>
+	<author>
+		<name>{{ site.author.name }}</name>
+		<email>{{ site.author.email }}</email>
+		<uri>{{ site.url }}</uri>
+	</author>
+	<category term="Art"/>
+	<category term="Writing"/>
+	<category term="Blogging"/>
+	{% assign feed_items = site.feed_items %}
+	{% for post in site.posts limit: 10 %}
+		<entry>
+			<id>{{ site.url }}{{ post.url }}</id>
+			<title>{{ post.title | xml_escape }}</title>
+			<updated>{{ post.date | date_to_xmlschema }}</updated>
+            <published>{{ post.date | date_to_xmlschema }}</published>
+			{% if post.category %}<category term="{{ post.category | xml_escape }}"/>{% endif %}
+			<content type="html">
+				{{ post.content | xml_escape }}
+                {% capture var_credit %}
+                    {% include rss-credit.html %}
+                {% endcapture %}
+                {{ var_credit | xml_escape }}
+			</content>
+			{% if post.relation %}<link href="{{ post.relation }}" rel="related" title="{{ post.title | xml_escape }} was published by {{ post.publisher | xml_escape }}"/>{% endif %}
+			<link href="{{ site.url }}{{ post.url }}" rel="alternate" title="{{ post.title | xml_escape }}"/>
+		</entry>
+	{% endfor %}
+</feed>
