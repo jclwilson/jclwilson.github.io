@@ -1,0 +1,7 @@
+_site
+_archive
+_drafts
+deploy-blog.sh
+.jekyll-metadata
+.jekyll-cache
+.sass-cache
