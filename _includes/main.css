@@ -1,22 +1,12 @@
 :root {
-    --primary-colour: white;
-    --secondary-colour: black;
-    --tertiary-colour: blue;
+    --primary-colour: blue;
+    --secondary-colour: white;
+    --tertiary-colour: white;
 }
-
-/*
-@media (prefers-color-scheme: dark) {
-    :root {
-        --primary-colour: black;
-        --secondary-colour: white;
-        --tertiary-colour: white;
-    }
-}
-*/
 
 body {
-    font-family: "Times New Roman", serif;
-    font-size: 1.2em;
+    font-family: "IBM Plex Mono", hack, monospace, monospace;
+    font-size: 2em;
     margin:0;
     padding:1em;
     background-color: var(--primary-colour);
@@ -77,15 +67,19 @@ header, article, main ul li, figure, p, iframe {
     margin-bottom: 1em;
 }
 
+#cursor {
+    display: inline-block;
+    background-color: var(--secondary-colour);
+    color: var(--primary-colour);
+    animation: blinker 1s step-start infinite;
+}
+
 @media screen and (min-width:60em) {
-    body {
-        font-size: 1.5em;
-    }
     header * {
         display:inline;
     }
     header :not(:last-child):after {
-        content: " - ";
+        content: " / ";
     }
 }
 
@@ -120,4 +114,11 @@ header, article, main ul li, figure, p, iframe {
 
 .no-show {
     display:none;
+}
+
+@keyframes blinker {
+  50% {
+    color: var(--secondary-colour);
+    background-color: var(--primary-colour);
+  }
 }

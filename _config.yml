@@ -5,10 +5,14 @@ author:
     name: Jacob Charles Wilson
     email: hello@jacobcharleswilson.com
     instagram: jcbchrlswlsn
+    github: jclwilson
+    linkedin: jacobcharleswilson
 social:
   name: Jacob Charles Wilson
   links:
     - https://www.instagram.com/jcbchrlswlsn
+    - https://github.com/jclwilson
+    - https://www.linkedin.com/jacobcharleswilson
 lang: en_GB
 permalink: ":title:output_ext"
 markdown: kramdown
