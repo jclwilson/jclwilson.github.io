@@ -6,12 +6,24 @@
 
 body {
     font-family: "IBM Plex Mono", hack, monospace, monospace;
-    font-size: 2em;
+    font-size: 1.7em;
     margin:0;
     padding:1em;
     background-color: var(--primary-colour);
     color: var(--secondary-colour);
+    display: flex;
+    flex-direction: column;
 }
+
+header {
+    order: -1
+}
+
+main {
+    order: 1
+}
+
+nav {order: 2}
 
 a {
     color: var(--tertiary-colour);
@@ -21,11 +33,6 @@ h1, h2, h3, p, ul {
     font-size:inherit;
     font-weight:normal;
     margin: 0;
-}
-
-ul {
-    padding: 0;
-    list-style-type: none;
 }
 
 img, time, iframe {
@@ -75,10 +82,24 @@ header, article, main ul li, figure, p, iframe {
 }
 
 @media screen and (min-width:60em) {
-    header * {
+    body {
+        display: block;
+    }
+
+    header, h1, nav, ul, li {
         display:inline;
     }
-    header :not(:last-child):after {
+
+    nav ul {
+        padding: 0;
+        list-style-type: none;
+    }
+
+    main {
+        margin-top: 1em;
+    }
+
+    header:after, nav li:not(:last-child):after {
         content: " / ";
     }
 }
